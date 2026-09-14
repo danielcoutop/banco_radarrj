@@ -250,7 +250,7 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
         description="Converte os HTMLs de matérias (pasta diarios/) em um CSV."
     )
     parser.add_argument(
-        "-i", "--input", type=Path, default=Path("materias_"),
+        "-i", "--input", type=Path, default=Path("materias"),
         help="Pasta com os arquivos .html (padrão: diarios)",
     )
     parser.add_argument(

@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Config do VSCode: mantém só o apontamento do interpretador
+.vscode/*
+!.vscode/settings.json
+
+# Dados grandes (GitHub recusa arquivos > 100 MB)
+radarrj_ato_limpo.csv
