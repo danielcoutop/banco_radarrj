@@ -255,15 +255,56 @@ def _resolver_secretaria(texto_norm, offset_gab, secao):
 # =================================================== deteccao do "1. Gabinete"
 
 PADRAO_GABINETE = re.compile(
-    r"(?<!\d)1\s*[.)\-–]\s*gabinete\s+d[oe]s?\s*secretari[oa]",
+    r"(?<!\d)1\s*[.)\-–]\s*gabinete\s+d[aoe]s?\s*secretari[oa]",
     flags=re.IGNORECASE,
 )
 
+# sem "1. Gabinete do/da Secretário/a", o item 1 pode ser a própria secretaria ou a
+# presidência, desde que venha seguido do resto do organograma:
+#   "1 - Secretaria de Estado de Polícia Militar   1.1 - Chefia de Gabinete"
+#   "1 . PRESIDÊNCIA   1.1. Chefia de Gabinete da Presidência" / "1. Presidência   2. Diretoria"
+_RX_RAIZ_SECRETARIA = re.compile(
+    r"(?<![\d.])1\s*[.)\-–]\s*(secretaria\s+(?:de\s+estado|extraordinaria)\b[^\n]{3,150}?)"
+    r"\s*[:;.\-–]?\s*(?=1\s*\.\s*1(?:\s*\.\s*\d+)*\s*[.)\-–]?\s*[A-Za-z])",
+    flags=re.IGNORECASE,
+)
+_RX_RAIZ_PRESIDENCIA = re.compile(
+    r"(?<![\d.])1\s*[.)\-–]\s*presidencia\s*[:;.\-–]?\s*"
+    r"(?=(?:1\s*\.\s*1|2)(?!\d)(?:\s*\.\s*\d+)*\s*[.)\-–]?\s*[A-Za-z])",
+    flags=re.IGNORECASE,
+)
+# nome que o item 1 (raiz da árvore) precisa ter, conforme o tipo de início achado
+_RX_NOME_RAIZ = {
+    "gabinete": re.compile(r"gabinete\s+d[aoe]s?\s*secretari[oa]|gabinete\s+secretaria", re.I),
+    "secretaria": re.compile(r"^secretaria\b", re.I),
+    "presidencia": re.compile(r"^presidencia\b", re.I),
+}
+
+
+def procurar_inicio_organograma(texto):
+    """(offset, tipo) do item 1 do organograma; (None, None) se não achar.
+    tipo 'secretaria' só vale se o nome estiver na lista SECRETARIAS
+    (usa corresponder, da normalização da coluna secao)."""
+    texto = normalizar_texto(texto)
+    raiz_secretaria = next(
+        (s for s in _RX_RAIZ_SECRETARIA.finditer(texto) if corresponder(s.group(1))[0] is not None), None
+    )
+    m = PADRAO_GABINETE.search(texto)
+    if m:
+        # "1. Secretaria de Estado de X   1.1. Gabinete do Secretário": o gabinete é o 1.1
+        if raiz_secretaria and 0 <= m.start() - raiz_secretaria.end() <= 6:
+            return raiz_secretaria.start(), "secretaria"
+        return m.start(), "gabinete"
+    if raiz_secretaria:
+        return raiz_secretaria.start(), "secretaria"
+    m = _RX_RAIZ_PRESIDENCIA.search(texto)
+    if m:
+        return m.start(), "presidencia"
+    return None, None
+
 
 def procurar_inicio_gabinete(texto):
-    texto = normalizar_texto(texto)
-    m = PADRAO_GABINETE.search(texto)
-    return (m.start() if m else None)
+    return procurar_inicio_organograma(texto)[0]
 
 
 # ================================================ seções de nível 1 (listas)
@@ -674,7 +715,7 @@ _RX_LINHA_TABELA = re.compile(
 def extrair_estrutura_organizacao(texto, secao=None):
     vazio_listas = {c: [] for c in _CAT_NOMES}
     texto_norm = normalizar_texto(texto)
-    offset = procurar_inicio_gabinete(texto)
+    offset, tipo_raiz = procurar_inicio_organograma(texto)
 
     secretaria = _resolver_secretaria(texto_norm, offset, secao)
     if offset is None:
@@ -708,15 +749,23 @@ def extrair_estrutura_organizacao(texto, secao=None):
     arvore, ordem, pai_de = _montar_arvore(entidades)
 
     raiz = ordem[0]
-    if not re.search(
-        r"gabinete\s+d[oe]s?\s*secretari[oa]|gabinete\s+secretaria",
-        entidades[raiz]["nome"].lower(),
-    ):
+    if not _RX_NOME_RAIZ[tipo_raiz].search(entidades[raiz]["nome"]):
         return {"raiz": None, "secretaria": secretaria, "arvore": [], **listas}
 
     # nós (em qualquer nível) que na verdade são "Entes Vinculados /
     # Colegiados / ..." -> movem os descendentes para a lista de nível 1
     arvore_final = _podar_categorias(arvore, listas)
+
+    # item 1 = "Secretaria de Estado de X": a secretaria fica só no campo "secretaria"
+    # e a árvore começa nos filhos dela (1.1, 1.2, ...)
+    if tipo_raiz == "secretaria" and arvore_final and arvore_final[0]["indice"] == raiz:
+        no_secretaria = arvore_final.pop(0)
+        arvore_final = no_secretaria["filhos"] + arvore_final
+        if secretaria is None:
+            secretaria = (corresponder(no_secretaria["nome"])[0] or no_secretaria["nome"]).upper()
+        if not arvore_final:
+            return {"raiz": None, "secretaria": secretaria, "arvore": [], **listas}
+        raiz = arvore_final[0]["indice"]
 
     return {"raiz": raiz, "secretaria": secretaria, "arvore": arvore_final, **listas}
 
@@ -758,9 +807,12 @@ def corresponder(parte):
     #    PROVIDÊNCIAS", "1 - ÓRGÃOS..."): compara só o começo do valor. Em empate,
     #    fica o nome mais longo ('Saúde e Defesa Civil' antes de 'Saúde').
     nota, _, secretaria = max(
-        (similaridade(k[: len(kc)], kc), len(kc), s)
-        for kc, s in CHAVES.items()
-        if len(k) > len(kc)
+        (
+            (similaridade(k[: len(kc)], kc), len(kc), s)
+            for kc, s in CHAVES.items()
+            if len(k) > len(kc)
+        ),
+        default=(0.0, 0, None),   # nome mais curto que todos os da lista
     )
     if nota >= LIMIAR_SIMILARIDADE:
         return secretaria, nota, "texto extra no final"
@@ -835,6 +887,9 @@ def _pct_lacunas(estrutura):
     if not indices:
         return 0.0
     existentes = set(indices)
+    # raiz fora da árvore (secretaria como item 1, árvore começa em "1.1"): o pai "1" existe
+    raiz = estrutura["raiz"] or ""
+    existentes.update(".".join(raiz.split(".")[:k]) for k in range(1, raiz.count(".") + 1))
     lacunas = 0
     for indice in indices:
         partes = indice.split(".")
@@ -861,7 +916,8 @@ def classificar_ato(texto, estrutura, maior_da_secretaria=None):
         "tamanho_relativo": bool(maior_da_secretaria) and itens / maior_da_secretaria < LIMITE_TAMANHO_RELATIVO,
         "texto_de_alteracao": bool(_RX_TEXTO_ALTERACAO.search(texto_norm[max(0, offset - 400):offset])),
         "lacunas_numeracao": _pct_lacunas(estrutura) >= LIMITE_LACUNAS,
-        "gabinete_sem_filhos": not estrutura["arvore"][0]["filhos"],
+        # só quando o item 1 está na árvore (raiz "1.1" = secretaria removida, que tinha filhos)
+        "gabinete_sem_filhos": "." not in estrutura["raiz"] and not estrutura["arvore"][0]["filhos"],
         "consolida": bool(_RX_CONSOLIDA.search(texto_norm)),
     }
     pontuacao = sum(PESOS_ALTERACAO[s] for s, ativo in sinais.items() if ativo)
