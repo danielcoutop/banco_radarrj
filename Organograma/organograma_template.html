@@ -1,0 +1,1246 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Organogramas das Secretarias</title>
+<style>
+  :root {
+    --navy-950: #051533;
+    --navy-900: #0a1f44;
+    --navy-800: #0e2b5e;
+    --azul-700: #1646a0;
+    --azul-600: #1f5bd0;
+    --azul-500: #3a78ea;
+    --azul-300: #9dbdf4;
+    --azul-200: #c9daf8;
+    --azul-100: #e4edfc;
+    --azul-50: #f2f6fe;
+    --tinta: #0b1324;
+    --tinta-2: #4a5a78;
+    --linha: #d7e2f5;
+    --fonte: system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  }
+  * { box-sizing: border-box; }
+  html, body { height: 100%; margin: 0; }
+  body { font: 14px/1.4 var(--fonte); color: var(--tinta); background: #fff; overflow: hidden; }
+  button, input { font: inherit; }
+  [hidden] { display: none !important; }
+  .app { display: flex; flex-direction: column; height: 100vh; height: 100dvh; }
+
+  /* ---------------------------------------------------------------- abas */
+  .barra-abas {
+    display: flex; align-items: flex-end; gap: 10px;
+    padding: 10px 16px 0;
+    background: linear-gradient(180deg, var(--navy-950), var(--navy-900));
+  }
+  .marca { display: flex; align-items: center; gap: 10px; color: #fff; padding-bottom: 10px; flex-shrink: 0; }
+  .marca-icone {
+    width: 34px; height: 34px; border-radius: 9px; display: grid; place-items: center;
+    background: linear-gradient(135deg, var(--azul-500), var(--azul-700));
+    box-shadow: inset 0 0 0 1px rgba(255,255,255,.2);
+  }
+  .marca strong { display: block; font-size: 14px; letter-spacing: .02em; }
+  .marca small { display: block; font-size: 11px; color: var(--azul-300); }
+  .filtro-abas { padding-bottom: 10px; flex-shrink: 0; position: relative; }
+  .filtro-abas svg { position: absolute; left: 9px; top: 9px; pointer-events: none; }
+  .filtro-abas input {
+    width: 210px; padding: 7px 44px 7px 30px; border-radius: 8px; font-size: 13px; color: #fff;
+    background: rgba(255,255,255,.08); border: 1px solid rgba(255,255,255,.16); outline: none;
+  }
+  .filtro-abas input:focus { border-color: var(--azul-500); background: rgba(255,255,255,.12); }
+  .filtro-abas input::placeholder { color: rgba(255,255,255,.5); }
+  .contador-abas { position: absolute; right: 9px; top: 9px; font-size: 11px; color: var(--azul-300); pointer-events: none; }
+  .rolar {
+    flex-shrink: 0; align-self: center; margin-bottom: 10px; width: 28px; height: 28px; border-radius: 50%;
+    border: 1px solid rgba(255,255,255,.18); background: rgba(255,255,255,.06); color: #fff; cursor: pointer;
+    display: grid; place-items: center;
+  }
+  .rolar:hover { background: rgba(255,255,255,.16); }
+  .abas { flex: 1; min-width: 0; display: flex; gap: 4px; overflow-x: auto; scrollbar-width: none; scroll-behavior: smooth; }
+  .abas::-webkit-scrollbar { display: none; }
+  .aba {
+    position: relative; flex-shrink: 0; max-width: 210px; padding: 8px 14px 9px; text-align: left; cursor: pointer;
+    border: 0; border-radius: 10px 10px 0 0; background: rgba(255,255,255,.06); color: rgba(255,255,255,.8);
+    transition: background .15s, color .15s;
+  }
+  .aba:hover { background: rgba(255,255,255,.14); color: #fff; }
+  .aba-id { display: block; font-size: 10.5px; letter-spacing: .08em; text-transform: uppercase; color: var(--azul-300); font-variant-numeric: tabular-nums; }
+  .aba-nome { display: block; font-size: 12.5px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .aba[aria-selected="true"] { background: #fff; color: var(--navy-900); }
+  .aba[aria-selected="true"] .aba-id { color: var(--azul-600); }
+  .aba[aria-selected="true"]::before {
+    content: ""; position: absolute; left: 10px; right: 10px; top: 0; height: 3px;
+    border-radius: 0 0 3px 3px; background: var(--azul-500);
+  }
+  .aba.vazia .aba-nome::after { content: " ∅"; color: var(--azul-300); }
+
+  /* ---------------------------------------------------------- cabeçalho */
+  .cabecalho {
+    text-align: center; padding: 16px 16px 14px; border-bottom: 1px solid var(--linha);
+    background:
+      radial-gradient(ellipse 60% 120% at 50% 0%, var(--azul-100), transparent 70%),
+      repeating-linear-gradient(135deg, rgba(31,91,208,.035) 0 2px, transparent 2px 14px),
+      #fff;
+  }
+  .sobrelinha {
+    display: flex; align-items: center; justify-content: center; gap: 12px;
+    font-size: 11px; font-weight: 700; letter-spacing: .14em; text-transform: uppercase; color: var(--azul-600);
+  }
+  .sobrelinha::before, .sobrelinha::after { content: ""; width: 42px; height: 1px; background: var(--azul-300); }
+  .cabecalho h1 {
+    max-width: 1100px; margin: 6px auto 10px; line-height: 1.2;
+    font-size: clamp(18px, 2.3vw, 28px); font-weight: 800; letter-spacing: .03em; color: var(--navy-900);
+  }
+  .cabecalho h1 .outra { display: block; margin-top: 4px; font-size: .6em; font-weight: 700; color: var(--azul-700); }
+  .chips { display: flex; justify-content: center; flex-wrap: wrap; gap: 8px; }
+  .chip {
+    display: inline-flex; align-items: baseline; gap: 5px; padding: 4px 11px; border-radius: 999px;
+    background: #fff; border: 1px solid var(--azul-200); color: var(--tinta-2); font-size: 12px;
+  }
+  .chip b { color: var(--navy-800); font-size: 13px; font-variant-numeric: tabular-nums; }
+
+  /* -------------------------------------------------------- ferramentas */
+  .ferramentas {
+    display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px 14px;
+    padding: 10px 16px; background: #fff; border-bottom: 1px solid var(--linha);
+  }
+  .segmentos {
+    display: flex; gap: 4px; padding: 4px; max-width: 100%; overflow-x: auto;
+    background: var(--azul-50); border: 1px solid var(--linha); border-radius: 12px;
+  }
+  .segmento {
+    display: flex; align-items: center; gap: 8px; padding: 7px 12px; white-space: nowrap; cursor: pointer;
+    border: 0; border-radius: 9px; background: transparent; color: var(--tinta-2); font-size: 13px; font-weight: 600;
+  }
+  .segmento:hover:not(:disabled) { background: var(--azul-100); color: var(--navy-800); }
+  .segmento b {
+    min-width: 22px; padding: 1px 7px; border-radius: 999px; text-align: center; font-size: 11.5px;
+    background: var(--azul-200); color: var(--navy-800); font-variant-numeric: tabular-nums;
+  }
+  .segmento[aria-selected="true"] {
+    background: linear-gradient(180deg, var(--azul-600), var(--azul-700)); color: #fff;
+    box-shadow: 0 2px 8px rgba(31,91,208,.35);
+  }
+  .segmento[aria-selected="true"] b { background: rgba(255,255,255,.22); color: #fff; }
+  .segmento:disabled { opacity: .45; cursor: not-allowed; }
+  .acoes { display: flex; align-items: center; flex-wrap: wrap; gap: 8px; }
+  .busca {
+    position: relative; display: flex; align-items: center; gap: 2px; padding: 3px 4px 3px 30px;
+    background: #fff; border: 1px solid var(--linha); border-radius: 10px;
+  }
+  .busca:focus-within { border-color: var(--azul-500); box-shadow: 0 0 0 3px rgba(58,120,234,.15); }
+  .busca > svg { position: absolute; left: 9px; top: 50%; transform: translateY(-50%); }
+  .busca input { width: 210px; border: 0; outline: none; padding: 4px 0; font-size: 13px; background: transparent; color: var(--tinta); }
+  .busca-info { min-width: 38px; text-align: right; font-size: 11.5px; color: var(--tinta-2); font-variant-numeric: tabular-nums; }
+  .busca button {
+    width: 26px; height: 26px; border: 0; border-radius: 7px; background: transparent; color: var(--azul-700);
+    cursor: pointer; display: grid; place-items: center;
+  }
+  .busca button:hover { background: var(--azul-100); }
+  .btn {
+    display: inline-flex; align-items: center; gap: 6px; padding: 7px 12px; cursor: pointer;
+    border: 1px solid var(--linha); border-radius: 9px; background: #fff; color: var(--navy-800); font-size: 13px; font-weight: 600;
+  }
+  .btn:hover { background: var(--azul-50); border-color: var(--azul-300); }
+
+  /* -------------------------------------------------------------- palco */
+  .palco {
+    position: relative; flex: 1; min-height: 0; overflow: hidden; cursor: grab; touch-action: none;
+    background-color: #f6f9ff;
+    background-image: radial-gradient(circle, #c6d6f2 1.1px, transparent 1.3px);
+    background-size: 28px 28px;
+  }
+  .palco.arrastando { cursor: grabbing; }
+  #svg { position: absolute; inset: 0; width: 100%; height: 100%; display: block; user-select: none; -webkit-user-select: none; }
+  .zoom {
+    position: absolute; right: 16px; bottom: 16px; display: flex; flex-direction: column; overflow: hidden;
+    background: #fff; border: 1px solid var(--linha); border-radius: 12px; box-shadow: 0 8px 24px rgba(10,31,68,.12);
+  }
+  .zoom button { width: 40px; height: 38px; border: 0; background: #fff; color: var(--navy-800); cursor: pointer; display: grid; place-items: center; }
+  .zoom button:hover { background: var(--azul-50); color: var(--azul-600); }
+  .zoom > * + * { border-top: 1px solid var(--linha) !important; }
+  .zoom .nivel { padding: 6px 0; text-align: center; font-size: 11px; font-weight: 700; color: var(--azul-700); font-variant-numeric: tabular-nums; }
+  .minimapa {
+    position: absolute; left: 16px; bottom: 16px; padding: 6px;
+    background: rgba(255,255,255,.94); border: 1px solid var(--linha); border-radius: 12px; box-shadow: 0 8px 24px rgba(10,31,68,.12);
+  }
+  .minimapa canvas { display: block; width: 210px; height: 136px; cursor: crosshair; border-radius: 7px; }
+  .legenda {
+    position: absolute; left: 16px; top: 14px; display: flex; flex-wrap: wrap; gap: 6px 14px; padding: 7px 12px;
+    background: rgba(255,255,255,.92); border: 1px solid var(--linha); border-radius: 10px; font-size: 12px; color: var(--tinta-2);
+  }
+  .legenda span { display: inline-flex; align-items: center; gap: 6px; }
+  .legenda i {
+    width: 22px; height: 15px; border-radius: 3px; border: 1px solid var(--azul-300);
+    background: linear-gradient(var(--azul-600) 0 34%, #fff 34%);
+  }
+  .legenda i.sem { background: #fff; }
+  .vazio { position: absolute; inset: 0; display: grid; place-items: center; padding: 24px; text-align: center; color: var(--tinta-2); pointer-events: none; }
+  .vazio strong { display: block; margin: 12px 0 4px; font-size: 16px; color: var(--navy-800); }
+  .dica {
+    position: fixed; z-index: 20; max-width: 330px; padding: 10px 12px; pointer-events: none;
+    border-radius: 10px; background: var(--navy-900); color: #fff; font-size: 12.5px;
+    box-shadow: 0 12px 32px rgba(5,21,51,.35);
+  }
+  .dica-sigla { display: inline-block; margin-bottom: 5px; padding: 1px 8px; border-radius: 5px; background: var(--azul-600); font-weight: 700; letter-spacing: .04em; }
+  .dica-sigla.sem { background: rgba(255,255,255,.12); font-weight: 500; }
+  .dica-nome { font-size: 13.5px; font-weight: 600; line-height: 1.3; }
+  .dica-meta { margin-top: 6px; color: var(--azul-300); font-size: 11.5px; }
+
+  @media (max-width: 760px) {
+    .marca, .legenda, .rolar { display: none; }
+    .filtro-abas input { width: 150px; }
+    .minimapa canvas { width: 150px; height: 100px; }
+  }
+  @media (max-width: 520px) {
+    .minimapa, .contador-abas { display: none; }
+    .filtro-abas input { width: 120px; padding-right: 10px; }
+    .busca input { width: 130px; }
+    .btn .rotulo { display: none; }
+  }
+</style>
+</head>
+<body>
+<div class="app">
+  <nav class="barra-abas" aria-label="Estruturas">
+    <div class="marca">
+      <div class="marca-icone">
+        <svg width="18" height="18" viewBox="0 0 18 18" fill="none" stroke="#fff" stroke-width="1.6">
+          <rect x="6" y="1.5" width="6" height="4" rx="1"/><rect x="1" y="12.5" width="6" height="4" rx="1"/><rect x="11" y="12.5" width="6" height="4" rx="1"/>
+          <path d="M9 5.5V9M4 12.5V9H14V12.5"/>
+        </svg>
+      </div>
+      <div><strong>Organogramas</strong><small>Estruturas dos diários oficiais</small></div>
+    </div>
+    <div class="filtro-abas">
+      <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="#9dbdf4" stroke-width="1.8"><circle cx="7" cy="7" r="5"/><path d="M11 11l3.5 3.5"/></svg>
+      <input id="filtroAbas" type="search" placeholder="Filtrar ID ou secretaria" autocomplete="off">
+      <span class="contador-abas" id="contadorAbas"></span>
+    </div>
+    <button class="rolar" id="abasEsq" title="Rolar abas para a esquerda" aria-label="Rolar abas para a esquerda">
+      <svg width="10" height="10" viewBox="0 0 10 10" fill="none" stroke="currentColor" stroke-width="2"><path d="M6.5 1.5L3 5l3.5 3.5"/></svg>
+    </button>
+    <div class="abas" id="abas" role="tablist"></div>
+    <button class="rolar" id="abasDir" title="Rolar abas para a direita" aria-label="Rolar abas para a direita">
+      <svg width="10" height="10" viewBox="0 0 10 10" fill="none" stroke="currentColor" stroke-width="2"><path d="M3.5 1.5L7 5 3.5 8.5"/></svg>
+    </button>
+  </nav>
+
+  <header class="cabecalho">
+    <div class="sobrelinha" id="sobrelinha"></div>
+    <h1 id="titulo"></h1>
+    <div class="chips" id="chips"></div>
+  </header>
+
+  <div class="ferramentas">
+    <div class="segmentos" id="segmentos" role="tablist"></div>
+    <div class="acoes">
+      <div class="busca">
+        <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="#4a5a78" stroke-width="1.8"><circle cx="7" cy="7" r="5"/><path d="M11 11l3.5 3.5"/></svg>
+        <input id="busca" type="search" placeholder="Localizar unidade ou sigla" autocomplete="off">
+        <span class="busca-info" id="buscaInfo"></span>
+        <button id="buscaAnt" title="Resultado anterior" aria-label="Resultado anterior">
+          <svg width="10" height="10" viewBox="0 0 10 10" fill="none" stroke="currentColor" stroke-width="2"><path d="M1.5 6.5L5 3l3.5 3.5"/></svg>
+        </button>
+        <button id="buscaProx" title="Próximo resultado" aria-label="Próximo resultado">
+          <svg width="10" height="10" viewBox="0 0 10 10" fill="none" stroke="currentColor" stroke-width="2"><path d="M1.5 3.5L5 7l3.5-3.5"/></svg>
+        </button>
+      </div>
+      <button class="btn" id="btnExpandir" title="Expandir todos os nós">
+        <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7"><path d="M2 6V2h4M14 6V2h-4M2 10v4h4M14 10v4h-4"/></svg><span class="rotulo">Expandir</span>
+      </button>
+      <button class="btn" id="btnRecolher" title="Recolher até o primeiro nível">
+        <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7"><path d="M6 2v4H2M10 2v4h4M6 14v-4H2M10 14v-4h4"/></svg><span class="rotulo">Recolher</span>
+      </button>
+      <button class="btn" id="btnSvg" title="Baixar a árvore atual como SVG">
+        <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7"><path d="M8 2v8M4.5 6.5L8 10l3.5-3.5M2.5 13.5h11"/></svg><span class="rotulo">SVG</span>
+      </button>
+    </div>
+  </div>
+
+  <main class="palco" id="palco">
+    <svg id="svg" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <linearGradient id="gradFaixa" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0" stop-color="#2463d8"/><stop offset="1" stop-color="#1646a0"/>
+        </linearGradient>
+        <linearGradient id="gradRaiz" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0" stop-color="#0e2b5e"/><stop offset="1" stop-color="#051533"/>
+        </linearGradient>
+        <style>
+          text { font-family: system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
+          .arestas { fill: none; stroke: #7f9fd4; stroke-width: var(--traco, 1.6); stroke-linecap: square; }
+          .no .sombra { fill: rgba(10, 31, 68, 0.10); }
+          .no .corpo { fill: #ffffff; }
+          .no .faixa { fill: url(#gradFaixa); }
+          .no .borda { fill: none; stroke: #a9c1ea; stroke-width: 1.2; }
+          .no .anel { fill: none; stroke: none; }
+          .no:hover .borda { stroke: #3a78ea; stroke-width: 2; }
+          .no.achado .anel { stroke: #38bdf8; stroke-width: 6; stroke-opacity: 0.6; }
+          .no.atual .anel { stroke: #1f5bd0; stroke-width: 7; stroke-opacity: 0.9; }
+          .no .sigla { fill: #ffffff; font-weight: 700; letter-spacing: 0.03em; text-anchor: middle; dominant-baseline: central; }
+          .no .nome { fill: #0b1324; text-anchor: middle; dominant-baseline: central; }
+          .raiz .corpo-raiz { fill: url(#gradRaiz); }
+          .raiz .borda { stroke: #1646a0; }
+          .raiz .rotulo-raiz { fill: #9dbdf4; font-size: 11px; font-weight: 700; letter-spacing: 0.16em; text-anchor: middle; dominant-baseline: central; }
+          .raiz .traco { stroke: #3a78ea; stroke-width: 2; }
+          .raiz .nome-raiz { fill: #ffffff; font-weight: 700; text-anchor: middle; dominant-baseline: central; }
+          .alternar { cursor: pointer; }
+          .alternar circle { fill: #ffffff; stroke: #1f5bd0; stroke-width: 1.6; }
+          .alternar path { stroke: #1646a0; stroke-width: 1.8; }
+          .alternar:hover circle { fill: #1f5bd0; }
+          .alternar:hover path { stroke: #ffffff; }
+          .contagem rect { fill: #1f5bd0; }
+          .contagem text { fill: #ffffff; font-size: 10.5px; font-weight: 700; text-anchor: middle; dominant-baseline: central; }
+        </style>
+      </defs>
+      <g id="cena"></g>
+    </svg>
+
+    <div class="vazio" id="vazio" hidden>
+      <div>
+        <svg width="56" height="56" viewBox="0 0 56 56" fill="none" stroke="#9dbdf4" stroke-width="2">
+          <rect x="18" y="6" width="20" height="12" rx="3"/><rect x="4" y="38" width="20" height="12" rx="3" stroke-dasharray="4 3"/><rect x="32" y="38" width="20" height="12" rx="3" stroke-dasharray="4 3"/>
+          <path d="M28 18v10M14 38V28h28v10"/>
+        </svg>
+        <strong>Nenhuma unidade extraída</strong>
+        A extração não encontrou itens para esta estrutura.
+      </div>
+    </div>
+
+    <div class="legenda" id="legenda">
+      <span><i></i>Com sigla</span>
+      <span><i class="sem"></i>Sem sigla</span>
+      <span>Arraste para mover · roda do mouse para zoom</span>
+    </div>
+
+    <div class="minimapa" id="minimapa"><canvas id="mini"></canvas></div>
+
+    <div class="zoom">
+      <button id="zoomMais" title="Aproximar (+)" aria-label="Aproximar">
+        <svg width="14" height="14" viewBox="0 0 14 14" stroke="currentColor" stroke-width="2"><path d="M7 1.5v11M1.5 7h11"/></svg>
+      </button>
+      <div class="nivel" id="nivelZoom">100%</div>
+      <button id="zoomMenos" title="Afastar (−)" aria-label="Afastar">
+        <svg width="14" height="14" viewBox="0 0 14 14" stroke="currentColor" stroke-width="2"><path d="M1.5 7h11"/></svg>
+      </button>
+      <button id="zoomAjustar" title="Ajustar à tela (0)" aria-label="Ajustar à tela">
+        <svg width="15" height="15" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7"><path d="M1.5 5.5v-4h4M14.5 5.5v-4h-4M1.5 10.5v4h4M14.5 10.5v4h-4"/><rect x="5" y="5" width="6" height="6" rx="1"/></svg>
+      </button>
+      <button id="zoom100" title="Tamanho real (1)" aria-label="Tamanho real">
+        <span style="font-size:11px;font-weight:700">1:1</span>
+      </button>
+    </div>
+  </main>
+</div>
+<div class="dica" id="dica" hidden></div>
+
+<script id="dados" type="application/json">__DADOS_ESTRUTURAS__</script>
+<script>
+(() => {
+  "use strict";
+
+  const ESTRUTURAS = JSON.parse(document.getElementById("dados").textContent);
+  const POR_ID = new Map(ESTRUTURAS.map(e => [String(e.id), e]));
+
+  const CATEGORIAS = [
+    { chave: "arvore",            slug: "arvore",     rotulo: "Árvore Organizacional", raiz: "ESTRUTURA ORGANIZACIONAL" },
+    { chave: "Entes Vinculados",  slug: "entes",      rotulo: "Entes Vinculados",      raiz: "ENTES VINCULADOS" },
+    { chave: "Orgaos Colegiados", slug: "colegiados", rotulo: "Órgãos Colegiados",     raiz: "ÓRGÃOS COLEGIADOS" },
+    { chave: "Comissoes",         slug: "comissoes",  rotulo: "Comissões",             raiz: "COMISSÕES" },
+    { chave: "Fundos",            slug: "fundos",     rotulo: "Fundos",                raiz: "FUNDOS" },
+  ];
+
+  // <layout> ==================================================================
+  // Layout ortogonal: cada nó é um retângulo; pai -> barra horizontal -> filhos.
+  // Folhas irmãs (>= PILHA_MIN) viram uma "pilha" vertical presa a uma espinha
+  // à esquerda. Muitos filhos largos quebram em linhas ligadas por um tronco
+  // vertical à esquerda. Subárvores são encostadas pelo contorno (retângulos
+  // ocupados, incluindo arestas), então nós e arestas nunca se sobrepõem.
+  const NO_L = 248, NO_A = 108, FAIXA = 36, RAIZ_L = 340;
+  const GAP_X = 32, GAP_Y = 72, GAP_V = 16, BOTAO = 11;
+  const PILHA_MIN = 2, PILHA_UMA_COLUNA = 8, PILHA_RECUO = 28, PILHA_GAP_LINHA = 18, PILHA_GAP_COL = 40;
+  const LINHA_MIN_UNIDADES = 3, LINHA_LARGURA_MIN = 2600, PROPORCAO = 3.2;   // largura:altura desejada
+
+  function larguraNo(no) { return no.raiz ? RAIZ_L : NO_L; }
+
+  function limitesRects(rects) {
+    let x0 = Infinity, x1 = -Infinity, y1 = -Infinity;
+    for (const r of rects) { x0 = Math.min(x0, r[0]); x1 = Math.max(x1, r[2]); y1 = Math.max(y1, r[3]); }
+    return { x0, x1, y1 };
+  }
+
+  function montar(no) {
+    const w = larguraNo(no);
+    const temFilhos = no.filhos.length > 0;
+    const bloco = {
+      nos: [{ no, x: -w / 2, y: 0 }],
+      arestas: [],
+      rects: [[-w / 2, 0, w / 2, NO_A + (temFilhos ? BOTAO : 0)]],
+    };
+    if (!temFilhos || no.recolhido) return bloco;
+
+    const topo = NO_A + GAP_Y, barra = NO_A + GAP_Y / 2;
+    const linhas = quebrarEmLinhas(unidadesDosFilhos(no.filhos)).map(encostarUnidades);
+    const acrescentar = (u, ox, oy) => {
+      for (const p of u.nos) bloco.nos.push({ no: p.no, x: p.x + ox, y: p.y + oy });
+      for (const s of u.arestas) bloco.arestas.push([s[0] + ox, s[1] + oy, s[2] + ox, s[3] + oy]);
+    };
+
+    if (linhas.length === 1) {
+      // uma linha: pai centralizado sobre as âncoras, barra única
+      const { itens, rects } = linhas[0];
+      const ancoras = itens.map(({ u, dx }) => u.ancora + dx);
+      const centro = (Math.min(...ancoras) + Math.max(...ancoras)) / 2;
+      const quedas = itens.flatMap(({ u, dx }) => u.quedas.map(q => q + dx - centro));
+      const xMin = Math.min(0, ...quedas), xMax = Math.max(0, ...quedas);
+      bloco.arestas.push([0, NO_A, 0, barra]);
+      if (xMax > xMin) bloco.arestas.push([xMin, barra, xMax, barra]);
+      bloco.rects.push([xMin - 1, NO_A, xMax + 1, barra + 1]);
+      for (const { u, dx } of itens) acrescentar(u, dx - centro, topo);
+      for (const r of rects) bloco.rects.push([r[0] - centro, r[1] + topo, r[2] - centro, r[3] + topo]);
+      return bloco;
+    }
+
+    // várias linhas alinhadas à esquerda; o tronco desce à esquerda delas e
+    // cada linha tem sua barra saindo do tronco. O pai fica sobre a 1ª linha.
+    const ancoras0 = linhas[0].itens.map(({ u, dx }) => u.ancora + dx - linhas[0].x0);
+    const centro = (Math.min(...ancoras0) + Math.max(...ancoras0)) / 2;
+    const tronco = -GAP_X - centro;
+    let oy = topo, ultimaBarra = barra;
+    linhas.forEach((linha, k) => {
+      const barraK = oy - GAP_Y / 2;
+      let fim = k === 0 ? 0 : -Infinity;
+      for (const { u, dx } of linha.itens) {
+        const ox = dx - linha.x0 - centro;
+        for (const q of u.quedas) fim = Math.max(fim, q + ox);
+        acrescentar(u, ox, oy);
+      }
+      for (const r of linha.rects) bloco.rects.push([r[0] - linha.x0 - centro, r[1] + oy, r[2] - linha.x0 - centro, r[3] + oy]);
+      bloco.arestas.push([tronco, barraK, fim, barraK]);
+      bloco.rects.push([tronco - 1, barraK - 1, fim + 1, barraK + 1]);
+      ultimaBarra = barraK;
+      oy += linha.y1 + GAP_Y;
+    });
+    bloco.arestas.push([0, NO_A, 0, barra]);
+    bloco.arestas.push([tronco, barra, tronco, ultimaBarra]);
+    bloco.rects.push([-1, NO_A, 1, barra + 1]);
+    bloco.rects.push([tronco - 1, barra, tronco + 1, ultimaBarra + 1]);
+    return bloco;
+  }
+
+  // cada unidade vai o mais à esquerda possível sem chegar a GAP_X das anteriores
+  function encostarUnidades(unidades) {
+    const ocupados = [], itens = [];
+    for (const u of unidades) {
+      let dx = 0;
+      if (ocupados.length) {
+        dx = -Infinity;
+        for (const b of u.rects) {
+          for (const a of ocupados) {
+            if (a[1] < b[3] + GAP_V && b[1] < a[3] + GAP_V) dx = Math.max(dx, a[2] + GAP_X - b[0]);
+          }
+        }
+        if (!Number.isFinite(dx)) dx = itens[itens.length - 1].dx;
+      }
+      itens.push({ u, dx });
+      for (const b of u.rects) ocupados.push([b[0] + dx, b[1], b[2] + dx, b[3]]);
+    }
+    return { itens, rects: ocupados, ...limitesRects(ocupados) };
+  }
+
+  // divide as unidades em linhas quando a fila única ficaria larga demais para
+  // a área que ocupam; depois equilibra as larguras das linhas
+  function quebrarEmLinhas(unidades) {
+    if (unidades.length < LINHA_MIN_UNIDADES) return [unidades];
+    const dims = unidades.map(u => {
+      const L = limitesRects(u.rects);
+      return { w: L.x1 - L.x0, h: L.y1 + GAP_Y / 2 };
+    });
+    const total = dims.reduce((s, d) => s + d.w + GAP_X, -GAP_X);
+    const maisLarga = Math.max(...dims.map(d => d.w));
+    const area = dims.reduce((s, d) => s + (d.w + GAP_X) * (d.h + GAP_Y), 0);
+    const limite = Math.max(maisLarga, LINHA_LARGURA_MIN, Math.sqrt(area * PROPORCAO));
+    if (total <= limite) return [unidades];
+
+    const agrupar = lim => {
+      const linhas = [[]];
+      let largura = -GAP_X;
+      unidades.forEach((u, i) => {
+        const w = dims[i].w + GAP_X;
+        if (linhas[linhas.length - 1].length && largura + w > lim) { linhas.push([]); largura = -GAP_X; }
+        linhas[linhas.length - 1].push(u);
+        largura += w;
+      });
+      return linhas;
+    };
+    const quantidade = agrupar(limite).length;
+    let lo = maisLarga, hi = limite;
+    for (let k = 0; k < 20; k++) {
+      const meio = (lo + hi) / 2;
+      if (agrupar(meio).length <= quantidade) hi = meio; else lo = meio;
+    }
+    return agrupar(hi);
+  }
+
+  function unidadesDosFilhos(filhos) {
+    const folhas = filhos.filter(f => !f.filhos.length);
+    if (folhas.length < PILHA_MIN) return filhos.map(unidadeSubarvore);
+    // folhas agrupadas numa pilha, na posição da primeira folha
+    const unidades = [];
+    let pilhaCriada = false;
+    for (const f of filhos) {
+      if (f.filhos.length) unidades.push(unidadeSubarvore(f));
+      else if (!pilhaCriada) { unidades.push(unidadePilha(folhas)); pilhaCriada = true; }
+    }
+    return unidades;
+  }
+
+  // referencial da unidade: y = 0 no topo dos filhos; a barra do pai fica em y = -GAP_Y/2
+  function unidadeSubarvore(no) {
+    const b = montar(no);
+    b.arestas.push([0, -GAP_Y / 2, 0, 0]);
+    b.rects.push([-1, -GAP_Y / 2, 1, 0]);
+    return { ...b, ancora: 0, quedas: [0] };
+  }
+
+  function unidadePilha(folhas) {
+    const n = folhas.length;
+    let porColuna = n <= PILHA_UMA_COLUNA ? n : Math.max(6, Math.ceil(Math.sqrt(n * 2.2)));
+    const colunas = Math.ceil(n / porColuna);
+    porColuna = Math.ceil(n / colunas);
+    const passoX = PILHA_RECUO + NO_L + PILHA_GAP_COL, passoY = NO_A + PILHA_GAP_LINHA;
+    const u = { nos: [], arestas: [], rects: [], quedas: [] };
+    for (let c = 0; c < colunas; c++) {
+      const itens = folhas.slice(c * porColuna, (c + 1) * porColuna);
+      if (!itens.length) break;
+      const espinha = c * passoX;
+      u.quedas.push(espinha);
+      u.arestas.push([espinha, -GAP_Y / 2, espinha, (itens.length - 1) * passoY + NO_A / 2]);
+      itens.forEach((f, i) => {
+        const y = i * passoY;
+        u.nos.push({ no: f, x: espinha + PILHA_RECUO, y });
+        u.arestas.push([espinha, y + NO_A / 2, espinha + PILHA_RECUO, y + NO_A / 2]);
+      });
+      u.rects.push([espinha - 1, -GAP_Y / 2, espinha + PILHA_RECUO + NO_L, (itens.length - 1) * passoY + NO_A]);
+    }
+    u.ancora = (u.quedas[u.quedas.length - 1] + PILHA_RECUO + NO_L) / 2;
+    return u;
+  }
+  // </layout> =================================================================
+
+  // ------------------------------------------------------------------ modelo
+  let proximoUid = 0;
+
+  function construirNo(item, prof, pai) {
+    const no = {
+      uid: proximoUid++, nome: item.nome || "", sigla: item.sigla || null, indice: item.indice || null,
+      prof, pai, recolhido: false, filhos: [],
+    };
+    no.filhos = (item.filhos || []).map(f => construirNo(f, prof + 1, no));
+    return no;
+  }
+
+  function contarDescendentes(no) {
+    no.total = no.filhos.reduce((s, f) => s + 1 + contarDescendentes(f), 0);
+    return no.total;
+  }
+
+  function construirArvore(est, cat) {
+    const raiz = {
+      uid: proximoUid++, raiz: true, rotulo: cat.raiz, nome: tituloPt(est.secretaria) || "Secretaria não identificada",
+      sigla: null, indice: null, prof: 0, pai: null, recolhido: false, filhos: [],
+    };
+    raiz.filhos = itensDaCategoria(est, cat).map(i => construirNo(i, 1, raiz));
+    contarDescendentes(raiz);
+    return raiz;
+  }
+
+  function itensDaCategoria(est, cat) { return est[cat.chave] || []; }
+
+  function todosNos(no, saida = []) {
+    saida.push(no);
+    for (const f of no.filhos) todosNos(f, saida);
+    return saida;
+  }
+
+  function estatisticas(est) {
+    let total = 0, comSigla = 0, niveis = 0;
+    (function andar(nos, prof) {
+      for (const no of nos) {
+        total++; if (no.sigla) comSigla++; niveis = Math.max(niveis, prof);
+        andar(no.filhos || [], prof + 1);
+      }
+    })(est.arvore || [], 1);
+    return { total, comSigla, niveis };
+  }
+
+  // ------------------------------------------------------------------ textos
+  const CONECTIVOS = new Set(["de", "da", "do", "das", "dos", "e", "a", "o", "as", "os", "à", "ao", "em", "na", "no", "para", "com"]);
+
+  function tituloPt(texto) {
+    if (!texto) return "";
+    return texto.split(/\s*;\s*/).map(parte =>
+      parte.toLowerCase().split(/\s+/).map((p, i) =>
+        i && CONECTIVOS.has(p) ? p : p.charAt(0).toUpperCase() + p.slice(1)
+      ).join(" ")
+    ).join("; ");
+  }
+
+  function nomeCurto(secretaria) {
+    if (!secretaria) return "Não identificada";
+    const partes = secretaria.split(/\s*;\s*/);
+    const base = partes[0].replace(/^SECRETARIA\s+(?:DE\s+ESTADO\s+|EXTRAORDIN[ÁA]RIA\s+)?(?:D[AEO]S?\s+)?/i, "");
+    return tituloPt(base) + (partes.length > 1 ? ` +${partes.length - 1}` : "");
+  }
+
+  function normalizar(t) {
+    return (t || "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+  }
+
+  function esc(t) {
+    return String(t).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  }
+
+  const FONTE = 'system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif';
+  const medidor = document.createElement("canvas").getContext("2d");
+
+  function medir(texto, px, peso) {
+    medidor.font = `${peso} ${px}px ${FONTE}`;
+    return medidor.measureText(texto).width;
+  }
+
+  function quebrarLinhas(texto, px, peso, max) {
+    const linhas = [];
+    let atual = "";
+    for (let palavra of texto.split(/\s+/).filter(Boolean)) {
+      while (medir(palavra, px, peso) > max && palavra.length > 1) {   // palavra maior que a linha
+        let k = palavra.length - 1;
+        while (k > 1 && medir(palavra.slice(0, k), px, peso) > max) k--;
+        if (atual) { linhas.push(atual); atual = ""; }
+        linhas.push(palavra.slice(0, k));
+        palavra = palavra.slice(k);
+      }
+      const tentativa = atual ? `${atual} ${palavra}` : palavra;
+      if (medir(tentativa, px, peso) <= max) atual = tentativa;
+      else { if (atual) linhas.push(atual); atual = palavra; }
+    }
+    if (atual) linhas.push(atual);
+    return linhas;
+  }
+
+  // tenta cada [tamanho, entrelinha]; se nada couber, corta com reticências no menor
+  function encaixar(texto, max, altura, escalas, peso) {
+    for (const [px, lh] of escalas) {
+      const linhas = quebrarLinhas(texto, px, peso, max);
+      if (linhas.length * lh <= altura) return { px, lh, linhas };
+    }
+    const [px, lh] = escalas[escalas.length - 1];
+    const cabem = Math.max(1, Math.floor(altura / lh));
+    const linhas = quebrarLinhas(texto, px, peso, max).slice(0, cabem);
+    let ultima = linhas[cabem - 1] || "";
+    while (ultima && medir(`${ultima}…`, px, peso) > max) ultima = ultima.slice(0, -1);
+    linhas[cabem - 1] = `${ultima.trimEnd()}…`;
+    return { px, lh, linhas };
+  }
+
+  const ESCALA_NOME = [[14.5, 18], [13.5, 16.5], [12.5, 15], [11.5, 14], [10.5, 12.5]];
+  const ESCALA_SIGLA = [[16, 19], [14, 17], [12, 15], [10.5, 13]];
+  const ESCALA_RAIZ = [[17, 20], [15.5, 18.5], [14, 17], [12.5, 15], [11, 13]];
+
+  function textoDoNo(no) {
+    if (no._texto) return no._texto;
+    const w = larguraNo(no);
+    if (no.raiz) {
+      no._texto = { nome: encaixar(no.nome, w - 36, NO_A - 52, ESCALA_RAIZ, 700) };
+    } else if (no.sigla) {
+      no._texto = {
+        sigla: encaixar(no.sigla, w - 24, 18, ESCALA_SIGLA, 700),
+        nome: encaixar(no.nome, w - 22, NO_A - FAIXA - 10, ESCALA_NOME, 400),
+      };
+    } else {
+      no._texto = { nome: encaixar(no.nome, w - 22, NO_A - 16, ESCALA_NOME, 400) };
+    }
+    return no._texto;
+  }
+
+  function tspans(bloco, cx, y0, altura) {
+    const inicio = y0 + (altura - bloco.linhas.length * bloco.lh) / 2 + bloco.lh / 2;
+    return bloco.linhas.map((l, i) => `<tspan x="${cx}" y="${(inicio + i * bloco.lh).toFixed(1)}">${esc(l)}</tspan>`).join("");
+  }
+
+  // ---------------------------------------------------------------- desenho
+  function svgNo(p) {
+    const { no, x, y } = p;
+    const w = larguraNo(no), cx = w / 2, t = textoDoNo(no);
+    const classes = ["no"];
+    if (no.raiz) classes.push("raiz");
+    else if (!no.sigla) classes.push("sem-sigla");
+    let s = `<g class="${classes.join(" ")}" data-uid="${no.uid}" transform="translate(${x.toFixed(1)},${y})">`;
+    s += `<rect class="anel" x="-4" y="-4" width="${w + 8}" height="${NO_A + 8}" rx="13"/>`;
+    s += `<rect class="sombra" x="2" y="3" width="${w}" height="${NO_A}" rx="10"/>`;
+    if (no.raiz) {
+      s += `<rect class="corpo-raiz" width="${w}" height="${NO_A}" rx="10"/>`;
+      s += `<text class="rotulo-raiz" x="${cx}" y="20">${esc(no.rotulo)}</text>`;
+      s += `<line class="traco" x1="${cx - 22}" y1="34" x2="${cx + 22}" y2="34"/>`;
+      s += `<text class="nome-raiz" font-size="${t.nome.px}">${tspans(t.nome, cx, 40, NO_A - 48)}</text>`;
+    } else {
+      s += `<rect class="corpo" width="${w}" height="${NO_A}" rx="10"/>`;
+      if (no.sigla) {
+        s += `<path class="faixa" d="M0 ${FAIXA}V10A10 10 0 0 1 10 0H${w - 10}A10 10 0 0 1 ${w} 10V${FAIXA}Z"/>`;
+        s += `<text class="sigla" font-size="${t.sigla.px}">${tspans(t.sigla, cx, 0, FAIXA)}</text>`;
+        s += `<text class="nome" font-size="${t.nome.px}">${tspans(t.nome, cx, FAIXA, NO_A - FAIXA)}</text>`;
+      } else {
+        s += `<text class="nome" font-size="${t.nome.px}">${tspans(t.nome, cx, 0, NO_A)}</text>`;
+      }
+    }
+    s += `<rect class="borda" width="${w}" height="${NO_A}" rx="10"/>`;
+    if (no.filhos.length) {
+      s += `<g class="alternar" data-alternar="${no.uid}" transform="translate(${cx},${NO_A})">`;
+      s += `<circle r="10"/><path d="M-4.5 0H4.5${no.recolhido ? "M0 -4.5V4.5" : ""}"/></g>`;
+      if (no.recolhido) {
+        const rotulo = `+${no.total}`, lw = 14 + rotulo.length * 6.4;
+        s += `<g class="contagem" transform="translate(${cx + 16},${NO_A})"><rect y="-9" width="${lw}" height="18" rx="9"/>`;
+        s += `<text x="${lw / 2}" y="0.5">${rotulo}</text></g>`;
+      }
+    }
+    return s + "</g>";
+  }
+
+  // --------------------------------------------------------------- elementos
+  const $ = id => document.getElementById(id);
+  const palco = $("palco"), svg = $("svg"), cena = $("cena"), dica = $("dica");
+  const mini = $("mini"), miniCtx = mini.getContext("2d");
+
+  const estado = {
+    est: null, cat: CATEGORIAS[0], raiz: null, limites: null,
+    posicoes: new Map(), elementos: new Map(),
+    achados: [], idxAchado: -1,
+  };
+  const vista = { s: 1, tx: 0, ty: 0 };
+  const arvores = new Map();   // "id|slug" -> raiz (guarda o estado de recolhido)
+  const vistas = new Map();    // "id|slug" -> vista salva
+  const ZOOM_MIN = 0.03, ZOOM_MAX = 3;
+
+  // ------------------------------------------------------------------ render
+  function renderizar() {
+    const bloco = montar(estado.raiz);
+    let x0 = Infinity, y0 = Infinity, x1 = -Infinity, y1 = -Infinity;
+    estado.posicoes.clear();
+    for (const p of bloco.nos) {
+      const w = larguraNo(p.no);
+      x0 = Math.min(x0, p.x); y0 = Math.min(y0, p.y);
+      x1 = Math.max(x1, p.x + w); y1 = Math.max(y1, p.y + NO_A + BOTAO);
+      estado.posicoes.set(p.no.uid, p);
+    }
+    estado.limites = { x0, y0, x1, y1, w: x1 - x0, h: y1 - y0 };
+    estado.bloco = bloco;
+
+    const d = bloco.arestas.map(a => `M${a[0].toFixed(1)} ${a[1].toFixed(1)}L${a[2].toFixed(1)} ${a[3].toFixed(1)}`).join("");
+    cena.innerHTML = `<path class="arestas" d="${d}"/>` + bloco.nos.map(svgNo).join("");
+    estado.elementos.clear();
+    for (const el of cena.querySelectorAll(".no")) estado.elementos.set(Number(el.dataset.uid), el);
+    aplicarDestaques();
+    desenharBaseMinimapa();
+  }
+
+  // ------------------------------------------------------------------- vista
+  let quadroPendente = 0;
+  function agendarVista() {
+    if (!quadroPendente) quadroPendente = requestAnimationFrame(() => { quadroPendente = 0; aplicarVista(); });
+  }
+
+  function aplicarVista() {
+    cena.setAttribute("transform", `translate(${vista.tx.toFixed(2)},${vista.ty.toFixed(2)}) scale(${vista.s.toFixed(5)})`);
+    cena.style.setProperty("--traco", Math.max(1.6, 1.1 / vista.s).toFixed(2));   // arestas visíveis de longe
+    $("nivelZoom").textContent = `${Math.round(vista.s * 100)}%`;
+    let passo = 28 * vista.s;
+    while (passo < 14) passo *= 4;
+    palco.style.backgroundSize = `${passo}px ${passo}px`;
+    palco.style.backgroundPosition = `${vista.tx}px ${vista.ty}px`;
+    desenharMinimapa();
+  }
+
+  const limitar = (v, a, b) => Math.min(b, Math.max(a, v));
+
+  function zoomEm(fator, cx, cy) {
+    const s = limitar(vista.s * fator, ZOOM_MIN, ZOOM_MAX), k = s / vista.s;
+    vista.tx = cx - (cx - vista.tx) * k;
+    vista.ty = cy - (cy - vista.ty) * k;
+    vista.s = s;
+    agendarVista();
+  }
+
+  function zoomCentro(fator) {
+    const r = palco.getBoundingClientRect();
+    const s = limitar(vista.s * fator, ZOOM_MIN, ZOOM_MAX), k = s / vista.s;
+    animarVista({ s, tx: r.width / 2 - (r.width / 2 - vista.tx) * k, ty: r.height / 2 - (r.height / 2 - vista.ty) * k }, 200);
+  }
+
+  function vistaAjustada() {
+    const r = palco.getBoundingClientRect(), L = estado.limites, m = 56;
+    const s = limitar(Math.min((r.width - 2 * m) / L.w, (r.height - 2 * m) / L.h), ZOOM_MIN, 1.1);
+    return { s, tx: (r.width - L.w * s) / 2 - L.x0 * s, ty: (r.height - L.h * s) / 2 - L.y0 * s };
+  }
+
+  // árvore grande demais para caber legível: começa na raiz, em escala de leitura
+  function vistaInicial() {
+    const ajuste = vistaAjustada();
+    if (ajuste.s >= 0.45) return ajuste;
+    const r = palco.getBoundingClientRect(), s = 0.7;
+    return { s, tx: r.width / 2, ty: 70 };
+  }
+
+  let animacao = 0;
+  function animarVista(alvo, ms = 380) {
+    cancelAnimationFrame(animacao);
+    const ini = { ...vista }, t0 = performance.now();
+    const passo = t => {
+      const k = Math.min(1, (t - t0) / ms), e = 1 - Math.pow(1 - k, 3);
+      vista.s = ini.s + (alvo.s - ini.s) * e;
+      vista.tx = ini.tx + (alvo.tx - ini.tx) * e;
+      vista.ty = ini.ty + (alvo.ty - ini.ty) * e;
+      aplicarVista();
+      if (k < 1) animacao = requestAnimationFrame(passo);
+    };
+    animacao = requestAnimationFrame(passo);
+  }
+
+  function definirVista(v) { cancelAnimationFrame(animacao); Object.assign(vista, v); aplicarVista(); }
+
+  function centralizarNo(no, escalaMin = 0.9) {
+    const p = estado.posicoes.get(no.uid);
+    if (!p) return;
+    const r = palco.getBoundingClientRect(), s = Math.max(vista.s, escalaMin);
+    animarVista({ s, tx: r.width / 2 - (p.x + larguraNo(no) / 2) * s, ty: r.height / 2 - (p.y + NO_A / 2) * s });
+  }
+
+  // --------------------------------------------------------------- minimapa
+  const base = document.createElement("canvas"), baseCtx = base.getContext("2d");
+  let escalaMini = null;
+
+  function desenharBaseMinimapa() {
+    const dpr = window.devicePixelRatio || 1;
+    const cw = mini.clientWidth || 210, ch = mini.clientHeight || 136;
+    mini.width = base.width = Math.round(cw * dpr);
+    mini.height = base.height = Math.round(ch * dpr);
+    const L = estado.limites, pad = 8;
+    const m = Math.min((cw - 2 * pad) / L.w, (ch - 2 * pad) / L.h);
+    const ox = (cw - L.w * m) / 2 - L.x0 * m, oy = (ch - L.h * m) / 2 - L.y0 * m;
+    escalaMini = { m, ox, oy, cw, ch, dpr };
+
+    baseCtx.setTransform(dpr, 0, 0, dpr, 0, 0);
+    baseCtx.fillStyle = "#f6f9ff";
+    baseCtx.fillRect(0, 0, cw, ch);
+    baseCtx.strokeStyle = "#b7cbee";
+    baseCtx.lineWidth = 0.6;
+    baseCtx.beginPath();
+    for (const a of estado.bloco.arestas) {
+      baseCtx.moveTo(ox + a[0] * m, oy + a[1] * m);
+      baseCtx.lineTo(ox + a[2] * m, oy + a[3] * m);
+    }
+    baseCtx.stroke();
+    for (const p of estado.bloco.nos) {
+      baseCtx.fillStyle = p.no.raiz ? "#0a1f44" : p.no.sigla ? "#1f5bd0" : "#8fb0e6";
+      baseCtx.fillRect(ox + p.x * m, oy + p.y * m, Math.max(1, larguraNo(p.no) * m), Math.max(1, NO_A * m));
+    }
+  }
+
+  function desenharMinimapa() {
+    if (!escalaMini || !estado.limites) return;
+    const { m, ox, oy, cw, ch, dpr } = escalaMini;
+    const r = palco.getBoundingClientRect();
+    miniCtx.setTransform(1, 0, 0, 1, 0, 0);
+    miniCtx.clearRect(0, 0, mini.width, mini.height);
+    miniCtx.drawImage(base, 0, 0);
+    miniCtx.setTransform(dpr, 0, 0, dpr, 0, 0);
+    const vx = ox + (-vista.tx / vista.s) * m, vy = oy + (-vista.ty / vista.s) * m;
+    const vw = (r.width / vista.s) * m, vh = (r.height / vista.s) * m;
+    miniCtx.save();
+    miniCtx.beginPath();
+    miniCtx.rect(0, 0, cw, ch);
+    miniCtx.rect(vx, vy, vw, vh);
+    miniCtx.fillStyle = "rgba(10,31,68,.10)";
+    miniCtx.fill("evenodd");
+    miniCtx.restore();
+    miniCtx.strokeStyle = "#1f5bd0";
+    miniCtx.lineWidth = 1.5;
+    miniCtx.strokeRect(vx, vy, vw, vh);
+  }
+
+  function irParaPontoMinimapa(e) {
+    const rm = mini.getBoundingClientRect(), r = palco.getBoundingClientRect();
+    const { m, ox, oy } = escalaMini;
+    const wx = (e.clientX - rm.left - ox) / m, wy = (e.clientY - rm.top - oy) / m;
+    definirVista({ s: vista.s, tx: r.width / 2 - wx * vista.s, ty: r.height / 2 - wy * vista.s });
+  }
+
+  mini.addEventListener("pointerdown", e => {
+    e.stopPropagation();
+    mini.setPointerCapture(e.pointerId);
+    irParaPontoMinimapa(e);
+  });
+  mini.addEventListener("pointermove", e => { if (mini.hasPointerCapture(e.pointerId)) irParaPontoMinimapa(e); });
+
+  // ------------------------------------------------------- arrastar e zoom
+  const ponteiros = new Map();
+  let arrasto = null, moveu = false;
+
+  svg.addEventListener("pointerdown", e => {
+    if (e.button !== 0 && e.pointerType === "mouse") return;
+    // com captura, o click iria para o <svg> e não para o botão de recolher
+    if (e.target.closest(".alternar")) { moveu = false; return; }
+    cancelAnimationFrame(animacao);
+    ponteiros.set(e.pointerId, { x: e.clientX, y: e.clientY });
+    svg.setPointerCapture(e.pointerId);
+    moveu = false;
+    arrasto = { tx: vista.tx, ty: vista.ty, x: e.clientX, y: e.clientY };
+    if (ponteiros.size === 2) {
+      const [a, b] = [...ponteiros.values()];
+      arrasto.pinca = { dist: Math.hypot(a.x - b.x, a.y - b.y), s: vista.s };
+    }
+    palco.classList.add("arrastando");
+    esconderDica();
+  });
+
+  svg.addEventListener("pointermove", e => {
+    if (!ponteiros.has(e.pointerId) || !arrasto) return;
+    ponteiros.set(e.pointerId, { x: e.clientX, y: e.clientY });
+    const r = palco.getBoundingClientRect();
+    if (ponteiros.size >= 2 && arrasto.pinca) {
+      const [a, b] = [...ponteiros.values()];
+      const dist = Math.hypot(a.x - b.x, a.y - b.y);
+      const alvo = limitar(arrasto.pinca.s * dist / arrasto.pinca.dist, ZOOM_MIN, ZOOM_MAX);
+      zoomEm(alvo / vista.s, (a.x + b.x) / 2 - r.left, (a.y + b.y) / 2 - r.top);
+      moveu = true;
+      return;
+    }
+    const dx = e.clientX - arrasto.x, dy = e.clientY - arrasto.y;
+    if (Math.abs(dx) + Math.abs(dy) > 3) moveu = true;
+    vista.tx = arrasto.tx + dx;
+    vista.ty = arrasto.ty + dy;
+    agendarVista();
+  });
+
+  function soltar(e) {
+    ponteiros.delete(e.pointerId);
+    if (ponteiros.size === 1) {
+      const [p] = [...ponteiros.values()];
+      arrasto = { tx: vista.tx, ty: vista.ty, x: p.x, y: p.y };
+    } else if (!ponteiros.size) {
+      arrasto = null;
+      palco.classList.remove("arrastando");
+    }
+  }
+  svg.addEventListener("pointerup", soltar);
+  svg.addEventListener("pointercancel", soltar);
+
+  svg.addEventListener("wheel", e => {
+    e.preventDefault();
+    const r = palco.getBoundingClientRect();
+    const delta = e.deltaY * (e.deltaMode === 1 ? 16 : 1);
+    zoomEm(Math.exp(-delta * (e.ctrlKey ? 0.01 : 0.0016)), e.clientX - r.left, e.clientY - r.top);
+  }, { passive: false });
+
+  svg.addEventListener("dblclick", e => {
+    if (e.target.closest(".alternar")) return;
+    const r = palco.getBoundingClientRect();
+    const s = limitar(vista.s * 1.8, ZOOM_MIN, ZOOM_MAX), k = s / vista.s;
+    const cx = e.clientX - r.left, cy = e.clientY - r.top;
+    animarVista({ s, tx: cx - (cx - vista.tx) * k, ty: cy - (cy - vista.ty) * k }, 250);
+  });
+
+  svg.addEventListener("click", e => {
+    if (moveu) return;
+    const botao = e.target.closest(".alternar");
+    if (botao) alternar(noPorUid(Number(botao.dataset.alternar)));
+  });
+
+  function noPorUid(uid) { return estado.posicoes.get(uid)?.no; }
+
+  // recolhe/expande mantendo o nó clicado no mesmo lugar da tela
+  function alternar(no) {
+    if (!no) return;
+    const antes = estado.posicoes.get(no.uid);
+    no.recolhido = !no.recolhido;
+    renderizar();
+    const depois = estado.posicoes.get(no.uid);
+    vista.tx += (antes.x - depois.x) * vista.s;
+    vista.ty += (antes.y - depois.y) * vista.s;
+    aplicarVista();
+  }
+
+  // ------------------------------------------------------------------- dica
+  svg.addEventListener("pointerover", e => {
+    if (arrasto) return;
+    const el = e.target.closest(".no");
+    if (!el) return;
+    const no = noPorUid(Number(el.dataset.uid));
+    if (!no) return;
+    let html;
+    if (no.raiz) {
+      html = `<div class="dica-sigla sem">${esc(no.rotulo)}</div><div class="dica-nome">${esc(no.nome)}</div>`;
+      html += `<div class="dica-meta">${no.filhos.length} itens no primeiro nível · ${no.total} no total</div>`;
+    } else {
+      html = no.sigla ? `<div class="dica-sigla">${esc(no.sigla)}</div>` : `<div class="dica-sigla sem">Sem sigla</div>`;
+      html += `<div class="dica-nome">${esc(no.nome)}</div>`;
+      const meta = [];
+      if (no.indice) meta.push(`Índice ${esc(no.indice)}`);
+      meta.push(`Nível ${no.prof}`);
+      if (no.filhos.length) meta.push(`${no.filhos.length} subordinada${no.filhos.length > 1 ? "s" : ""} direta${no.filhos.length > 1 ? "s" : ""} · ${no.total} no total`);
+      html += `<div class="dica-meta">${meta.join(" · ")}</div>`;
+    }
+    dica.innerHTML = html;
+    dica.hidden = false;
+    posicionarDica(e);
+  });
+  svg.addEventListener("pointermove", e => { if (!dica.hidden) posicionarDica(e); });
+  svg.addEventListener("pointerout", e => {
+    const de = e.target.closest(".no"), para = e.relatedTarget && e.relatedTarget.closest ? e.relatedTarget.closest(".no") : null;
+    if (de && de !== para) esconderDica();
+  });
+  svg.addEventListener("pointerleave", esconderDica);
+
+  function posicionarDica(e) {
+    const w = dica.offsetWidth, h = dica.offsetHeight;
+    let x = e.clientX + 16, y = e.clientY + 18;
+    if (x + w > window.innerWidth - 8) x = e.clientX - w - 16;
+    if (y + h > window.innerHeight - 8) y = e.clientY - h - 18;
+    dica.style.left = `${Math.max(8, x)}px`;
+    dica.style.top = `${Math.max(8, y)}px`;
+  }
+  function esconderDica() { dica.hidden = true; }
+
+  // ------------------------------------------------------------------- busca
+  const busca = $("busca");
+
+  function executarBusca() {
+    const q = normalizar(busca.value.trim());
+    estado.achados = q && estado.raiz
+      ? todosNos(estado.raiz).filter(n => !n.raiz && (normalizar(n.nome).includes(q) || normalizar(n.sigla).includes(q)))
+      : [];
+    estado.idxAchado = -1;
+    atualizarInfoBusca();
+    aplicarDestaques();
+  }
+
+  function atualizarInfoBusca() {
+    const n = estado.achados.length;
+    $("buscaInfo").textContent = busca.value.trim() ? (n ? `${estado.idxAchado + 1 || "–"}/${n}` : "0") : "";
+  }
+
+  function aplicarDestaques() {
+    for (const el of cena.querySelectorAll(".no.achado")) el.classList.remove("achado", "atual");
+    estado.achados.forEach((no, i) => {
+      const el = estado.elementos.get(no.uid);
+      if (!el) return;
+      el.classList.add("achado");
+      if (i === estado.idxAchado) el.classList.add("atual");
+    });
+  }
+
+  function irParaAchado(passo) {
+    const n = estado.achados.length;
+    if (!n) return;
+    estado.idxAchado = ((estado.idxAchado < 0 && passo < 0 ? 0 : estado.idxAchado) + passo + n) % n;
+    const alvo = estado.achados[estado.idxAchado];
+    let abriu = false;
+    for (let p = alvo.pai; p; p = p.pai) if (p.recolhido) { p.recolhido = false; abriu = true; }
+    if (abriu) renderizar();
+    aplicarDestaques();
+    atualizarInfoBusca();
+    centralizarNo(alvo);
+  }
+
+  busca.addEventListener("input", executarBusca);
+  busca.addEventListener("keydown", e => {
+    if (e.key === "Enter") { e.preventDefault(); irParaAchado(e.shiftKey ? -1 : 1); }
+    if (e.key === "Escape") { busca.value = ""; executarBusca(); }
+  });
+  $("buscaProx").addEventListener("click", () => irParaAchado(1));
+  $("buscaAnt").addEventListener("click", () => irParaAchado(-1));
+
+  // --------------------------------------------------------- abas e seleção
+  const abas = $("abas");
+
+  function criarAbas() {
+    abas.innerHTML = ESTRUTURAS.map(est => {
+      const st = estatisticas(est);
+      const vazia = !st.total && !CATEGORIAS.slice(1).some(c => itensDaCategoria(est, c).length);
+      return `<button class="aba${vazia ? " vazia" : ""}" role="tab" data-id="${esc(est.id)}" title="${esc(est.secretaria || "Secretaria não identificada")} — estrutura ${esc(est.id)}">`
+        + `<span class="aba-id">Nº ${esc(est.id)} · ${st.total} un.</span><span class="aba-nome">${esc(nomeCurto(est.secretaria))}</span></button>`;
+    }).join("");
+    $("contadorAbas").textContent = ESTRUTURAS.length;
+  }
+
+  abas.addEventListener("click", e => {
+    const aba = e.target.closest(".aba");
+    if (aba) selecionarEstrutura(aba.dataset.id);
+  });
+  abas.addEventListener("wheel", e => {
+    if (Math.abs(e.deltaY) > Math.abs(e.deltaX)) { abas.scrollLeft += e.deltaY; e.preventDefault(); }
+  }, { passive: false });
+  $("abasEsq").addEventListener("click", () => abas.scrollBy({ left: -abas.clientWidth * 0.7 }));
+  $("abasDir").addEventListener("click", () => abas.scrollBy({ left: abas.clientWidth * 0.7 }));
+
+  $("filtroAbas").addEventListener("input", e => {
+    const q = normalizar(e.target.value.trim());
+    let visiveis = 0;
+    for (const aba of abas.children) {
+      const est = POR_ID.get(aba.dataset.id);
+      const ok = !q || aba.dataset.id.includes(q) || normalizar(est.secretaria).includes(q);
+      aba.hidden = !ok;
+      visiveis += ok;
+    }
+    $("contadorAbas").textContent = q ? `${visiveis}/${ESTRUTURAS.length}` : ESTRUTURAS.length;
+  });
+
+  function salvarVistaAtual() {
+    if (estado.est && estado.raiz && estado.raiz.filhos.length) vistas.set(`${estado.est.id}|${estado.cat.slug}`, { ...vista });
+  }
+
+  function selecionarEstrutura(id, slug) {
+    const est = POR_ID.get(String(id));
+    if (!est) return;
+    salvarVistaAtual();
+    estado.est = est;
+
+    for (const aba of abas.children) {
+      const ativa = aba.dataset.id === String(est.id);
+      aba.setAttribute("aria-selected", ativa);
+      if (ativa) aba.scrollIntoView({ block: "nearest", inline: "center" });
+    }
+
+    const st = estatisticas(est);
+    const partes = (est.secretaria || "Secretaria não identificada").split(/\s*;\s*/);
+    $("titulo").innerHTML = esc(partes[0]) + partes.slice(1).map(p => `<span class="outra">${esc(p)}</span>`).join("");
+    $("sobrelinha").textContent = `Estrutura nº ${est.id}${est.raiz ? ` · raiz ${est.raiz}` : ""}`;
+    const chips = [
+      [st.total, st.total === 1 ? "unidade" : "unidades"],
+      [st.niveis, st.niveis === 1 ? "nível" : "níveis"],
+      [st.comSigla, "com sigla"],
+    ];
+    const extras = CATEGORIAS.slice(1).reduce((s, c) => s + itensDaCategoria(est, c).length, 0);
+    chips.push([extras, "itens vinculados"]);
+    $("chips").innerHTML = chips.map(([n, r]) => `<span class="chip"><b>${n}</b>${r}</span>`).join("");
+    document.title = `${nomeCurto(est.secretaria)} · Estrutura ${est.id}`;
+
+    $("segmentos").innerHTML = CATEGORIAS.map(c => {
+      const n = c.chave === "arvore" ? st.total : itensDaCategoria(est, c).length;
+      return `<button class="segmento" role="tab" data-slug="${c.slug}"${n ? "" : " disabled"}>${c.rotulo}<b>${n}</b></button>`;
+    }).join("");
+
+    const preferida = CATEGORIAS.find(c => c.slug === (slug || estado.cat.slug));
+    const temItens = c => (c.chave === "arvore" ? st.total : itensDaCategoria(est, c).length) > 0;
+    const cat = preferida && temItens(preferida) ? preferida : (CATEGORIAS.find(temItens) || CATEGORIAS[0]);
+    mostrarCategoria(cat, true);
+  }
+
+  $("segmentos").addEventListener("click", e => {
+    const seg = e.target.closest(".segmento");
+    if (!seg || seg.disabled) return;
+    salvarVistaAtual();
+    mostrarCategoria(CATEGORIAS.find(c => c.slug === seg.dataset.slug));
+  });
+
+  function mostrarCategoria(cat) {
+    const est = estado.est, chave = `${est.id}|${cat.slug}`;
+    estado.cat = cat;
+    for (const seg of $("segmentos").children) seg.setAttribute("aria-selected", seg.dataset.slug === cat.slug);
+    history.replaceState(null, "", `#${est.id}/${cat.slug}`);
+
+    if (!arvores.has(chave)) arvores.set(chave, construirArvore(est, cat));
+    estado.raiz = arvores.get(chave);
+    esconderDica();
+
+    const vazio = !estado.raiz.filhos.length;
+    $("vazio").hidden = !vazio;
+    $("minimapa").hidden = vazio;
+    $("legenda").hidden = vazio;
+    svg.style.visibility = vazio ? "hidden" : "visible";
+    if (vazio) {
+      cena.innerHTML = "";
+      estado.achados = [];
+      atualizarInfoBusca();
+      return;
+    }
+    renderizar();
+    executarBusca();
+    definirVista(vistas.get(chave) || vistaInicial());
+  }
+
+  // ------------------------------------------------------------------ botões
+  $("zoomMais").addEventListener("click", () => zoomCentro(1.35));
+  $("zoomMenos").addEventListener("click", () => zoomCentro(1 / 1.35));
+  $("zoomAjustar").addEventListener("click", () => estado.limites && animarVista(vistaAjustada()));
+  $("zoom100").addEventListener("click", () => zoomCentro(1 / vista.s));
+
+  $("btnExpandir").addEventListener("click", () => {
+    if (!estado.raiz || !estado.raiz.filhos.length) return;
+    for (const no of todosNos(estado.raiz)) no.recolhido = false;
+    renderizar();
+    animarVista(vistaAjustada());
+  });
+  $("btnRecolher").addEventListener("click", () => {
+    if (!estado.raiz || !estado.raiz.filhos.length) return;
+    for (const no of todosNos(estado.raiz)) no.recolhido = !no.raiz && no.filhos.length > 0;
+    renderizar();
+    animarVista(vistaAjustada());
+  });
+
+  $("btnSvg").addEventListener("click", () => {
+    if (!estado.limites || !estado.raiz.filhos.length) return;
+    const L = estado.limites, m = 40;
+    const copia = svg.cloneNode(true);
+    copia.removeAttribute("id");
+    copia.removeAttribute("style");
+    copia.setAttribute("width", Math.ceil(L.w + 2 * m));
+    copia.setAttribute("height", Math.ceil(L.h + 2 * m));
+    copia.setAttribute("viewBox", `0 0 ${Math.ceil(L.w + 2 * m)} ${Math.ceil(L.h + 2 * m)}`);
+    const g = copia.querySelector("#cena");
+    g.setAttribute("transform", `translate(${m - L.x0},${m - L.y0})`);
+    for (const el of g.querySelectorAll(".alternar, .contagem")) el.remove();
+    for (const el of g.querySelectorAll(".achado")) el.classList.remove("achado", "atual");
+    const fundo = document.createElementNS("http://www.w3.org/2000/svg", "rect");
+    fundo.setAttribute("width", "100%");
+    fundo.setAttribute("height", "100%");
+    fundo.setAttribute("fill", "#ffffff");
+    copia.insertBefore(fundo, g);
+    const blob = new Blob([new XMLSerializer().serializeToString(copia)], { type: "image/svg+xml" });
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(blob);
+    a.download = `organograma_${estado.est.id}_${estado.cat.slug}.svg`;
+    a.click();
+    setTimeout(() => URL.revokeObjectURL(a.href), 1000);
+  });
+
+  document.addEventListener("keydown", e => {
+    if (e.target.closest("input, textarea") || e.ctrlKey || e.metaKey || e.altKey) return;
+    if (!estado.limites || !estado.raiz?.filhos.length) return;
+    const passo = 90;
+    const acoes = {
+      "+": () => zoomCentro(1.35), "=": () => zoomCentro(1.35), "-": () => zoomCentro(1 / 1.35),
+      "0": () => animarVista(vistaAjustada()), "1": () => zoomCentro(1 / vista.s),
+      ArrowLeft: () => animarVista({ ...vista, tx: vista.tx + passo }, 150),
+      ArrowRight: () => animarVista({ ...vista, tx: vista.tx - passo }, 150),
+      ArrowUp: () => animarVista({ ...vista, ty: vista.ty + passo }, 150),
+      ArrowDown: () => animarVista({ ...vista, ty: vista.ty - passo }, 150),
+      "/": () => busca.focus(),
+    };
+    if (acoes[e.key]) { e.preventDefault(); acoes[e.key](); }
+  });
+
+  new ResizeObserver(() => { if (estado.limites) { desenharBaseMinimapa(); desenharMinimapa(); } }).observe(palco);
+
+  // ------------------------------------------------------------------ início
+  criarAbas();
+  const [idHash, slugHash] = decodeURIComponent(location.hash.slice(1)).split("/");
+  const inicial = POR_ID.has(idHash)
+    ? idHash
+    : String((ESTRUTURAS.find(e => estatisticas(e).total > 0) || ESTRUTURAS[0]).id);
+  if (ESTRUTURAS.length) selecionarEstrutura(inicial, slugHash);
+})();
+</script>
+</body>
+</html>
