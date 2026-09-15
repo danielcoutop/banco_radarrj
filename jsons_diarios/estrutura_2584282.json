@@ -1,0 +1,922 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DE EDUCAÇÃO",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "Gabinete do Secretario",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "1.1",
+          "nome": "Chefia de Gabinete",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.1.1",
+              "nome": "Assessoria de Protocolo e Publicacao Oficial",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.2",
+          "nome": "Assessoria Tecnica de Cargos em Comissao e Funcoes Gratificadas",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.3",
+          "nome": "Assessoria Juridica",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.3.1",
+              "nome": "Nucleo de Acompanhamento de Licitacoes e Contratos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.3.2",
+              "nome": "Nucleo de Acompanhamento de Sindicancia,de Pessoal, de Ensino e de Acoes Estrategicas",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.3.3",
+              "nome": "Nucleo de Relacoes Institucionais",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.3.4",
+              "nome": "Nucleo de Protocolo, Apoio e Gestao Administrativa",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.4",
+          "nome": "Assessoria de Comunicacao",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.5",
+          "nome": "Ouvidoria Geral",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.6",
+          "nome": "Assessoria de Controle Interno",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.7",
+          "nome": "Corregedoria Interna",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.8",
+          "nome": "Assessoria de Relacionamento com Unidades Escolares",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.9",
+          "nome": "Assessoria de Relacoes Institucionais",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.10",
+          "nome": "Nucleo de Inteligencia e Seguranca Escolar",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.10.1",
+              "nome": "Divisao de Inteligencia",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.10.2",
+              "nome": "Divisao de Contrainteligencia",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "2",
+      "nome": "Subsecretaria de Gestao Administrativa",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "2.1",
+          "nome": "Assessoria Administrativa",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.2",
+          "nome": "Superintendencia de Gestao das Regionais Administrativas",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.2.1",
+              "nome": "Diretoria Regional Administrativa- Baixadas Litoraneas",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.2.1.1",
+                  "nome": "Coordenadoria Regional de Infraestrutura e Servicos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.1.2",
+                  "nome": "Coordenadoria Regional de Gestao Financeira",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.1.3",
+                  "nome": "Coordenadoria Regional de Gestao de Pessoas",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.1.4",
+                  "nome": "Coordenadoria Regional de Inspecao Escolar",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.2.2",
+              "nome": "Diretoria Regional Administrativa- Centro Sul",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.2.2.1",
+                  "nome": "Coordenadoria Regional de Infraestrutura e Servicos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.2.2",
+                  "nome": "Coordenadoria Regional de Gestao Financeira",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.2.3",
+                  "nome": "Coordenadoria Regional de Gestao de Pessoas",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.2.4",
+                  "nome": "Coordenadoria Regional de Inspecao Escolar",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.2.3",
+              "nome": "Diretoria Regional Administrativa- Sul Fluminense",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.2.3.1",
+                  "nome": "Coordenadoria Regional de Infraestrutura e Servicos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.3.2",
+                  "nome": "Coordenadoria Regional de Gestao Financeira",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.3.3",
+                  "nome": "Coordenadoria Regional de Gestao de Pessoas",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.3.4",
+                  "nome": "Coordenadoria Regional de Inspecao Escolar",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.2.4",
+              "nome": "Diretoria Regional Administrativa- Metropolitana I",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.2.4.1",
+                  "nome": "Coordenadoria Regional de Infraestrutura e Servicos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.4.2",
+                  "nome": "Coordenadoria Regional de Gestao Financeira",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.4.3",
+                  "nome": "Coordenadoria Regional de Gestao de Pessoas",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.4.4",
+                  "nome": "Coordenadoria Regional de Inspecao Escolar",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.2.5",
+              "nome": "Diretoria Regional Administrativa- Metropolitana II",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.2.5.1",
+                  "nome": "Coordenadoria Regional de Infraestrutura e Servicos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.5.2",
+                  "nome": "Coordenadoria Regional de Gestao Financeira",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.5.3",
+                  "nome": "Coordenadoria Regional de Gestao de Pessoas",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.5.4",
+                  "nome": "Coordenadoria Regional de Inspecao Escolar",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.2.6",
+              "nome": "Diretoria Regional Administrativa- Metropolitana III",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.2.6.1",
+                  "nome": "Coordenadoria Regional de Infraestrutura e Servicos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.6.2",
+                  "nome": "Coordenadoria Regional de Gestao Financeira",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.6.3",
+                  "nome": "Coordenadoria Regional de Gestao de Pessoas",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.6.4",
+                  "nome": "Coordenadoria Regional de Inspecao Escolar",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.2.7",
+              "nome": "Diretoria Regional Administrativa- Metropolitana IV",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.2.7.1",
+                  "nome": "Coordenadoria Regional de Infraestrutura e Servicos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.7.2",
+                  "nome": "Coordenadoria Regional de Gestao Financeira",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.7.3",
+                  "nome": "Coordenadoria Regional de Gestao de Pessoas",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.7.4",
+                  "nome": "Coordenadoria Regional de Inspecao Escolar",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.2.8",
+              "nome": "Diretoria Regional Administrativa- Metropolitana V",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.2.8.1",
+                  "nome": "Coordenadoria Regional de Infraestrutura e Servicos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.8.2",
+                  "nome": "Coordenadoria Regional de Gestao Financeira",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.8.3",
+                  "nome": "Coordenadoria Regional de Gestao de Pessoas",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.8.4",
+                  "nome": "Coordenadoria Regional de Inspecao Escolar",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.2.9",
+              "nome": "Diretoria Regional Administrativa- Metropolitana VI",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.2.9.1",
+                  "nome": "Coordenadoria Regional de Infraestrutura e Servicos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.9.2",
+                  "nome": "Coordenadoria Regional de Gestao Financeira",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.9.3",
+                  "nome": "Coordenadoria Regional de Gestao de Pessoas",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.9.4",
+                  "nome": "Coordenadoria Regional de Inspecao Escolar",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.2.10",
+              "nome": "Diretoria Regional Administrativa- Metropolitana VII",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.2.10.1",
+                  "nome": "Coordenadoria Regional de Infraestrutura e Servicos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.10.2",
+                  "nome": "Coordenadoria Regional de Gestao Financeira",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.10.3",
+                  "nome": "Coordenadoria Regional de Gestao de Pessoas",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.10.4",
+                  "nome": "Coordenadoria Regional de Inspecao Escolar",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.2.11",
+              "nome": "Diretoria Regional Administrativa- Noroeste Fluminense",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.2.11.1",
+                  "nome": "Coordenadoria Regional de Infraestrutura e Servicos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.11.2",
+                  "nome": "Coordenadoria Regional de Gestao Financeira",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.11.3",
+                  "nome": "Coordenadoria Regional de Gestao de Pessoas",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.11.4",
+                  "nome": "Coordenadoria Regional de Inspecao Escolar",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.2.12",
+              "nome": "Diretoria Regional Administrativa- Norte Fluminense",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.2.12.1",
+                  "nome": "Coordenadoria Regional de Infraestrutura e Servicos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.12.2",
+                  "nome": "Coordenadoria Regional de Gestao Financeira",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.12.3",
+                  "nome": "Coordenadoria Regional de Gestao de Pessoas",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.12.4",
+                  "nome": "Coordenadoria Regional de Inspecao Escolar",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.2.13",
+              "nome": "Diretoria Regional Administrativa- Serrana I",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.2.13.1",
+                  "nome": "Coordenadoria Regional de Infraestrutura e Servicos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.13.2",
+                  "nome": "Coordenadoria Regional de Gestao Financeira",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.13.3",
+                  "nome": "Coordenadoria Regional de Gestao de Pessoas",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.13.4",
+                  "nome": "Coordenadoria Regional de Inspecao Escolar",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.2.14",
+              "nome": "Diretoria Regional Administrativa- Serrana II",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.2.14.1",
+                  "nome": "Coordenadoria Regional de Infraestrutura e Servicos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.14.2",
+                  "nome": "Coordenadoria Regional de Gestao Financeira",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.14.3",
+                  "nome": "Coordenadoria Regional de Gestao de Pessoas",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.14.4",
+                  "nome": "Coordenadoria Regional de Inspecao Escolar",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.2.15",
+              "nome": "Diretoria Regional Administrativa de Unidades Escolares Prisionais e Socioeducativas",
+              "sigla": "DIESP",
+              "filhos": [
+                {
+                  "indice": "2.2.15.1",
+                  "nome": "Coordenadoria Regional de Infraestrutura, Servicos e Gestao Financeira",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.15.2",
+                  "nome": "Coordenadoria Regional de Gestao de Pessoas",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.15.3",
+                  "nome": "Coordenadoria Regional de Inspecao Escolar",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.2.16",
+              "nome": "Coordenadoria Geral de Inspecao Escolar, Certificacao e Acervo",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.17",
+              "nome": "Coordenadoria de Transporte Escolar",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.18",
+              "nome": "Coordenadoria de Seguranca Alimentar",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.19",
+              "nome": "Coordenadoria de Gestao Financeira Escolar",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.20",
+              "nome": "Coordenadoria de Operacao Escolar",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.21",
+              "nome": "Coordenadoria de Apoio a Infraestrutura Escolar",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "2.3",
+          "nome": "Superintendencia de Gestao de Pessoas",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.3.1",
+              "nome": "Coordenadoria de Selecao Externa e Processo Admissional",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.3.2",
+              "nome": "Coordenadoria de Controle de Alocacao de Professores",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.3.3",
+              "nome": "Coordenadoria de Movimentacao e Frequencia",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.3.4",
+              "nome": "Coordenadoria de Aposentadoria",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.3.5",
+              "nome": "Coordenadoria de Direitos e Vantagens",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.3.6",
+              "nome": "Coordenadoria de Pagamento de Auxilios e Beneficios",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.3.7",
+              "nome": "Coordenadoria de Cadastro Funcional",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "2.4",
+          "nome": "Superintendencia Tecnica de Infraestrutura e Logistica",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.4.1",
+              "nome": "Coordenadoria de Engenharia e Avaliacao Imobiliaria",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.4.2",
+              "nome": "Coordenadoria Financeira de Alugueis e Concessionarias",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.4.3",
+              "nome": "Coordenadoria de Bens Patrimoniais",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.4.4",
+              "nome": "Coordenadoria de Administracao Predial e Logistica",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.4.4.1",
+                  "nome": "Divisao de Gestao de Estoque",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.4.5",
+              "nome": "Coordenadoria de Documentacao e Arquivo",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "3",
+      "nome": "Subsecretaria de Gestao de Ensino",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "3.1",
+          "nome": "Assessoria de Gestao de Ensino",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.2",
+          "nome": "Assessoria de Ensino Religioso",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.3",
+          "nome": "Superintendencia Pedagogica",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.3.1",
+              "nome": "Coordenadoria de Diversidade e Inclusao Educacional",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.3.2",
+              "nome": "Coordenadoria de Areas do Conhecimento",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.3.3",
+              "nome": "Coordenadoria de Ensino Fundamental",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.3.4",
+              "nome": "Coordenadoria de Ensino Medio",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.3.5",
+              "nome": "Coordenadoria de Ensino de Jovens e Adultos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.3.6",
+              "nome": "Coordenadoria de Tecnologia Pedagogica Educacional",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.3.7",
+              "nome": "Coordenadoria de Educacao Integral e Tempo Integral",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "3.4",
+          "nome": "Superintendencia de Gestao das Regionais Pedagogicas",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.4.1",
+              "nome": "Diretoria Regional Pedagogica- Baixadas Litoraneas",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.4.1.1",
+                  "nome": "Coordenadoria de Ensino",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.4.1.2",
+                  "nome": "Coordenadoria de Gestao e Integracao da Rede",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.4.1.3",
+                  "nome": "Coordenadoria de Avaliacao e Acompanhamento",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "3.4.2",
+              "nome": "Diretoria Regional Pedagogica - Centro Sul",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.4.2.1",
+                  "nome": "Coordenadoria de Ensino",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.4.2.2",
+                  "nome": "Coordenadoria de Gestao e Integracao da Rede",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.4.2.3",
+                  "nome": "Coordenadoria de Avaliacao e Acompanhamento",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "3.4.3",
+              "nome": "Diretoria Regional Pedagogica -Sul Fluminense",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.4.3.1",
+                  "nome": "Coordenadoria de Ensino",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.4.3.2",
+                  "nome": "Coordenadoria de Gestao e Integracao da Rede",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.4.3.3",
+                  "nome": "Coordenadoria de Avaliacao e Acompanhamento",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "3.4.4",
+              "nome": "Diretoria Regional Pedagogica- Metropolitana I",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.4.4.1",
+                  "nome": "Coordenadoria de Ensino",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.4.4.2",
+                  "nome": "Coordenadoria de Gestao e Integracao da Rede",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "3.5.4.3",
+          "nome": "Coordenadoria de Avaliacao e Acompanhamento",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    }
+  ],
+  "Entes Vinculados": [],
+  "Orgaos Colegiados": [
+    {
+      "nome": "Conselho Estadual de Alimentacao Escolar",
+      "sigla": "CEAE"
+    },
+    {
+      "nome": "Conselho Estadual de Educacao Indigena",
+      "sigla": "CEEI"
+    },
+    {
+      "nome": "Conselho Gestor do Fundo de Manutencao e Desenvolvimento do Ensino",
+      "sigla": null
+    },
+    {
+      "nome": "Fundamental e da Valorizacao do Magisterio do Estado do Rio de Janeiro",
+      "sigla": "FUNDEB"
+    }
+  ],
+  "Comissoes": [],
+  "Fundos": []
+}

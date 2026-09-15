@@ -1,0 +1,809 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DE ADMINISTRAÇÃO PENITENCIÁRIA",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "Gabinete do Secretario",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "1.1",
+          "nome": "Chefia de Gabinete",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.1.1",
+              "nome": "Assessoria Tecnica Administrativa",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.2",
+              "nome": "Assessoria de Seguranca Institucional",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.2",
+          "nome": "Assessoria Juridica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.3",
+          "nome": "Assessoria Especial",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.4",
+          "nome": "Assessoria de Planejamento e Gestao",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.4.1",
+              "nome": "Nucleo de Excelencia de Gestao e Qualidade",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.4.2",
+              "nome": "Nucleo de Planejamento",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.4.3",
+              "nome": "Nucleo de Projetos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.4.4",
+              "nome": "Nucleo de Estatisticas e Coleta de Dados",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.5",
+          "nome": "Assessoria de Comunicacao Social",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.6",
+          "nome": "Unidade de Controle Interno",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.6.1",
+              "nome": "Coordenacao de Supervisao e Analise",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.6.2",
+              "nome": "Coordenacao de Auditoria Setorial",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.7",
+          "nome": "Assessoria de Integridade Publica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.8",
+          "nome": "Ouvidoria",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.9",
+          "nome": "Assessoria de Projetos de Investimento e Parcerias",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.9.1",
+              "nome": "Divisao Administrativa",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.9.2",
+              "nome": "Nucleo de Fundos e Convenios",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.9.3",
+              "nome": "Nucleo de Investimentos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.9.4",
+              "nome": "Nucleo de Parcerias",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "2",
+      "nome": "Subsecretaria de Inteligencia do Sistema Penitenciario",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "2.1",
+          "nome": "Assessoria Especial",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.2",
+          "nome": "Superintendencia de Inteligencia",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.3",
+          "nome": "Superintendencia de Acoes Especializadas",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.4",
+          "nome": "Superintendencia de Busca Eletronica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.5",
+          "nome": "Superintendencia de Contrainteligencia",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.6",
+          "nome": "Assessoria de Suporte Tecnico",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.6.1",
+              "nome": "Divisao de Informatica",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.6.2",
+              "nome": "Divisao de Ensino",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "2.7",
+          "nome": "Nucleo de Inteligencia do Grande Rio",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.8",
+          "nome": "Nucleo de Inteligencia de Gericino",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.9",
+          "nome": "Nucleo de Inteligencia da Grande Niteroi",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.10",
+          "nome": "Nucleo de Inteligencia do Norte e Noroeste",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.11",
+          "nome": "Nucleo de Inteligencia de Japeri e Sul Fluminense",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "3",
+      "nome": "Corregedoria Geral",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "3.1",
+          "nome": "Subcorregedoria Geral",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.1.1",
+              "nome": "Coordenacao de Analise e Instrucao Processual",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.1.1.1",
+                  "nome": "Divisao de Processos Administrativos Disciplinares",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.1.1.2",
+                  "nome": "Divisao de Processos Administrativos de Sindicancia",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "3.2",
+          "nome": "Superintendencia de Correicao e Assuntos Internos",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.2.1",
+              "nome": "Coordenacao de Correicao do Grande Rio e Niteroi",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.2.2",
+              "nome": "Coordenacao de Correicao de Gericino",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.2.3",
+              "nome": "Coordenacao de Correicao do Norte Noroeste",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.2.4",
+              "nome": "Coordenacao de Assuntos Internos",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "3.3",
+          "nome": "Superintendencia das Comissoes Permanentes de Inqueritos Administrativos",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.3.1",
+              "nome": "1a Comissao Permanente de Inquerito Administrativo",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.3.2",
+              "nome": "2a Comissao Permanente de Inquerito Administrativo",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.3.3",
+              "nome": "3a Comissao Permanente de Inquerito Administrativo",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.3.4",
+              "nome": "4a Comissao Permanente de Inquerito Administrativo",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "3.4",
+          "nome": "Assessoria Tecnica Especial",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "4",
+      "nome": "Subsecretaria de Gestao Tecnica",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "4.1",
+          "nome": "Academia de Policia Penal",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.1.1",
+              "nome": "Coordenacao de Estudos e Pesquisa",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "4.1.1.1",
+                  "nome": "Divisao de Biblioteca",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "4.1.1.2",
+                  "nome": "Divisao de Estudos, Pesquisa e Publicacao",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "4.1.2",
+              "nome": "Coordenacao de Instrucao Especializada",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "4.1.2.1",
+                  "nome": "Divisao Administrativa",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "4.1.2.2",
+                  "nome": "Divisao Avancada de Treinamento Especializado da Ilha Grande",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "4.1.2.3",
+                  "nome": "Divisao de Armamento e Tiro",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "4.1.3",
+              "nome": "Secretaria Academica",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "4.1.3.1",
+                  "nome": "Divisao de Controle de Alunos",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "4.1.4",
+              "nome": "Coordenacao Administrativa da Escola",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "4.1.4.1",
+                  "nome": "Divisao de Logistica",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "4.1.5",
+              "nome": "Coordenacao Pedagogica",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "4.1.5.1",
+                  "nome": "Divisao de Monitoramento de Estagio",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "4.1.6",
+              "nome": "Coordenacao de Planejamento e Projetos de Ensino",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "4.1.6.1",
+                  "nome": "Divisao de Eventos Culturais",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "4.1.7",
+              "nome": "Coordenacao de Psicologia, Mediacao e Justica Restaurativa",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.1.8",
+              "nome": "Museu Penitenciario",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "4.1.8.1",
+                  "nome": "Divisao de Documentacao e Acervo",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "4.1.8.2",
+                  "nome": "Divisao Cultural e de Memoria da Ilha Grande",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "4.2",
+          "nome": "Superintendencia de Controle e Monitoramento Eletronico",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.2.1",
+              "nome": "Coordenacao de Monitoramento de Dispositivos Eletronicos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.2.2",
+              "nome": "Coordenacaode Controle e Monitoramento de Cameras",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.2.3",
+              "nome": "Coordenacao de Administracao e Suporte",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.2.4",
+              "nome": "Coordenacao de Audiencias Virtuais",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "4.3",
+          "nome": "Superintendencia de Tecnologia da Informacao",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.3.1",
+              "nome": "Coordenacao de Manutencao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.3.2",
+              "nome": "Coordenacao de Telecomunicacoes",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.3.3",
+              "nome": "Coordenacao de Rede de Computadores",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.3.4",
+              "nome": "Coordenacao de Desenvolvimento",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.3.5",
+              "nome": "Coordenacao Administrativa de TI",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.3.6",
+              "nome": "Coordenacao de Radiofonia",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "5",
+      "nome": "Subsecretaria de Reintegracao Social",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "5.1",
+          "nome": "Superintendencia de Tratamento Penitenciario",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "5.1.1",
+              "nome": "Coordenacao de Insercao Social",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "5.1.1.1",
+                  "nome": "Divisao de Educacao, Cultura e Esportes",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.1.1.2",
+                  "nome": "Divisao de Ensino Profissionalizante",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.1.1.3",
+                  "nome": "Divisao de Projetos Laborativos",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "5.1.2",
+              "nome": "Coordenacao de Servico Social",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "5.1.2.1",
+                  "nome": "Divisao de Supervisao e Acompanhamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.1.2.2",
+                  "nome": "Divisao de Planejamento e Intercambio Setorial",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.1.2.3",
+                  "nome": "Divisao de Atendimento as Familia e Credenciamento",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "5.1.3",
+              "nome": "Coordenacao Administrativa de Gestao em Tratamento",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "5.1.3.1",
+                  "nome": "Divisao de Salario Penitenciario",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.1.3.2",
+                  "nome": "Divisao de Administracao e Logistica",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "5.1.4",
+              "nome": "Coordenacao de Analise e Credenciamento de Visitantes",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "5.1.4.1",
+                  "nome": "Divisao de Administracao do Credenciamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.1.4.2",
+                  "nome": "Divisao de Analise de Documentos e Atendimento",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "5.1.5",
+              "nome": "Coordenacao de Classificacao",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "5.1.5.1",
+                  "nome": "Divisao de Analise de Processos Disciplinares",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.1.5.2",
+                  "nome": "Divisao de Digitalizacao",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "5.1.6",
+              "nome": "Coordenacao de Psicologia",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "5.1.6.1",
+                  "nome": "Divisao de Supervisao e Acompanhamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.1.6.2",
+                  "nome": "Divisao de Planejamento e Gestao de Projetos",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "5.1.7",
+              "nome": "Coordenacao de Patronatos e Alternativas Penais",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "5.1.7.1",
+                  "nome": "Divisao de Administracao das Alternativas Penais",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.1.7.2",
+                  "nome": "Central de Penas Alternativas",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.1.7.3",
+                  "nome": "Patronato Central Magarino Torres",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "5.2",
+          "nome": "Superintendencia de Saude Penitenciaria",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "5.2.1",
+              "nome": "Coordenacao de Saude Penitenciaria",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "5.2.1.1",
+                  "nome": "Divisao Medico Ambulatorial",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.1.2",
+                  "nome": "Divisao de Odontologia",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.1.3",
+                  "nome": "Divisao de Enfermagem",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.1.4",
+                  "nome": "Divisao de Administracao da Saude",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.1.5",
+                  "nome": "Divisao de Insumos de Saude",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.1.6",
+                  "nome": "Divisao de Prevencao e Tratamento em Dependencia Quimica",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.1.7",
+                  "nome": "Divisao de Programas e Projetos Especiais em Saude Penitenciaria",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.1.8",
+                  "nome": "Divisao de Nutricao",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.1.9",
+                  "nome": "Instituto de Pericias Heitor Carrilho",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.1.10",
+                  "nome": "Hospital Dr. Hamilton Agostinho Vieira de Castro",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.1.11",
+                  "nome": "Hospital Penal Psiquiatrico Roberto Medeiros",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.1.12",
+                  "nome": "Sanatorio Penal",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.1.13",
+                  "nome": "Hospital de Custodia e Tratamento Psiquiatrico Henrique Roxo",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Entes Vinculados": [],
+  "Orgaos Colegiados": [
+    {
+      "nome": "Conselho Penitenciario do Estado do Rio de Janeiro",
+      "sigla": "CPERJ"
+    },
+    {
+      "nome": "Conselho Superior de Administracao Penitenciaria",
+      "sigla": null
+    }
+  ],
+  "Comissoes": [],
+  "Fundos": []
+}

@@ -1,0 +1,3236 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DE POLÍCIA CIVIL",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "Gabinete do Secretario",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "1.1",
+          "nome": "Chefia de Gabinete do Secretario de Policia Civil",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.1.1",
+              "nome": "Assessoria Tecnico-Especial",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.2",
+              "nome": "Nucleo de Seguranca Institucional Interno",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.3",
+              "nome": "Nucleo de Seguranca Institucional Externo",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.4",
+              "nome": "Nucleo de Cerimonial e Eventos",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.2",
+          "nome": "Assessoria Tecnico-Administrativa",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.2.1",
+              "nome": "Assistencia Tecnico-Administrativa",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.2.2",
+              "nome": "Nucleo de Protocolo Geral",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.3",
+          "nome": "Assessoria Especial",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.3.1",
+              "nome": "Assistencia Parlamentar e Relacoes Institucionais",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.4",
+          "nome": "Assessoria Juridica",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.4.1",
+              "nome": "Assistencia Tecnica-Juridica",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.4.2",
+              "nome": "Servico de Suporte Administrativo",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.4.3",
+              "nome": "Servico de Pesquisa de Procedimentos Judiciais",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.5",
+          "nome": "Assessoria de Planejamento e Projetos",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.5.1",
+              "nome": "Servico de Convenios",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.5.2",
+              "nome": "Servico de Analise de Dados de Gestao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.5.3",
+              "nome": "Servico de Estrategia e Planejamento",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.5.4",
+              "nome": "Escritorio de Projetos e Processos",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.6",
+          "nome": "Assessoria de Comunicacao",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.6.1",
+              "nome": "Assistencia de Comunicacao",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.7",
+          "nome": "Corregedoria-Geral de Policia Civil",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.7.1",
+              "nome": "Subcorregedoria-Geral de Policia Civil",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.7.2",
+              "nome": "Assistencia da Corregedoria-Geral",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.7.3",
+              "nome": "Servico de Suporte Administrativo",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.7.4",
+              "nome": "Nucleo de Defesa Juridica Policial",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.7.5",
+              "nome": "Departamento-Geral de Inspecao e Correicao",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "1.7.5.1",
+                  "nome": "Servico de Suporte Administrativo",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "1.7.5.2",
+                  "nome": "Servico de Analise de Registros e Rotinas Policiais",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "1.7.5.3",
+                  "nome": "Servico de Auditoria Procedimental",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "1.7.5.4",
+                  "nome": "Servico de Auditoria de Recolhimentos Financeiros",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "1.7.5.5",
+                  "nome": "Servico de Inspecao e Correicao",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "1.7.6",
+              "nome": "Departamento-Geral de Assuntos Internos",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "1.7.6.1",
+                  "nome": "Servico de Suporte Administrativo",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "1.7.6.2",
+                  "nome": "Servico de Apuracao Preliminar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "1.7.6.3",
+                  "nome": "Servico de Investigacao",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "1.7.6.4",
+                  "nome": "Servico de Analise da Informacao",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "1.7.6.5",
+                  "nome": "Servico de Plantao Policial",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "1.7.6.6",
+                  "nome": "Servico de Investigacao Complexa",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "1.7.6.7",
+                  "nome": "Servico de Investigacao Disciplinar e Criminal",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "1.7.7",
+              "nome": "Departamento-Geral das Comissoes Permanentes de Inqueritos Administrativos",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "1.7.7.1",
+                  "nome": "Servico de Suporte Administrativo",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "1.7.7.2",
+                  "nome": "1a Comissao Permanente de Inquerito Administrativo",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "1.7.7.3",
+                  "nome": "2a Comissao Permanente de Inquerito Administrativo",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "1.7.7.4",
+                  "nome": "3a Comissao Permanente de Inquerito Administrativo",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "1.7.8",
+              "nome": "Corregedorias Regionais de Policia",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "1.7.8.1",
+                  "nome": "1a Corregedoria Regional de Policia - Grande Niteroi",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "1.7.8.2",
+                  "nome": "2a Corregedoria Regional de Policia - Regiao Serrana",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "1.7.8.3",
+                  "nome": "3a Corregedoria Regional de Policia - Regiao dos Lagos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "1.7.8.4",
+                  "nome": "4a Corregedoria Regional de Policia - Norte Fluminense",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "1.7.8.5",
+                  "nome": "5a Corregedoria Regional de Policia - Noroeste Fluminense",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "1.7.8.6",
+                  "nome": "6a Corregedoria Regional de Policia - Sul Fluminense e Costa Verde",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "1.7.8.7",
+                  "nome": "7a Corregedoria Regional de Policia - Baixada Fluminense",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "1.8",
+          "nome": "Controladoria-Geral de Policia Civil",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.8.1",
+              "nome": "Assistencia da Controladoria-Geral de Policia Civil",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.8.2",
+              "nome": "Unidade de Gestao de Integridade",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.8.3",
+              "nome": "Servico de Suporte Administrativo",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.8.4",
+              "nome": "Auditoria-Geral de Policia Civil",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "1.8.4.1",
+                  "nome": "Servico de Suporte Administrativo",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "1.8.4.2",
+                  "nome": "Diretoria de Controle Interno",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "1.8.4.2.1",
+                      "nome": "Divisao de Auditoria Operacional",
+                      "sigla": null,
+                      "filhos": [
+                        {
+                          "indice": "1.8.4.2.1.1",
+                          "nome": "Servico de Auditoria de Rotinas e Processos Administrativos",
+                          "sigla": null,
+                          "filhos": []
+                        },
+                        {
+                          "indice": "1.8.4.2.1.2",
+                          "nome": "Servico de Auditoria de Rotinas e Processos Policiais",
+                          "sigla": null,
+                          "filhos": []
+                        }
+                      ]
+                    },
+                    {
+                      "indice": "1.8.4.2.2",
+                      "nome": "Divisao de Prevencao a Fraude",
+                      "sigla": null,
+                      "filhos": [
+                        {
+                          "indice": "1.8.4.2.2.1",
+                          "nome": "Servico de Apuracao de Fraudes",
+                          "sigla": null,
+                          "filhos": []
+                        },
+                        {
+                          "indice": "1.8.4.2.2.2",
+                          "nome": "Servico de Apuracao e Formalizacao de Sindicancia Patrimonial",
+                          "sigla": null,
+                          "filhos": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "indice": "1.8.4.3",
+                  "nome": "Diretoria de Auditoria de Contas",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "1.8.4.3.1",
+                      "nome": "Servico de Auditoria de Planejamento e Execucao Financeira, Orcamentaria e Contabil",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "1.8.4.3.2",
+                      "nome": "Servico de Auditoria Patrimonial",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "1.8.4.3.3",
+                      "nome": "Servico de Analise das Prestacoes e Tomadas de Contas",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "1.8.5",
+              "nome": "Ouvidoria-Geral de Policia Civil",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "1.8.5.1",
+                  "nome": "Servico de Suporte Administrativo",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "1.8.5.2",
+                  "nome": "Divisao de Atendimento ao Cidadao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "1.8.5.2.1",
+                      "nome": "Servico de Processamento de Demandas",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "1.8.5.3",
+                  "nome": "Divisao de Transparencia",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "1.8.5.3.1",
+                      "nome": "Servico de Processamento de Requerimento",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "2",
+      "nome": "Subsecretaria de Gestao Administrativa",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "2.1",
+          "nome": "Assessoria Tecnico-Especial",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.2",
+          "nome": "Departamento-Geral de Contratacoes e Convenios",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.2.1",
+              "nome": "Assistencia Especial",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.2",
+              "nome": "Servico de Suporte Administrativo",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.3",
+              "nome": "Divisao de Preparacao das Contratacoes",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.2.3.1",
+                  "nome": "Servico de Preparacao das Contratacoes",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.3.2",
+                  "nome": "Servico de Pesquisa de Mercado",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.2.4",
+              "nome": "Divisao de Licitacao e Contratos Administrativos",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.2.4.1",
+                  "nome": "Servico de Licitacao",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.4.2",
+                  "nome": "Servico de Contratos Administrativos",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.2.5",
+              "nome": "Divisao de Gestao de Contratos e Convenios",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.2.5.1",
+                  "nome": "Servico de Gestao de Contratos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.5.2",
+                  "nome": "Servico de Gestao de Convenios",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "2.3",
+          "nome": "Departamento-Geral de Administracao e Financas",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.3.1",
+              "nome": "Assistencia Especial",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.3.2",
+              "nome": "Servico de Suporte Administrativo",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.3.3",
+              "nome": "Assistencia de Contabilidade",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.3.4",
+              "nome": "Divisao de Infraestrutura e Logistica",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.3.4.1",
+                  "nome": "Servico de Transporte",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.4.2",
+                  "nome": "Servico de Engenharia e Manutencao",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.4.3",
+                  "nome": "Servico de Almoxarifado e Patrimonio",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.3.5",
+              "nome": "Divisao de Orcamento e Execucao Financeira",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.3.5.1",
+                  "nome": "Servico de Planejamento Orcamentario",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.5.2",
+                  "nome": "Servico de Execucao Financeira",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.5.3",
+                  "nome": "Servico de Controle e Arrecadacao de Fundos",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.3.6",
+              "nome": "Divisao de Arquivo Geral",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.3.6.1",
+                  "nome": "Servico de Microfilmagem",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.6.2",
+                  "nome": "Servico de Evidencias Criminais",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.6.3",
+                  "nome": "Servico de Documentos",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "2.4",
+          "nome": "Departamento-Geral de Gestao de Pessoas",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.4.1",
+              "nome": "Assistencia Especial",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.4.2",
+              "nome": "Divisao de Administracao de Pessoal",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.4.2.1",
+                  "nome": "Servico de Registros Funcionais",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.4.2.2",
+                  "nome": "Servico de Inativos e Pensionistas",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.4.2.3",
+                  "nome": "Servico de Direitos e Vantagens",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.4.2.4",
+                  "nome": "Servico de Nucleo de Pessoal",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.4.2.5",
+                  "nome": "Servico de Avaliacao de Desempenho e Estagio Probatorio e Supervisionado",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.4.2.6",
+                  "nome": "Servico de Controle e Analise de Cargos Efetivos e em Comissao",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.4.2.7",
+                  "nome": "Servico de Comando de Pagamento de Pessoal",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.4.3",
+              "nome": "Divisao de Valorizacao Profissional",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.4.3.1",
+                  "nome": "Servico de Promocoes",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.4.3.2",
+                  "nome": "Servico de Assistencia ao Servidor",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.4.3.3",
+                  "nome": "Servico de Esporte e Valorizacao Profissional",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.4.3.4",
+                  "nome": "Servico de Cultura",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.4.4",
+              "nome": "Centro Cultural da Policia Civil",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.4.4.1",
+                  "nome": "Museu da Policia Civil",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "2.5",
+          "nome": "Academia Estadual de Policia Sylvio Terra",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.5.1",
+              "nome": "Vice Diretoria",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.5.2",
+              "nome": "Centro Geral de Estudos e Projetos Estrategicos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.5.3",
+              "nome": "Divisao de Recrutamento e Selecao",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.5.3.1",
+                  "nome": "Servico de Investigacao Social",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.5.3.2",
+                  "nome": "Servico de Planejamento e Execucao de Concursos",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.5.4",
+              "nome": "Divisao de Ensino Policial",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.5.4.1",
+                  "nome": "Servico de Coordenacao e Registro Escolar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.5.4.2",
+                  "nome": "Servico Pedagogico",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.5.4.3",
+                  "nome": "Servico de Treinamento Operacional",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.5.5",
+              "nome": "Divisao de Administracao",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.5.5.1",
+                  "nome": "Servico de Suporte Administrativo",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.5.5.2",
+                  "nome": "Servico de Seguranca e Transporte",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.5.5.3",
+                  "nome": "Servico de Patrimonio e Pessoal",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "2.6",
+          "nome": "Departamento-Geral de Tecnologia da Informacao e Comunicacao",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.6.1",
+              "nome": "Assistencia Especial",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.6.2",
+              "nome": "Assistencia de Inovacao e Pesquisa",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.6.3",
+              "nome": "Divisao de Administracao",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.6.3.1",
+                  "nome": "Servico de Contratos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.6.3.2",
+                  "nome": "Servico de Gestao de Materiais",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.6.3.3",
+                  "nome": "Servico de Planejamento",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.6.4",
+              "nome": "Diretoria de Tecnologia da Informacao",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.6.4.1",
+                  "nome": "Servico de Gestao e Governanca",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.6.4.2",
+                  "nome": "Servico de Seguranca da Informacao",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.6.4.3",
+                  "nome": "Divisao de Desenvolvimento e Suporte de Sistemas",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "2.6.4.3.1",
+                      "nome": "Servico de Desenvolvimento de Sistemas",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "2.6.4.3.2",
+                      "nome": "Servico de Ciencia de Dados",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "2.6.4.3.3",
+                      "nome": "Servico de Gestao de Qualidade",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "2.6.4.3.4",
+                      "nome": "Servico de Integracao",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "2.6.4.3.5",
+                      "nome": "Servico de Geodados",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "2.6.4.4",
+                  "nome": "Divisao de Infraestrutura",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "2.6.4.4.1",
+                      "nome": "Servico de Infraestruturas Operacionais",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "2.6.4.4.2",
+                      "nome": "Servico de Suporte",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "2.6.4.4.3",
+                      "nome": "Servico de Comunicacao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "2.7",
+          "nome": "Policlinica da Policia Civil Jose da Costa Moreira",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.7.1",
+              "nome": "Vice Diretoria",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.7.2",
+              "nome": "Servico de Suporte Administrativo",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.7.3",
+              "nome": "Servico de Prevencao e Atencao a Saude do Policial",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.7.4",
+              "nome": "Nucleo de Saude Mental do Policial",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.7.5",
+              "nome": "Servico de Clinica Medica, Cirurgia e Exames de Imagens",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.7.6",
+              "nome": "Servico Especializado em Medicina e Seguranca do Trabalho",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.7.7",
+              "nome": "Servico de Qualidade de Vida",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "3",
+      "nome": "Subsecretaria de Planejamento e Integracao Operacional",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "3.1",
+          "nome": "Assessoria Tecnico-Especial",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.2",
+          "nome": "Coordenadoria de Fiscalizacao de Armas e Explosivos",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.2.1",
+              "nome": "Divisao de Atividades Especiais",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "3.3",
+          "nome": "Coordenadoria de Recursos Especiais",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.3.1",
+              "nome": "Servico de Recursos Especiais",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.3.2",
+              "nome": "Servico Aeropolicial",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.3.3",
+              "nome": "Esquadrao Antibombas",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.3.4",
+              "nome": "Servico de Planejamento Operacional",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.3.5",
+              "nome": "Servico de Apoio Operacional",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.3.6",
+              "nome": "Servico de Treinamento Especializado",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "3.4",
+          "nome": "Coordenadoria de Comunicacoes e Operacoes Policiais",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.4.1",
+              "nome": "Servico de Suporte Administrativo",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.4.2",
+              "nome": "Servico de Manutencao e Suprimento",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.4.3",
+              "nome": "Servico de Operacao e Telecomunicacoes",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.4.4",
+              "nome": "Servico de Apoio ao Centro Integrado de Comando e Controle",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "3.5",
+          "nome": "Coordenadoria de Investigacoes de Agentes com Foro",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.6",
+          "nome": "Coordenadoria de Operacoes com Aeronaves Nao Tripuladas",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.7",
+          "nome": "Departamento-Geral de Policia da Capital",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.7.1",
+              "nome": "1o Departamento de Policia de Area",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.7.1.1",
+                  "nome": "01a Delegacia de Policia - Praca Maua",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.7.1.2",
+                  "nome": "04a Delegacia de Policia - Praca da Republica",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.7.1.3",
+                  "nome": "05a Delegacia de Policia - Mem de Sa",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.7.1.4",
+                  "nome": "06a Delegacia de Policia - Cidade Nova",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.7.1.5",
+                  "nome": "07a Delegacia de Policia - Santa Teresa",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.7.1.6",
+                  "nome": "09a Delegacia de Policia - Catete",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.7.1.7",
+                  "nome": "010a Delegacia de Policia - Botafogo",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.7.1.8",
+                  "nome": "011a Delegacia de Policia - Rocinha",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.7.1.9",
+                  "nome": "012a Delegacia de Policia - Copacabana",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.7.1.10",
+                  "nome": "013a Delegacia de Policia - Ipanema",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.7.1.11",
+                  "nome": "014a Delegacia de Policia - Leblon",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.7.1.12",
+                  "nome": "015a Delegacia de Policia - Gavea",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.7.1.13",
+                  "nome": "017a Delegacia de Policia - Sao Cristovao",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.7.1.14",
+                  "nome": "018a Delegacia de Policia - Praca da Bandeira",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.7.1.15",
+                  "nome": "019a Delegacia de Policia - Tijuca",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.7.1.16",
+                  "nome": "020a Delegacia de Policia - Vila Isabel",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.7.1.17",
+                  "nome": "021a Delegacia de Policia - Bonsucesso",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.7.1.18",
+                  "nome": "022a Delegacia de Policia - Penha",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.7.1.19",
+                  "nome": "023a Delegacia de Policia - Meier",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.7.1.20",
+                  "nome": "024a Delegacia de Policia - Piedade",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.7.1.21",
+                  "nome": "025a Delegacia de Policia - Engenho Novo",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.7.1.22",
+                  "nome": "026a Delegacia de Policia - Todos os Santos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.7.1.23",
+                  "nome": "037a Delegacia de Policia - Ilha do",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.7.1.24",
+                  "nome": "038a Delegacia de Policia - Bras de Pina",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.7.1.25",
+                  "nome": "044a Delegacia de Policia - Inhauma",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "3.7.2",
+              "nome": "2o Departamento de Policia de Area",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.7.2.1",
+                  "nome": "016a Delegacia de Policia - Barra da Tijuca",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.7.2.2",
+                  "nome": "027a Delegacia de Policia - Vicente de Carvalho",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.7.2.3",
+                  "nome": "028a Delegacia de Policia - Praca Seca",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.7.2.4",
+                  "nome": "029a Delegacia de Policia - Madureira",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.7.2.5",
+                  "nome": "030a Delegacia de Policia - Marechal Hermes",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.7.2.6",
+                  "nome": "031a Delegacia de Policia - Ricardo de Albuquerque",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.7.2.7",
+                  "nome": "032a Delegacia de Policia - Taquara",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.7.2.8",
+                  "nome": "033a Delegacia de Policia - Realengo",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.7.2.9",
+                  "nome": "034a Delegacia de Policia - Bangu",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.7.2.10",
+                  "nome": "035a Delegacia de Policia - Campo Grande",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.7.2.11",
+                  "nome": "036a Delegacia de Policia - Santa Cruz",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.7.2.12",
+                  "nome": "039a Delegacia de Policia - Pavuna",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.7.2.13",
+                  "nome": "040a Delegacia de Policia - Honorio Gurgel",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.7.2.14",
+                  "nome": "041a Delegacia de Policia - Tanque",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.7.2.15",
+                  "nome": "042a Delegacia de Policia - Recreio dos Bandeirantes",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.7.2.16",
+                  "nome": "043a Delegacia de Policia - Guaratiba",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "3.8",
+          "nome": "Departamento-Geral de Policia da Baixada",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.8.1",
+              "nome": "03o Departamento de Policia de Area",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.8.1.1",
+                  "nome": "048a Delegacia de Policia - Seropedica",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.8.1.2",
+                  "nome": "050a Delegacia de Policia - Itaguai",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.8.1.3",
+                  "nome": "051a Delegacia de Policia - Paracambi",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.8.1.4",
+                  "nome": "052a Delegacia de Policia - Nova Iguacu",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.8.1.5",
+                  "nome": "053a Delegacia de Policia - Mesquita",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.8.1.6",
+                  "nome": "054a Delegacia de Policia - Belford Roxo",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.8.1.7",
+                  "nome": "055a Delegacia de Policia - Queimados",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.8.1.8",
+                  "nome": "056a Delegacia de Policia - Comendador Soares",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.8.1.9",
+                  "nome": "057a Delegacia de Policia - Nilopolis",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.8.1.10",
+                  "nome": "058a Delegacia de Policia - Posse",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.8.1.11",
+                  "nome": "059a Delegacia de Policia - Duque de Caxias",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.8.1.12",
+                  "nome": "060a Delegacia de Policia - Campos Eliseos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.8.1.13",
+                  "nome": "061a Delegacia de Policia - Xerem",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.8.1.14",
+                  "nome": "062a Delegacia de Policia - Imbarie",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.8.1.15",
+                  "nome": "063a Delegacia de Policia - Japeri",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.8.1.16",
+                  "nome": "064a Delegacia de Policia - Sao Joao de Meriti",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.8.1.17",
+                  "nome": "065a Delegacia de Policia - Mage",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.8.1.18",
+                  "nome": "066a Delegacia de Policia - Piabeta",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.8.1.19",
+                  "nome": "067a Delegacia de Policia - Guapimirim",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "3.9",
+          "nome": "Departamento-Geral de Policia do Interior",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.9.1",
+              "nome": "04o Departamento de Policia de Area",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.9.1.1",
+                  "nome": "070a Delegacia de Policia - Tangua",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.1.2",
+                  "nome": "071a Delegacia de Policia - Itaborai",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.1.3",
+                  "nome": "072a Delegacia de Policia - Sao Goncalo",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.1.4",
+                  "nome": "073a Delegacia de Policia - Neves",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.1.5",
+                  "nome": "074a Delegacia de Policia - Alcantara",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.1.6",
+                  "nome": "075a Delegacia de Policia - Rio do Ouro",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.1.7",
+                  "nome": "076a Delegacia de Policia - Niteroi",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.1.8",
+                  "nome": "077a Delegacia de Policia - Icarai",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.1.9",
+                  "nome": "078a Delegacia de Policia - Fonseca",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.1.10",
+                  "nome": "079a Delegacia de Policia - Jurujuba",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.1.11",
+                  "nome": "081a Delegacia de Policia - Itaipu",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.1.12",
+                  "nome": "082a Delegacia de Policia - Marica",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.1.13",
+                  "nome": "118a Delegacia de Policia - Araruama",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.1.14",
+                  "nome": "119a Delegacia de Policia - Rio Bonito",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.1.15",
+                  "nome": "120a Delegacia de Policia - Silva Jardim",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.1.16",
+                  "nome": "124a Delegacia de Policia - Saquarema",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.1.17",
+                  "nome": "125a Delegacia de Policia - Sao Pedro da Aldeia",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.1.18",
+                  "nome": "126a Delegacia de Policia - Cabo Frio",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.1.19",
+                  "nome": "127a Delegacia de Policia - Armacao de Buzios",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.1.20",
+                  "nome": "129a Delegacia de Policia - Iguaba Grande",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.1.21",
+                  "nome": "132a Delegacia de Policia - Arraial do Cabo",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.1.22",
+                  "nome": "159a Delegacia de Policia - Cachoeira de Macacu",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "3.9.2",
+              "nome": "5o Departamento de Policia de Area",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.9.2.1",
+                  "nome": "088a Delegacia de Policia - Barra do Pirai",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.2.2",
+                  "nome": "089a Delegacia de Policia - Resende",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.2.3",
+                  "nome": "090a Delegacia de Policia - Barra Mansa",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.2.4",
+                  "nome": "091a Delegacia de Policia - Valenca",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.2.5",
+                  "nome": "092a Delegacia de Policia - Rio das Flores",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.2.6",
+                  "nome": "093a Delegacia de Policia - Volta Redonda",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.2.7",
+                  "nome": "094a Delegacia de Policia - Pirai",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.2.8",
+                  "nome": "095a Delegacia de Policia - Vassouras",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.2.9",
+                  "nome": "096a Delegacia de Policia - Miguel Pereira",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.2.10",
+                  "nome": "097a Delegacia de Policia - Mendes",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.2.11",
+                  "nome": "098a Delegacia de Policia - Engenheiro Paulo de Frontin",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.2.12",
+                  "nome": "099a Delegacia de Policia - Itatiaia",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.2.13",
+                  "nome": "100a Delegacia de Policia - Porto Real",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.2.14",
+                  "nome": "101a Delegacia de Policia - Pinheiral",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.2.15",
+                  "nome": "165a Delegacia de Policia - Mangaratiba",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.2.16",
+                  "nome": "166a Delegacia de Policia - Angra dos Reis",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.2.17",
+                  "nome": "167a Delegacia de Policia - Paraty",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.2.18",
+                  "nome": "168a Delegacia de Policia - Rio Claro",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "3.9.3",
+              "nome": "6o Departamento de Policia de Area",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.9.3.1",
+                  "nome": "121a Delegacia de Policia - Casimiro de Abreu",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.3.2",
+                  "nome": "122a Delegacia de Policia - Conceicao de Macabu",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.3.3",
+                  "nome": "123a Delegacia de Policia - Macae",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.3.4",
+                  "nome": "128a Delegacia de Policia - Rio das Ostras",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.3.5",
+                  "nome": "130a Delegacia de Policia - Quissama",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.3.6",
+                  "nome": "134a Delegacia de Policia - Campos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.3.7",
+                  "nome": "135a Delegacia de Policia - Itaocara",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.3.8",
+                  "nome": "136a Delegacia de Policia - Santo Antonio de Padua",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.3.9",
+                  "nome": "137a Delegacia de Policia - Miracema",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.3.10",
+                  "nome": "138a Delegacia de Policia - Laje do Muriae",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.3.11",
+                  "nome": "139a Delegacia de Policia - Porciuncula",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.3.12",
+                  "nome": "140a Delegacia de Policia - Natividade",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.3.13",
+                  "nome": "141a Delegacia de Policia - Sao Fidelis",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.3.14",
+                  "nome": "142a Delegacia de Policia - Cambuci",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.3.15",
+                  "nome": "143a Delegacia de Policia - Itaperuna",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.3.16",
+                  "nome": "144a Delegacia de Policia - Bom Jesus do Itabapoana",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.3.17",
+                  "nome": "145a Delegacia de Policia - Sao Joao da Barra",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.3.18",
+                  "nome": "146a Delegacia de Policia - Guarus",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.3.19",
+                  "nome": "147a Delegacia de Policia - Sao Francisco de Itabapoana",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.3.20",
+                  "nome": "148a Delegacia de Policia - Italva",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.3.21",
+                  "nome": "155a Delegacia de Policia - Sao Sebastiao do Alto",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "3.9.4",
+              "nome": "7o Departamento de Policia de Area",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.9.4.1",
+                  "nome": "104a Delegacia de Policia - Sao Jose do Vale do Rio Preto",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.4.2",
+                  "nome": "105a Delegacia de Policia - Petropolis",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.4.3",
+                  "nome": "106a Delegacia de Policia - Itaipava",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.4.4",
+                  "nome": "107a Delegacia de Policia - Paraiba do Sul",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.4.5",
+                  "nome": "108a Delegacia de Policia - Tres Rios",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.4.6",
+                  "nome": "109a Delegacia de Policia - Sapucaia",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.4.7",
+                  "nome": "110a Delegacia de Policia - Teresopolis",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.4.8",
+                  "nome": "111a Delegacia de Policia - Sumidouro",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.4.9",
+                  "nome": "112a Delegacia de Policia - Carmo",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.4.10",
+                  "nome": "151a Delegacia de Policia - Nova Friburgo",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.4.11",
+                  "nome": "152a Delegacia de Policia - Duas Barras",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.4.12",
+                  "nome": "153a Delegacia de Policia - Cantagalo",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.4.13",
+                  "nome": "154a Delegacia de Policia - Cordeiro",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.4.14",
+                  "nome": "156a Delegacia de Policia - Santa Maria Madalena",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.4.15",
+                  "nome": "157a Delegacia de Policia - Trajano de Moraes",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.9.4.16",
+                  "nome": "158a Delegacia de Policia - Bom Jardim",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "3.10",
+          "nome": "Departamento-Geral de Policia Especializada",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.10.1",
+              "nome": "Divisao de Capturas e Policia Interestadual",
+              "sigla": "DC-POLINTER",
+              "filhos": []
+            },
+            {
+              "indice": "3.10.2",
+              "nome": "Divisao de Roubos e Furtos de Automoveis",
+              "sigla": "DVRFA",
+              "filhos": [
+                {
+                  "indice": "3.10.2.1",
+                  "nome": "Delegacia de Roubos e Furtos de Automoveis da Capital",
+                  "sigla": "DRFA/CAP",
+                  "filhos": []
+                },
+                {
+                  "indice": "3.10.2.2",
+                  "nome": "Delegacia de Roubos e Furtos de Automoveis da Baixada Fluminense",
+                  "sigla": "DRFA/BF",
+                  "filhos": []
+                },
+                {
+                  "indice": "3.10.2.3",
+                  "nome": "Delegacia de Roubos e Furtos de Automoveis de Niteroi, Sao Goncalo, Itaborai e Marica",
+                  "sigla": "DRFA/NSG",
+                  "filhos": []
+                },
+                {
+                  "indice": "3.10.2.4",
+                  "nome": "Delegacia de Roubos e Furtos de Automoveis - DRFA-Patio Legal",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "3.10.3",
+              "nome": "Divisao de Repressao a Entorpecentes",
+              "sigla": "DVRE",
+              "filhos": [
+                {
+                  "indice": "3.10.3.1",
+                  "nome": "Delegacia de Repressao a Entorpecentes da Capital",
+                  "sigla": "DRE/CAP",
+                  "filhos": []
+                },
+                {
+                  "indice": "3.10.3.2",
+                  "nome": "Delegacia de Repressao a Entorpecentes da Baixada Fluminense",
+                  "sigla": "DRE/BF",
+                  "filhos": []
+                },
+                {
+                  "indice": "3.10.3.3",
+                  "nome": "Delegacia de Repressao a Entorpecentes de Niteroi, Sao Goncalo, Itaborai, Marica e Regiao dos Lagos",
+                  "sigla": "DRE/NSGRL",
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "3.10.4",
+              "nome": "Divisao de Roubos e Furtos de Cargas",
+              "sigla": "DVRFC",
+              "filhos": [
+                {
+                  "indice": "3.10.4.1",
+                  "nome": "Delegacia de Roubos e Furtos de Cargas da Capital",
+                  "sigla": "DRFC/CAP",
+                  "filhos": []
+                },
+                {
+                  "indice": "3.10.4.2",
+                  "nome": "Delegacia de Roubos e Furtos de Cargas da Baixada Fluminense",
+                  "sigla": "DRFC/BF",
+                  "filhos": []
+                },
+                {
+                  "indice": "3.10.4.3",
+                  "nome": "Delegacia de Roubos e Furtos de Cargas de Niteroi, Sao Goncalo, Itaborai e Marica",
+                  "sigla": "DRFC/NSG",
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "3.10.5",
+              "nome": "Divisao de Repressao aos Crimes Ciberneticos",
+              "sigla": "DVRCC",
+              "filhos": [
+                {
+                  "indice": "3.10.5.1",
+                  "nome": "Delegacia de Repressao aos Crimes de Informatica",
+                  "sigla": "DRCI",
+                  "filhos": []
+                },
+                {
+                  "indice": "3.10.5.2",
+                  "nome": "Delegacia Especializada em Fraudes Digitais",
+                  "sigla": "DEFRAD",
+                  "filhos": []
+                },
+                {
+                  "indice": "3.10.5.3",
+                  "nome": "Nucleo de Inteligencia Cibernetica",
+                  "sigla": "NUCIBER",
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "3.10.6",
+              "nome": "Divisao da Crianca e do Adolescente Vitima - DVC AV",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.10.6.1",
+                  "nome": "Delegacia da Crianca e do Adolescente Vitima",
+                  "sigla": "DCAV",
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "3.10.7",
+              "nome": "Delegacia do Aeroporto Internacional do Rio de Janeiro",
+              "sigla": "DAIRJ",
+              "filhos": []
+            },
+            {
+              "indice": "3.10.8",
+              "nome": "Delegacia Antissequestro",
+              "sigla": "DAS",
+              "filhos": []
+            },
+            {
+              "indice": "3.10.9",
+              "nome": "Delegacia de Defraudacoes",
+              "sigla": "DDEF",
+              "filhos": []
+            },
+            {
+              "indice": "3.10.10",
+              "nome": "Delegacia de Defesa de Servicos Delegados",
+              "sigla": "DDSD",
+              "filhos": []
+            },
+            {
+              "indice": "3.10.11",
+              "nome": "Delegacia Especial de Atendimento a Pessoa da Terceira Idade",
+              "sigla": "DEAPTI",
+              "filhos": []
+            },
+            {
+              "indice": "3.10.12",
+              "nome": "Delegacia Especial de Apoio ao Turismo",
+              "sigla": "DEAT",
+              "filhos": []
+            },
+            {
+              "indice": "3.10.13",
+              "nome": "Delegacia do Consumidor",
+              "sigla": "DECON",
+              "filhos": []
+            },
+            {
+              "indice": "3.10.14",
+              "nome": "Delegacia de Crimes Raciais, Delitos de Intolerancia e Pessoas com Deficiencia - DECRADI-PcD",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.10.15",
+              "nome": "Delegacia Fazendaria",
+              "sigla": "DELFAZ",
+              "filhos": []
+            },
+            {
+              "indice": "3.10.16",
+              "nome": "Delegacia Especializada em Armas, Municoes e Explosivos",
+              "sigla": "DESARME",
+              "filhos": []
+            },
+            {
+              "indice": "3.10.17",
+              "nome": "Delegacia de Protecao a Crianca e ao Adolescente - Centro",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.10.18",
+              "nome": "Delegacia de Protecao a Crianca e ao Adolescente - Niteroi",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.10.19",
+              "nome": "Delegacia de Protecao a Crianca e ao Adolescente - Sao Goncalo",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.10.20",
+              "nome": "Delegacia de Protecao ao Meio Ambiente",
+              "sigla": "DPMA",
+              "filhos": []
+            },
+            {
+              "indice": "3.10.21",
+              "nome": "Delegacia de Repressao aos Crimes Contra a Propriedade Imaterial",
+              "sigla": "DRCPIM",
+              "filhos": []
+            },
+            {
+              "indice": "3.10.22",
+              "nome": "Delegacia de Repressao as Acoes Criminosas Organizadas e Inqueritos Especiais",
+              "sigla": "DRACO/IE",
+              "filhos": []
+            },
+            {
+              "indice": "3.10.23",
+              "nome": "Delegacia de Roubos e Furtos",
+              "sigla": "DRF",
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "3.11",
+          "nome": "Departamento-Geral de Homicidios e Protecao a Pessoa",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.11.1",
+              "nome": "Delegacia de Descoberta de Paradeiros",
+              "sigla": "DDPA",
+              "filhos": [
+                {
+                  "indice": "3.11.1.1",
+                  "nome": "Nucleo de Homicidio",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.11.1.2",
+                  "nome": "Nucleo de Feminicidio",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.11.1.3",
+                  "nome": "Nucleo de Desaparecimento de Meninas e Mulheres em Decorrencia de Violencia de Genero",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "3.11.2",
+              "nome": "Delegacia de Homicidios da Capital",
+              "sigla": "DH",
+              "filhos": [
+                {
+                  "indice": "3.11.2.1",
+                  "nome": "Nucleo de Feminicidio",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "3.11.3",
+              "nome": "Delegacia de Homicidios da Baixada Fluminense",
+              "sigla": "DHBF",
+              "filhos": [
+                {
+                  "indice": "3.11.3.1",
+                  "nome": "Nucleo de Feminicidio",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.11.3.2",
+                  "nome": "Servico de Descoberta de Paradeiros",
+                  "sigla": "SDP",
+                  "filhos": [
+                    {
+                      "indice": "3.11.3.2.1",
+                      "nome": "Nucleo de Desaparecimento de Meninas e Mulheres em Decorrencia de Violencia de Genero",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "3.11.4",
+              "nome": "Delegacia de Homicidios de Niteroi, Sao Goncalo e Itaborai",
+              "sigla": "DHNSG",
+              "filhos": [
+                {
+                  "indice": "3.11.4.1",
+                  "nome": "Nucleo de Feminicidio",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.11.4.2",
+                  "nome": "Servico de Descoberta de Paradeiros",
+                  "sigla": "SDP",
+                  "filhos": [
+                    {
+                      "indice": "3.11.4.2.1",
+                      "nome": "Nucleo de Desaparecimento de Meninas e Mulheres em Decorrencia de Violencia de Genero",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "3.12",
+          "nome": "Departamento-Geral de Combate a Corrupcao, ao Crime Organizado e a Lavagem de Dinheiro",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.12.1",
+              "nome": "Delegacia de Combate as Organizacoes Criminosas e a Lavagem de Dinheiro",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.12.2",
+              "nome": "Delegacia de Combate a Corrupcao e a Lavagem de Dinheiro",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.12.3",
+              "nome": "Laboratorio de Tecnologia contra Lavagem de Dinheiro",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.12.4",
+              "nome": "Gabinete de Recuperacao de Ativos",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "3.13",
+          "nome": "Departamento-Geral de Policia de Atendimento a Mulher",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.13.1",
+              "nome": "Centro de Estudos e Pesquisas de Violencia de Genero do Estado do Rio de Janeiro",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.13.2",
+              "nome": "Delegacia de Atendimento a Mulher - Angra dos Reis",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.13.3",
+              "nome": "Delegacia de Atendimento a Mulher - Belford Roxo",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.13.4",
+              "nome": "Delegacia de Atendimento a Mulher - Cabo Frio",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.13.5",
+              "nome": "Delegacia de Atendimento a Mulher - Campo Grande",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.13.6",
+              "nome": "Delegacia de Atendimento a Mulher - Campos dos Goytacazes",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.13.7",
+              "nome": "Delegacia de Atendimento a Mulher - Centro",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.13.8",
+              "nome": "Delegacia de Atendimento a Mulher - Duque Caxias",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.13.9",
+              "nome": "Delegacia de Atendimento a Mulher - Jacarepagua",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.13.10",
+              "nome": "Delegacia de Atendimento a Mulher - Niteroi",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.13.11",
+              "nome": "Delegacia de Atendimento a Mulher - Nova Friburgo",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.13.12",
+              "nome": "Delegacia de Atendimento a Mulher - Nova Iguacu",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.13.13",
+              "nome": "Delegacia de Atendimento a Mulher - Sao Goncalo",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.13.14",
+              "nome": "Delegacia de Atendimento a Mulher - Sao Joao de Meriti",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.13.15",
+              "nome": "Delegacia de Atendimento a Mulher - Volta Redonda",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.13.16",
+              "nome": "Delegacia de Atendimento a Mulher - Zona Sul",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.13.17",
+              "nome": "Delegacia Digital Especializada de Atendimento a Mulher",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "3.14",
+          "nome": "Departamento-Geral de Policia das Delegacias de Acervo Cartorario",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.14.1",
+              "nome": "10a Delegacia de Acervo Cartorario - Especializadas Tradicionais",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.14.2",
+              "nome": "11a Delegacia de Acervo Cartorario - Nova Iguacu",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.14.3",
+              "nome": "12a Delegacia de Acervo Cartorario - Belford Roxo",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.14.4",
+              "nome": "13a Delegacia de Acervo Cartorario - Duque de Caxias",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.14.5",
+              "nome": "15a Delegacia de Acervo Cartorario - Niteroi",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.14.6",
+              "nome": "16a Delegacia de Acervo Cartorario - Sao Goncalo",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.14.7",
+              "nome": "Delegacia de Acervo Cartorario - Capital",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.14.8",
+              "nome": "Delegacia de Acervo Cartorario - Zona Oeste",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "4",
+      "nome": "Subsecretaria de Inteligencia",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "4.1",
+          "nome": "Assessoria Tecnico-Especial",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "4.2",
+          "nome": "Escola de Inteligencia de Seguranca Publica do Estado do Rio de Janeiro",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "4.3",
+          "nome": "Departamento-Geral de Inteligencia",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "4.4",
+          "nome": "Departamento-Geral de Contrainteligencia",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "4.5",
+          "nome": "Departamento-Geral de Operacoes de Inteligencia",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "4.6",
+          "nome": "Departamento-Geral de Busca Eletronica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "4.7",
+          "nome": "Departamento-Geral de Analise e Monitoramento",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "5",
+      "nome": "Subsecretaria de Estado de Policia Tecnico-Cientifica",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "5.1",
+          "nome": "Assessoria Tecnico-Especial",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "5.2",
+          "nome": "Nucleo de Apoio Logistico",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "5.3",
+          "nome": "Centro de Estudos e Pesquisas Forenses",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "5.3.1",
+              "nome": "Servico de Suporte Administrativo",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "5.3.2",
+              "nome": "Nucleo de Aperfeicoamento e Capacitacao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "5.3.3",
+              "nome": "Nucleo de Pesquisa, Desenvolvimento e Inovacao Tecnologica",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "5.3.4",
+              "nome": "Nucleo de Analises Estatisticas e Informacoes Estrategicas",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "5.3.5",
+              "nome": "Conselho Cientifico",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "5.4",
+          "nome": "Departamento-Geral de Policia Tecnico-Cientifica",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "5.4.1",
+              "nome": "Instituto de Criminalistica Carlos Eboli",
+              "sigla": "ICCE",
+              "filhos": [
+                {
+                  "indice": "5.4.1.1",
+                  "nome": "Vice Diretoria",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.4.1.2",
+                  "nome": "Servico de Suporte Administrativo",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.4.1.3",
+                  "nome": "Servico de Custodia de Vestigios",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.4.1.4",
+                  "nome": "Servico de Gestao de Qualidade",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.4.1.5",
+                  "nome": "Laboratorio Geral de Pericias Quimicas",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "5.4.1.5.1",
+                      "nome": "Laboratorio de Pericias de Entorpecentes e Psicotropicos",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "5.4.1.5.2",
+                      "nome": "Laboratorio de Pericias de Alimentos e Medicamentos",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "5.4.1.5.3",
+                      "nome": "Laboratorio de Pericias Bioquimicas",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "5.4.1.5.4",
+                      "nome": "Laboratorio de Pericias de Analise Instrumental",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "5.4.1.5.5",
+                      "nome": "Laboratorio de Analises Periciais Ambientais e em Microvestigios",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "5.4.1.6",
+                  "nome": "Divisao de Pericias de Locais",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "5.4.1.6.1",
+                      "nome": "Servico de Pericias de Locais",
+                      "sigla": "SEDE",
+                      "filhos": []
+                    },
+                    {
+                      "indice": "5.4.1.6.2",
+                      "nome": "Servico de Pericias de Locais",
+                      "sigla": "BARRA",
+                      "filhos": []
+                    },
+                    {
+                      "indice": "5.4.1.6.3",
+                      "nome": "Servico de Pericias de Locais",
+                      "sigla": "PENHA",
+                      "filhos": []
+                    },
+                    {
+                      "indice": "5.4.1.6.4",
+                      "nome": "Servico de Pericias de Locais",
+                      "sigla": "CIDPOL",
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "5.4.1.7",
+                  "nome": "Divisao de Pericias Especializadas",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "5.4.1.7.1",
+                      "nome": "Servico de Pericias de Armas de Fogo",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "5.4.1.7.2",
+                      "nome": "Servico de Pericias de Engenharia",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "5.4.1.7.3",
+                      "nome": "Servico de Pericias de Informatica",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "5.4.1.7.4",
+                      "nome": "Servico de Pericias de Audio e Imagem",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "5.4.1.7.5",
+                      "nome": "Servico de Pericias de Merceologia e Jogos",
+                      "sigla": null,
+                      "filhos": [
+                        {
+                          "indice": "5.4.1.7.5.1",
+                          "nome": "Laboratorio de Pericias em Obras de Arte e Patrimonio",
+                          "sigla": null,
+                          "filhos": []
+                        }
+                      ]
+                    },
+                    {
+                      "indice": "5.4.1.7.6",
+                      "nome": "Servico de Pericias de Documentos",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "5.4.1.7.7",
+                      "nome": "Servico de Pericias de Contabilidade",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "5.4.1.7.8",
+                      "nome": "Servico de Pericias de Veiculos",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "5.4.2",
+              "nome": "Instituto Medico Legal Afranio Peixoto",
+              "sigla": "IMLAP",
+              "filhos": [
+                {
+                  "indice": "5.4.2.1",
+                  "nome": "Vice Diretoria",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.4.2.2",
+                  "nome": "Servico de Suporte Administrativo",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.4.2.3",
+                  "nome": "Servico de Custodia de Vestigios",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.4.2.4",
+                  "nome": "Servico de Gestao de Qualidade",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.4.2.5",
+                  "nome": "Divisao de Clinica Medica e Necropsia",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "5.4.2.5.1",
+                      "nome": "Servico de Clinica Medica",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "5.4.2.5.2",
+                      "nome": "Servico de Sexologia Forense",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "5.4.2.5.3",
+                      "nome": "Servico de Necropsia",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "5.4.2.5.4",
+                      "nome": "Servico de Antropologia Forense",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "5.4.2.5.5",
+                      "nome": "Servico de Odontologia Forense",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "5.4.2.5.6",
+                      "nome": "Servico de Controle de Cadaveres",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "5.4.2.6",
+                  "nome": "Laboratorio Geral de Analises Forenses",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "5.4.2.6.1",
+                      "nome": "Laboratorio de Toxicologia Forense",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "5.4.2.6.2",
+                      "nome": "Laboratorio de Anatomopatologia",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "5.4.2.6.3",
+                      "nome": "Laboratorio de Hematologia Forense",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "5.4.2.6.4",
+                      "nome": "Laboratorio de Entomologia Forense",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "5.4.3",
+              "nome": "Instituto de Identificacao Felix Pacheco",
+              "sigla": "IIFP",
+              "filhos": [
+                {
+                  "indice": "5.4.3.1",
+                  "nome": "Vice-Diretoria",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.4.3.2",
+                  "nome": "Servico de Suporte Administrativo",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.4.3.3",
+                  "nome": "Servico de Custodia de Vestigios",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.4.3.4",
+                  "nome": "Servico de Assentamentos Criminais",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.4.3.5",
+                  "nome": "Servico de Identificacao e Pericia Necropapiloscopica",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.4.3.6",
+                  "nome": "Servico de Pericia Papiloscopica em Local de Crime",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.4.3.7",
+                  "nome": "Servico de Pericia Papiloscopica em Vivos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.4.3.8",
+                  "nome": "Servico de Representacao Facial Humana",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "5.4.4",
+              "nome": "Instituto de Pesquisa e Pericia em Genetica Forense",
+              "sigla": "IPPGF",
+              "filhos": [
+                {
+                  "indice": "5.4.4.1",
+                  "nome": "Vice Diretoria",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.4.4.2",
+                  "nome": "Servico de Suporte Administrativo",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.4.4.3",
+                  "nome": "Servico de Custodia de Vestigios",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.4.4.4",
+                  "nome": "Laboratorio Geral de DNA",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "5.4.4.4.1",
+                      "nome": "Servico de Banco de Perfis Geneticos",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "5.4.4.4.2",
+                      "nome": "Servico de Pericias",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "5.4.4.4.3",
+                      "nome": "Servico de Gestao Tecnica",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "5.4.5",
+              "nome": "Coordenadoria Regional de Policia Tecnico-Cientifica da Capital e Baixada Fluminense",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "5.4.5.1",
+                  "nome": "Posto Regional de Policia Tecnico-Cientifica de Campo Grande",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.4.5.2",
+                  "nome": "Posto Regional de Policia Tecnico-Cientifica de Duque de Caxias",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.4.5.3",
+                  "nome": "Posto Regional de Policia Tecnico-Cientifica de Nova Iguacu",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "5.4.6",
+              "nome": "Coordenadoria Regional de Policia Tecnico-Cientifica Sul Fluminense",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "5.4.6.1",
+                  "nome": "Posto Regional de Policia Tecnico-Cientifica de Angra dos Reis",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.4.6.2",
+                  "nome": "Posto Regional de Policia Tecnico-Cientifica de Resende",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.4.6.3",
+                  "nome": "Posto Regional de Policia Tecnico-Cientifica de Volta Redonda",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.4.6.4",
+                  "nome": "Posto Regional de Policia Tecnico-Cientifica de Barra do Pirai",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "5.4.7",
+              "nome": "Coordenadoria Regional de Policia Tecnico-Cientifica Serrana",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "5.4.7.1",
+                  "nome": "Posto Regional de Policia Tecnico-Cientifica de Teresopolis",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.4.7.2",
+                  "nome": "Posto Regional de Policia Tecnico-Cientifica de Petropolis",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.4.7.3",
+                  "nome": "Posto Regional de Policia Tecnico-Cientifica de Tres Rios",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.4.7.4",
+                  "nome": "Posto Regional de Policia Tecnico-Cientifica de Nova Friburgo",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "5.4.8",
+              "nome": "Coordenadoria Regional de Policia Tecnico-Cientifica Norte Fluminense",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "5.4.8.1",
+                  "nome": "Posto Regional de Policia Tecnico-Cientifica de Campos dos Goytacazes",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.4.8.2",
+                  "nome": "Posto Regional de Policia Tecnico-Cientifica de Macae",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.4.8.3",
+                  "nome": "Posto Regional de Policia Tecnico-Cientifica de Santo Antonio de Padua",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.4.8.4",
+                  "nome": "Posto Regional de Policia Tecnico-Cientifica de Itaperuna",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "5.4.9",
+              "nome": "Coordenadoria Regional de Policia Tecnico-Cientifica Leste Fluminense",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "5.4.9.1",
+                  "nome": "Posto Regional de Policia Tecnico-Cientifica de Niteroi",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.4.9.2",
+                  "nome": "Posto Regional de Policia Tecnico-Cientifica de Sao Goncalo",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.4.9.3",
+                  "nome": "Posto Regional de Policia Tecnico-Cientifica de Araruama",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.4.9.4",
+                  "nome": "Posto Regional de Policia Tecnico-Cientifica de Cabo Frio",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "6",
+      "nome": "Conselho Superior de Policia",
+      "sigla": null,
+      "filhos": []
+    }
+  ],
+  "Entes Vinculados": [],
+  "Orgaos Colegiados": [],
+  "Comissoes": [
+    {
+      "nome": "Comissao de Avaliacao de Desempenho",
+      "sigla": null
+    }
+  ],
+  "Fundos": [
+    {
+      "nome": "Fundo Especial da Policia Civil - FUNESPOL (Vinculado",
+      "sigla": null
+    },
+    {
+      "nome": "Fundo Especial da ACADEPOL (Vinculado",
+      "sigla": null
+    },
+    {
+      "nome": "Fundo Estadual de Investimentos e Acoes de Seguranca Publica e Desenvolvimento Social - FISED (Transitorio",
+      "sigla": null
+    }
+  ]
+}

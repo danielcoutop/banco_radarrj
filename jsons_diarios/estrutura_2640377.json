@@ -1,0 +1,377 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DE CULTURA E ECONOMIA CRIATIVA",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "Gabinete do Secretario",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "1.1",
+          "nome": "Chefia de Gabinete",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.1.1",
+              "nome": "Assessoria de Recursos Humanos",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "1.1.1.1",
+                  "nome": "Coordenadoria de Gestao e Administracao de Pessoas",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "1.1.2",
+              "nome": "Assessoria de Carnaval",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.3",
+              "nome": "Assessoria de Eventos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.4",
+              "nome": "Assessoria de Economia Criativa",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.2",
+          "nome": "Assessoria de Elaboracao de Editais",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.3",
+          "nome": "Assessoria Juridica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.4",
+          "nome": "Controle Interno",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.5",
+          "nome": "Corregedoria",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.6",
+          "nome": "Ouvidoria, Transparencia e Compliance",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.7",
+          "nome": "Assessoria de Comunicacao e Marketing",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.8",
+          "nome": "Assessoria de Relacoes Intermunicipais",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.9",
+          "nome": "Assessoria de Relacoes Internacionais",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.10",
+          "nome": "Assessoria Programa Estadual de Fomento e Incentivo a Cultura",
+          "sigla": "PEFIC",
+          "filhos": []
+        },
+        {
+          "indice": "1.11",
+          "nome": "Assessoria de Cultura e Sociedade",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.12",
+          "nome": "Instituto Estadual do Patrimonio Cultural",
+          "sigla": "INEPAC",
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "2",
+      "nome": "Subsecretaria de Planejamento e Gestao",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "2.1",
+          "nome": "Assessoria de Planejamento e Gestao",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.2",
+          "nome": "Departamento Geral de Administracao e Financas",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.2.1",
+              "nome": "Coordenadoria de Contabilidade",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.2",
+              "nome": "Coordenadoria de Financas",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.3",
+              "nome": "Coordenadoria de Logistica e Patrimonio",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.4",
+              "nome": "Coordenadoria de Arquivo e Protocolo",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.5",
+              "nome": "Coordenadoria de Prestacao de Contas",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.6",
+              "nome": "Coordenadoria de Engenharia e Arquitetura",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "2.3",
+          "nome": "Assessoria de Licitacoes e Contratos",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.4",
+          "nome": "Assessoria de Editais e Convenios",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.5",
+          "nome": "Assessoria de Tecnologia da Informacao",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "3",
+      "nome": "Subsecretaria de Formacao, Acesso a Equipamentos Culturais, Difusao e Inovacao",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "3.1",
+          "nome": "Assessoria de Formacao, Difusao e Inovacao",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.2",
+          "nome": "Assessoria de Formacao de Plateia, Democratizacao e Acesso a Equipamentos Culturais",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "4",
+      "nome": "Subsecretaria de Integracao Cultural",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "4.1",
+          "nome": "Gerencia Regional da Baixada Fluminense",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.1.1",
+              "nome": "Coordenadoria de Producao Cultural",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "5",
+      "nome": "Subsecretaria Adjunta de Projetos Especiais",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "5.1",
+          "nome": "Assessoria de Gestao Estrategica de Projetos Especiais",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "6",
+      "nome": "Subsecretaria Adjunta de Cultura e Projetos Estrategicos",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "6.1",
+          "nome": "Superintendencia de Artes",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "6.1.1",
+              "nome": "Coordenadoria Integrada de Artes",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "6.1.2",
+              "nome": "Escola de Artes Visuais Parque Lage",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "6.1.3",
+              "nome": "Casa Franca Brasil",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "6.2",
+          "nome": "Superintendencia de Audiovisual",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "6.2.1",
+              "nome": "Coordenadoria de Desenvolvimento Economico",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "6.3",
+          "nome": "Superintendencia Leitura e Conhecimento",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "6.3.1",
+              "nome": "Coordenadoria do Sistema Estadual de Bibliotecas",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "6.3.2",
+              "nome": "Coordenadoria de Bibliotecas Parques",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "6.4",
+          "nome": "Superintendencia de Museus",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "6.4.1",
+              "nome": "Coordenadoria de Sistema Estadual de Museus",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "6.4.2",
+              "nome": "Coordenadoria de Museologia",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Entes Vinculados": [
+    {
+      "nome": "Fundacao Teatro Municipal do Rio de Janeiro",
+      "sigla": "FTMRJ"
+    },
+    {
+      "nome": "Fundacao Anita Mantuano de Arte",
+      "sigla": "FUNARJ"
+    },
+    {
+      "nome": "Fundacao Museu da Imagem e do Som",
+      "sigla": "FMIS"
+    }
+  ],
+  "Orgaos Colegiados": [
+    {
+      "nome": "Conselho Estadual de Tombamento",
+      "sigla": null
+    },
+    {
+      "nome": "Conselho Estadual de Cultura",
+      "sigla": null
+    },
+    {
+      "nome": "Sistema Estadual de Cultura",
+      "sigla": "SIEC"
+    }
+  ],
+  "Comissoes": [
+    {
+      "nome": "Comite de Administracao do Fundo Estadual de Cultura",
+      "sigla": null
+    },
+    {
+      "nome": "Comite Gestor do Fundo Estadual de Cultura",
+      "sigla": null
+    },
+    {
+      "nome": "Comissao Permanente de Tomada de Contas",
+      "sigla": null
+    },
+    {
+      "nome": "Comissao Tecnica de Elaboracao e Acompanhamentos dos Editais Culturais de Fomento",
+      "sigla": null
+    },
+    {
+      "nome": "Comissao Permanente de Sindicancia",
+      "sigla": null
+    }
+  ],
+  "Fundos": []
+}

@@ -1,0 +1,1061 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DA CASA CIVIL",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "Gabinete do Secretario",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "1.2",
+          "nome": "Chefia de Gabinete",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.2.1",
+              "nome": "Assessoria Tecnica",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.2.2",
+              "nome": "Assessoria de Controle dos Cargos em Comissao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.2.3",
+              "nome": "Assessoria para Preparo e Publicacao dos Atos Oficiais",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.2.4",
+              "nome": "Assessoria de Controle e Apoio as Empresas Estatais",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.3",
+          "nome": "Grupo Executivo de Apoio Institucional",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.4",
+          "nome": "Escritorio de Gerenciamento de Projetos do Governo do Rio",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.5",
+          "nome": "Assessoria de Projetos Especiais",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.6",
+          "nome": "Representacao do Governo em Brasilia",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.7",
+          "nome": "Assessoria de Assuntos Legislativos",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.8",
+          "nome": "Assessoria de Empresas em Liquidacao",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.8.1",
+              "nome": "Banco do Estado do Rio de Janeiro S.A",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.8.2",
+              "nome": "Banco de Desenvolvimento do Estado do Rio de Janeiro",
+              "sigla": "BD-RIO",
+              "filhos": []
+            },
+            {
+              "indice": "1.8.3",
+              "nome": "Distribuidora de Titulos e Valores Mobiliarios do Estado do RJ",
+              "sigla": "DIVERJ",
+              "filhos": []
+            },
+            {
+              "indice": "1.8.4",
+              "nome": "Companhia do Metropolitano do Rio de Janeiro",
+              "sigla": "METRO",
+              "filhos": []
+            },
+            {
+              "indice": "1.8.5",
+              "nome": "Companhia Fluminense de Trens Urbanos",
+              "sigla": "FLUMITRENS",
+              "filhos": []
+            },
+            {
+              "indice": "1.8.6",
+              "nome": "Centrais Eletricas Fluminenses",
+              "sigla": "CELF",
+              "filhos": []
+            },
+            {
+              "indice": "1.8.7",
+              "nome": "Empresa Estadual de Viacao",
+              "sigla": "SERVE",
+              "filhos": []
+            },
+            {
+              "indice": "1.8.8",
+              "nome": "Companhia de Transportes Coletivos do Estado do Rio de Janeiro",
+              "sigla": "CTC",
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "2",
+      "nome": "Orgaos DE Atividades Especificas",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "2.1",
+          "nome": "Subsecretaria Juridica",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.1.1",
+              "nome": "Assessoria Juridica Especial",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.1.2",
+              "nome": "Assessoria Juridica",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "2.2",
+          "nome": "Subsecretaria de Gestao",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.2.1",
+              "nome": "Assessoria Especial",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.2",
+              "nome": "Assessoria de Informatica",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.3",
+              "nome": "Diretoria Geral de Administracao e Financas",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.2.3.1",
+                  "nome": "Assessoria Tecnica",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.3.2",
+                  "nome": "Departamento de Apoio Administrativo",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "2.2.3.2.1",
+                      "nome": "Divisao de Compras",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "2.2.3.2.2",
+                      "nome": "Divisao de Almoxarifado",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "2.2.3.2.3",
+                      "nome": "Divisao de Protocolo e Malote",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "2.2.3.2.4",
+                      "nome": "Divisao de Documentacao e Arquivo",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "2.2.3.2.5",
+                      "nome": "Divisao de Copa e Cozinha",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "2.2.3.3",
+                  "nome": "Departamento de Contabilidade Analitica",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "2.2.3.3.1",
+                      "nome": "Divisao de Contabilidade",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "2.2.3.3.2",
+                      "nome": "Divisao de Revisao e Tomada de Contas",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "2.2.3.4",
+                  "nome": "Departamento de Administracao Financeira",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "2.2.3.4.1",
+                      "nome": "Divisao de Orcamento",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "2.2.4",
+              "nome": "Superintendencia de Engenharia e Manutencao",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.2.4.1",
+                  "nome": "Departamento de Conservacao e Manutencao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "2.2.4.1.1",
+                      "nome": "Divisao de Manutencao Predial",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "2.2.4.1.2",
+                      "nome": "Divisao de Patrimonio",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "2.2.4.1.3",
+                      "nome": "Divisao de Obras",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "2.2.5",
+              "nome": "Departamento de Recursos Humanos",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.2.5.1",
+                  "nome": "Divisao de Cadastro e Frequencia",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.5.2",
+                  "nome": "Divisao de Direitos e Vantagens",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.5.3",
+                  "nome": "Divisao de Pagamento",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "2.3",
+          "nome": "Subsecretaria de Cerimonial",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.3.1",
+              "nome": "Departamento de Cerimonial",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.3.1.1",
+                  "nome": "Assessoria de Eventos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.1.2",
+                  "nome": "Assessoria de Apoio Administrativo",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "2.4",
+          "nome": "Subsecretaria de Relacoes Internacionais",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.4.1",
+              "nome": "Assessoria Especial",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.4.2",
+              "nome": "Assessoria de Cooperacao Internacional",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.4.3",
+              "nome": "Assessoria de Financiamentos Externos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.4.4",
+              "nome": "Assessoria de Comercio e Investimentos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.4.5",
+              "nome": "Assessoria de Relacoes Institucionais",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "2.5",
+          "nome": "Subsecretaria de Comunicacao Social",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.5.1",
+              "nome": "Assessoria Especial",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.5.2",
+              "nome": "Assessoria de Arquivo, Pesquisa e Clipping",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.5.3",
+              "nome": "Assessoria Juridica",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.5.4",
+              "nome": "Assessoria de Informatica",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.5.5",
+              "nome": "Subsecretaria Adjunta de Comunicacao de Governo",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.5.5.1",
+                  "nome": "Assessoria de Redacao",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.5.5.2",
+                  "nome": "Assessoria do Interior",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.5.5.3",
+                  "nome": "Assessoria de Fotografia",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.5.5.4",
+                  "nome": "Assessoria da Intranet",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.5.6",
+              "nome": "Subsecretaria Adjunta de Projetos Especiais de Comunicacao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.5.7",
+              "nome": "Subsecretaria Adjunta de Publicidade, Marketing e Eventos",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.5.7.1",
+                  "nome": "Assessoria de Midia",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.5.7.2",
+                  "nome": "Assessoria de Criacao",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.5.7.3",
+                  "nome": "Assessoria de Eventos",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.5.8",
+              "nome": "Diretoria de Administracao e Financas",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.5.8.1",
+                  "nome": "Assessoria de Contabilidade",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.5.8.2",
+                  "nome": "Assessoria de Administracao Financeira",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.5.8.3",
+                  "nome": "Assessoria de Planejamento e Controle",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.5.8.4",
+                  "nome": "Assessoria de Servicos Gerais",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.5.9",
+              "nome": "Radio Roquete Pinto",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.5.9.1",
+                  "nome": "Departamento de Programacao",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.5.9.2",
+                  "nome": "Departamento de Jornalismo",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.5.9.3",
+                  "nome": "Departamento de Administracao",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.5.9.4",
+                  "nome": "Departamento Tecnico",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "2.6",
+          "nome": "Subsecretaria Adjunta dos Direitos do Consumidor",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.6.1",
+              "nome": "Gabinete do Subsecretario Adjunto",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.6.2",
+              "nome": "Assessoria Institucional",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.6.2.1",
+                  "nome": "Assessoria de Relacoes Institucionais",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.6.2.2",
+                  "nome": "Assessoria de Comunicacao Social",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.6.2.3",
+                  "nome": "Assessoria de Informacao e Projetos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.6.2.4",
+                  "nome": "Assessoria Gestora do FEPROCON",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.6.3",
+              "nome": "Assessoria Tecnica",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.6.3.1",
+                  "nome": "Assessoria de Contratos, Patrimonio e Logistica",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.6.3.2",
+                  "nome": "Assessoria de Administracao de Pessoal",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.6.3.3",
+                  "nome": "Assessoria de Informatica",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.6.4",
+              "nome": "Assessoria de Fiscalizacao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.6.5",
+              "nome": "Assessoria Juridica",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.6.6",
+              "nome": "Coordenacao do Programa de Defesa do Consumidor",
+              "sigla": "PROCON/RJ",
+              "filhos": [
+                {
+                  "indice": "2.6.6.1",
+                  "nome": "Gabinete da Coordenacao",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.6.6.2",
+                  "nome": "Departamento Juridico",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.6.6.3",
+                  "nome": "Departamento Cartorario",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "2.6.6.3.1",
+                      "nome": "Diretoria Central de Administracao Cartoraria",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "2.6.6.3.2",
+                      "nome": "Diretoria de Informacao, Protocolo e Arquivo",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "2.6.6.3.3",
+                      "nome": "Diretoria da Divida Ativa",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "2.6.6.4",
+                  "nome": "Departamento de Atendimento",
+                  "sigla": "SEDE",
+                  "filhos": [
+                    {
+                      "indice": "2.6.6.4.1",
+                      "nome": "Diretoria de Recepcao e Atendimento",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "2.6.6.4.2",
+                      "nome": "Diretoria de Conciliacao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "2.6.6.5",
+                  "nome": "Departamento de Atendimento - Niteroi",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "2.6.6.5.1",
+                      "nome": "Diretoria de Recepcao e Atendimento",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "2.6.6.5.2",
+                      "nome": "Diretoria de Conciliacao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "2.7",
+          "nome": "Subsecretaria Militar",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.7.1",
+              "nome": "Assessoria Juridica",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.7.2",
+              "nome": "Assessoria Tecnica",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.7.3",
+              "nome": "Assessoria de Informatica",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.7.4",
+              "nome": "Assessoria de Comunicacao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.7.5",
+              "nome": "Subsecretaria Adjunta de Operacoes Aereas",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.7.6",
+              "nome": "Subsecretaria-Adjunta de Prevencao a Risco",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.7.6.1",
+                  "nome": "Superintendencia de Transportes",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.7.7",
+              "nome": "Subsecretaria-Adjunta de Planejamento",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.7.7.1",
+                  "nome": "Superintendencia de Orcamento e Financas",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.7.7.2",
+                  "nome": "Superintendencia de Seguranca",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.7.7.3",
+                  "nome": "Superintendencia de Representacao",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.7.7.4",
+                  "nome": "Superintendencia de Telecomunicacoes",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.7.7.5",
+                  "nome": "Superintendencia de Inteligencia",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.7.7.6",
+                  "nome": "Superintendencia de Saude",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "2.8",
+          "nome": "Arquivo Publico do Estado do Rio de Janeiro",
+          "sigla": "APERJ",
+          "filhos": [
+            {
+              "indice": "2.8.1",
+              "nome": "Assessoria de Informatica",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.8.2",
+              "nome": "Assessoria Juridica",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.8.3",
+              "nome": "Assessoria Tecnica",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.8.4",
+              "nome": "Divisao de Documentos Permanentes",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.8.5",
+              "nome": "Divisao de Gestao de Documentos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.8.6",
+              "nome": "Divisao de Administracao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.8.7",
+              "nome": "Divisao de Preservacao de Documentos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.8.8",
+              "nome": "Divisao de Acesso a Informacao",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "2.9",
+          "nome": "Departamento do Deposito Publico do Estado do Rio de Janeiro",
+          "sigla": "DDPE/RJ",
+          "filhos": [
+            {
+              "indice": "2.9.1",
+              "nome": "Assessoria Juridica",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.9.2",
+              "nome": "Assessoria Administrativa",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.9.3",
+              "nome": "Deposito Publico de Niteroi",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.9.3.1",
+                  "nome": "Divisao Administrativa",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.9.3.2",
+                  "nome": "Divisao de Servicos Gerais",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.9.3.3",
+                  "nome": "Divisao de Armazenamento de Bens",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.9.3.4",
+                  "nome": "Divisao de Arquivo e Controle",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.9.4",
+              "nome": "Deposito Publico do Rio de Janeiro",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.9.4.1",
+                  "nome": "Divisao Administrativa",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.9.4.2",
+                  "nome": "Divisao de Servicos Gerais",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.9.4.3",
+                  "nome": "Divisao de Armazenamento de Bens",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.9.4.4",
+                  "nome": "Divisao de Arquivo e Controle",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "2.10",
+          "nome": "Coordenadoria Especial de Projetos Sociais",
+          "sigla": "CEPS",
+          "filhos": [
+            {
+              "indice": "2.10.1",
+              "nome": "Coordenadoria Geral",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.10.2",
+              "nome": "Coordenadoria Adjunta",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.10.3",
+              "nome": "Assessoria de Programas",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.10.4",
+              "nome": "Assessoria de Administracao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.10.5",
+              "nome": "Assessoria de Marketing",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.10.6",
+              "nome": "Assessoria Juridica",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "3.1",
+      "nome": "Comissao Permanente de Licitacao",
+      "sigla": null,
+      "filhos": []
+    },
+    {
+      "indice": "3.2",
+      "nome": "Comissao de Pregao",
+      "sigla": null,
+      "filhos": []
+    },
+    {
+      "indice": "4.1",
+      "nome": "Conselho Consultivo de Relacoes Internacionais do Governo do Estado do Rio de Janeiro",
+      "sigla": null,
+      "filhos": []
+    },
+    {
+      "indice": "4.2",
+      "nome": "Conselho Estadual de Tecnologia da Informacao",
+      "sigla": "CONSETI",
+      "filhos": []
+    },
+    {
+      "indice": "4.3",
+      "nome": "Conselho Estadual de Transito",
+      "sigla": "CETRAN",
+      "filhos": []
+    },
+    {
+      "indice": "4.4",
+      "nome": "Conselho Estadual de Arquivos",
+      "sigla": "CONEARQ",
+      "filhos": []
+    },
+    {
+      "indice": "4.5",
+      "nome": "Comite de Seguros e Riscos do Estado do Rio de Janeiro",
+      "sigla": "COSER",
+      "filhos": []
+    },
+    {
+      "indice": "4.6",
+      "nome": "Coordenadoria Estadual dos Despachantes Publicos",
+      "sigla": "CEDEP",
+      "filhos": []
+    },
+    {
+      "indice": "4.7",
+      "nome": "Conselho Estadual de Defesa da Crianca e do Adolescente",
+      "sigla": "CEDCA",
+      "filhos": []
+    }
+  ],
+  "Entes Vinculados": [
+    {
+      "nome": "Imprensa Oficial do Estado do Rio de Janeiro",
+      "sigla": "I.O"
+    },
+    {
+      "nome": "Agencia Reguladora de Servicos Publicos Concedidos de Transportes Aquaviarios, Ferroviarios e Metroviarios e de Rodovias do Estado do RJ",
+      "sigla": "AGETRANSP"
+    },
+    {
+      "nome": "Agencia Reguladora de Energia e Saneamento Basico do Estado do Rio de Janeiro",
+      "sigla": "AGENERSA"
+    },
+    {
+      "nome": "Departamento de Transito do Estado do RJ",
+      "sigla": "DETRAN/RJ"
+    },
+    {
+      "nome": "Loteria do Estado do Rio de Janeiro",
+      "sigla": "LOTERJ"
+    },
+    {
+      "nome": "Centro de Tecnologia de Informacao e Comunicacao do Estado do Rio de Janeiro",
+      "sigla": "PRODERJ"
+    },
+    {
+      "nome": "Fundo Especial de Apoio a Programas de Protecao e Defesa do Consumidor",
+      "sigla": "FEPROCON"
+    },
+    {
+      "nome": "Fundo Especial do Deposito Publico",
+      "sigla": "FUNDEP"
+    },
+    {
+      "nome": "Fundo para a Infancia e a Adolescencia",
+      "sigla": "FIA"
+    }
+  ],
+  "Orgaos Colegiados": [],
+  "Comissoes": [],
+  "Fundos": []
+}

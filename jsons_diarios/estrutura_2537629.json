@@ -1,0 +1,102 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DE DEFESA DO CONSUMIDOR",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "GABINETE DO SECRETARIO",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "1.1",
+          "nome": "Chefia de Gabinete",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.2",
+          "nome": "Coordenadoria de Protecao e Defesa do Consumidor",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.3",
+          "nome": "Superintendencia de Administracao e Financas",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.3.1",
+              "nome": "Coordenadoria de Rotinas Administrativas",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.4",
+          "nome": "Assessoria de Tecnologia da Informacao",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.5",
+          "nome": "Assessoria de Comunicacao",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.6",
+          "nome": "Assessoria de Cerimonial e Eventos",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.7",
+          "nome": "Assessoria Juridica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.8",
+          "nome": "Assessoria Setorial de Planejamento e Orcamento",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.9",
+          "nome": "Unidade de Controle Interno",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.10",
+          "nome": "Corregedoria",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.11",
+          "nome": "Unidade de Gestao de Integridade",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.12",
+          "nome": "Ouvidoria",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.13",
+          "nome": "Assessoria Especial",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    }
+  ],
+  "Entes Vinculados": [],
+  "Orgaos Colegiados": [],
+  "Comissoes": [],
+  "Fundos": []
+}

@@ -1,0 +1,1198 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DE DEFESA CIVIL E DO CORPO DE BOMBEIROS MILITAR",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "Gabinete do Secretario",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "1.1",
+          "nome": "Chefia de Gabinete",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.1.1",
+              "nome": "Ouvidoria-Geral",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.2",
+          "nome": "Assessoria Especial",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.3",
+          "nome": "Assessoria Juridica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.4",
+          "nome": "Assessoria Setorial de Planejamento e Orcamento",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.5",
+          "nome": "Assessoria de Comunicacao Social",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.6",
+          "nome": "Assessoria de Relacoes Internacionais",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.7",
+          "nome": "Assessoria de Relacoes Institucionais",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.8",
+          "nome": "Assessoria de Relacoes Governamentais",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.8.1",
+              "nome": "Coordenadoria Parlamentar no Rio de Janeiro",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.8.2",
+              "nome": "Coordenadoria Parlamentar em Brasilia",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.8.3",
+              "nome": "Coordenadoria de Assuntos Legislativos",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.9",
+          "nome": "Controladoria",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.10",
+          "nome": "Corregedoria-Geral",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.11",
+          "nome": "Coordenadoria de Recebimento e Distribuicao",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "2",
+      "nome": "Subsecretaria de Gestao Administrativa",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "2.1",
+          "nome": "Centro de Referencia ao Bombeiro Militar em Situacao de Violencia Domestica e Familiar",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.2",
+          "nome": "Superintendencia Administrativa",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.2.1",
+              "nome": "Diretoria-Geral de Administracao e Financas",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.2",
+              "nome": "Diretoria-Geral de Tecnologia da Informacao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.3",
+              "nome": "Diretoria-Geral de Bens Patrimoniais",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.2.3.1",
+                  "nome": "Diretoria de Patrimonio da SEDEC",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.3.2",
+                  "nome": "Diretoria de Patrimonio do CBMERJ",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.2.4",
+              "nome": "Diretoria-Geral de Intendencia",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.2.4.1",
+                  "nome": "Centro de Apoio Logistico",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "2.3",
+          "nome": "Superintendencia de Saude",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.3.1",
+              "nome": "Centro Terapeutico para TEA e outras Neuroatipias",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "2.8.14.1",
+          "nome": "Chefia do Estado-Maior do CBA",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.8.14.2",
+          "nome": "6o Grupamento de Bombeiro Militar (6o GBM - Nova Friburgo",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.8.14.2.1",
+              "nome": "1o Destacamento de Bombeiro Militar do 6o Grupamento de Bombeiro Militar (DBM 1/6 - Cordeiro",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.8.14.2.2",
+              "nome": "2o Destacamento de Bombeiro Militar do 6o Grupamento de Bombeiro Militar (DBM 2/6 - Cachoeiras de Macacu",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.8.14.2.3",
+              "nome": "3o Destacamento de Bombeiro Militar do 6o Grupamento de Bombeiro Militar (DBM 3/6 - Bom Jardim",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.8.14.2.4",
+              "nome": "4o Destacamento de Bombeiro Militar do 6o Grupamento de Bombeiro Militar (DBM 4/6 - Cantagalo",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.8.14.2.5",
+              "nome": "1o Posto Avancado de Bombeiro Militar do 6o Grupamento de Bombeiro Militar (PABM 1/6 - Santa Maria Madalena",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "2.8.14.3",
+          "nome": "15o Grupamento de Bombeiro Militar (15o GBM - Petropolis",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.8.14.3.1",
+              "nome": "1o Destacamento de Bombeiro Militar do 15o Grupamento de Bombeiro Militar (DBM 1/15 - Tres Rios",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.8.14.3.2",
+              "nome": "2o Destacamento de Bombeiro Militar do 15o Grupamento de Bombeiro Militar (DBM 2/15 - Itaipava",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.8.14.3.3",
+              "nome": "3o Destacamento de Bombeiro Militar do 15o Grupamento de Bombeiro Militar (DBM 3/15 - Areal",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "2.8.14.4",
+          "nome": "16o Grupamento de Bombeiro Militar (16o GBM - Teresopolis",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.8.14.4.1",
+              "nome": "1o Destacamento de Bombeiro Militar do 16o Grupamento de Bombeiro Militar (DBM 1/16 - Carmo",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.8.14.4.2",
+              "nome": "2o Destacamento de Bombeiro Militar do 16o Grupamento de Bombeiro Militar (DBM 2/16 - Bonsucesso",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "2.8.15",
+          "nome": "Comando de Bombeiros de Area",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "3",
+      "nome": "Subsecretaria de Gestao Operacional",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "3.1",
+          "nome": "Assessoria Administrativa",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.2",
+          "nome": "Secretario Executivo",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.3",
+          "nome": "Gabinete de Projetos",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.4",
+          "nome": "Coordenadoria do Programa de Reforco Operacional da Defesa Civil",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.5",
+          "nome": "Superintendencia Operacional",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.5.1",
+              "nome": "Diretoria-Geral de Acoes Comunitarias",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.5.1.1",
+                  "nome": "Coordenadoria de Apoio a Medicina Legal",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.5.1.2",
+                  "nome": "Centro de Protecao Socioambiental e Promocao da Saude em Defesa Civil",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "3.5.2",
+              "nome": "Diretoria-Geral de Defesa Civil",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.5.2.1",
+                  "nome": "Diretoria de Integracao Interinstitucional",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.5.2.2",
+                  "nome": "Diretoria das Regionais de Defesa Civil",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "3.5.2.2.1",
+                      "nome": "Regional de Defesa Civil",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "3.5.2.2.2",
+                      "nome": "Regional de Defesa Civil",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "3.5.2.2.3",
+                      "nome": "Regional de Defesa Civil",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "3.5.2.2.4",
+                      "nome": "Regional de Defesa Civil",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "3.8.15.1",
+          "nome": "Chefia do Estado-Maior do CBA",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.8.15.2",
+          "nome": "7o Grupamento de Bombeiro Militar (7o GBM - Barra Mansa",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.8.15.3",
+          "nome": "22o Grupamento de Bombeiro Militar (22o GBM - Volta Redonda",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.8.15.3.1",
+              "nome": "1o Destacamento de Bombeiro Militar do 22o Grupamento de Bombeiro Militar (DBM 1/22 - Barra do Pirai",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.8.15.3.2",
+              "nome": "2o Destacamento de Bombeiro Militar do 22o Grupamento de Bombeiro Militar (DBM 2/22 - Valenca",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.8.15.3.3",
+              "nome": "3o Destacamento de Bombeiro Militar do 22o Grupamento de Bombeiro Militar (DBM 3/22 - Pirai",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "3.8.15.4",
+          "nome": "23o Grupamento de Bombeiro Militar (23o GBM - Resende",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.8.15.4.1",
+              "nome": "1o Destacamento de Bombeiro Militar do 23o Grupamento de Bombeiro Militar (DBM 1/23 - Itatiaia",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "3.8.15.5",
+          "nome": "29o Grupamento Bombeiro Militar (29o GBM - Paracambi",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.8.15.5.1",
+              "nome": "1o Destacamento de Bombeiro Militar do 29o Grupamento de Bombeiro Militar (DBM 1/29 - Miguel Pereira",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.8.15.5.2",
+              "nome": "2o Destacamento de Bombeiro Militar do 29o Grupamento de Bombeiro Militar (DBM 2/29 - Vassouras",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.8.15.5.3",
+              "nome": "3o Destacamento de Bombeiro Militar do 29o Grupamento de Bombeiro Militar (DBM 3/29 - Mendes",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "3.8.16",
+          "nome": "Comando de Bombeiros de Area",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "4",
+      "nome": "Costa Verde",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "4.8.13.1",
+          "nome": "Chefia do Estado-Maior do CBA",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "4.8.13.2",
+          "nome": "Grupamento Operacional do Comando-Geral",
+          "sigla": "GOCG",
+          "filhos": [
+            {
+              "indice": "4.8.13.2.1",
+              "nome": "1o Destacamento de Bombeiro Militar do Grupamento Operacional do Comando-Geral (DBM 1/GOCG - Santa Teresa",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.8.13.2.2",
+              "nome": "1o Posto Avancado de Bombeiro Militar do Grupamento Operacional do Comando-Geral (PABM 1/GOCG - Gamboa",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.8.13.2.3",
+              "nome": "1o Grupamento de Bombeiro Militar (1o GBM - Humaita",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "4.8.13.2.3.1",
+                  "nome": "1o Destacamento de Bombeiro Militar do 1o Grupamento de Bombeiro Militar (DBM 1/1 - Catete",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "4.8.13.2.4",
+              "nome": "2o Grupamento de Bombeiro Militar (2o GBM - Meier",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "4.8.13.4.1",
+          "nome": "1o Destacamento de Bombeiro Militar do 2o Grupamento de Bombeiro Militar (DBM 1/2 - Ramos",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "4.8.13.5",
+          "nome": "8o Grupamento de Bombeiro Militar (8o GBM - Campinho",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "4.8.13.6",
+          "nome": "11o Grupamento de Bombeiro Militar (11o GBM - Vila Isabel",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.8.13.6.1",
+              "nome": "1o Destacamento de Bombeiro Militar do 11o Grupamento de Bombeiro Militar (DBM 1/11 - Benfica",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.8.13.6.2",
+              "nome": "2o Destacamento de Bombeiro Militar do 11o Grupamento de Bombeiro Militar (DBM 2/11 - Tijuca",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.8.13.6.3",
+              "nome": "3o Destacamento de Bombeiro Militar do 11o Grupamento de Bombeiro Militar (DBM 3/11 - Grajau",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "4.8.13.7",
+          "nome": "12o Grupamento de Bombeiro Militar (12o GBM - Jacarepagua",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "4.8.13.8",
+          "nome": "13o Grupamento de Bombeiro Militar (13o GBM - Campo Grande",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.8.13.8.1",
+              "nome": "1o Destacamento de Bombeiro Militar do 13o Grupamento de Bombeiro Militar (DBM 1/13 - Santa Cruz",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.8.13.8.2",
+              "nome": "2o Destacamento de Bombeiro Militar do 13o Grupamento de Bombeiro Militar (DBM 2/13 - Guaratiba",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "4.8.13.9",
+          "nome": "17o Grupamento de Bombeiro Militar (17o GBM - Copacabana",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "4.8.13.10",
+          "nome": "19o Grupamento de Bombeiro Militar (19o GBM - Ilha do",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.8.13.10.1",
+              "nome": "1o Destacamento de Bombeiro Militar do 19o Grupamento de Bombeiro Militar (DBM 1/19 - Fundao",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "4.8.13.11",
+          "nome": "24o Grupamento de Bombeiro Militar (24o GBM - Iraja",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.8.13.11.1",
+              "nome": "1o Destacamento de Bombeiro Militar do 24o Grupamento de Bombeiro Militar (DBM 1/24 - Ricardo de Albuquerque",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.8.13.11.2",
+              "nome": "2o Destacamento de Bombeiro Militar do 24o Grupamento de Bombeiro Militar (DBM 2/24 - Parada de Lucas",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.8.13.11.3",
+              "nome": "3o Destacamento de Bombeiro Militar do 24o Grupamento de Bombeiro Militar (DBM 3/24 - Guadalupe",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "4.8.13.12",
+          "nome": "25o Grupamento de Bombeiro Militar (25o GBM - Gavea",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "4.8.13.13",
+          "nome": "28o Grupamento de Bombeiro Militar (28o GBM - Penha",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "4.8.13.14",
+          "nome": "30o Grupamento de Bombeiro Militar (30o GBM - Realengo",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "4.8.14",
+          "nome": "Comando de Bombeiros de Area",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "4.8.16.1",
+          "nome": "Chefia do Estado-Maior do CBA",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "4.8.16.2",
+          "nome": "Centro Regional de Manutencao de Material Motomecanizado - Norte - Noroeste",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "4.8.16.3",
+          "nome": "5o Grupamento de Bombeiro Militar (5o GBM - Campos dos Goytacazes",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.8.16.3.1",
+              "nome": "1o Destacamento de Bombeiro Militar do 5o Grupamento de Bombeiro Militar (DBM 1/5 - Guarus",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.8.16.3.2",
+              "nome": "2o Destacamento de Bombeiro Militar do 5o Grupamento de Bombeiro Militar (DBM 2/5 - Sao Fidelis",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.8.16.3.3",
+              "nome": "3o Destacamento de Bombeiro Militar do 5o Grupamento de Bombeiro Militar (DBM 3/5 - Sao Joao da Barra",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.8.16.3.4",
+              "nome": "4o Destacamento de Bombeiro Militar do 5o Grupamento de Bombeiro Militar (DBM 4/5 - Cambuci",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.8.16.3.5",
+              "nome": "5o Destacamento de Bombeiro Militar do 5o Grupamento de Bombeiro Militar (DBM 5/5 - Sao Francisco de Itabapoana",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.8.16.3.6",
+              "nome": "6o Destacamento de Bombeiro Militar do 5o Grupamento de Bombeiro Militar (DBM 6/5 - Farol de Sao Thome",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "4.8.16.4",
+          "nome": "21o Grupamento de Bombeiro Militar (21o GBM - Itaperuna",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.8.16.4.1",
+              "nome": "1o Destacamento de Bombeiro Militar do 21o Grupamento de Bombeiro Militar (DBM 1/21 - Itaocara",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.8.16.4.2",
+              "nome": "2o Destacamento de Bombeiro Militar do 21o Grupamento de Bombeiro Militar (DBM 2/21 - Santo Antonio de Padua",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.8.16.4.3",
+              "nome": "3o Destacamento de Bombeiro Militar do 21o Grupamento de Bombeiro Militar (DBM 3/21 - Italva",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.8.16.4.4",
+              "nome": "4o Destacamento de Bombeiro Militar do 21o Grupamento de Bombeiro Militar (DBM 4/21 - Natividade",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.8.16.4.5",
+              "nome": "5o Destacamento de Bombeiro Militar do 21o Grupamento de Bombeiro Militar (DBM 5/21 - Bom Jesus do Itabapoana",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "4.8.17",
+          "nome": "Comando de Bombeiros de Area",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "5",
+      "nome": "Sul I",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "5.8.17.1",
+          "nome": "Chefia do Estado-Maior do CBA",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "5.8.17.2",
+          "nome": "9o Grupamento de Bombeiro Militar (9o GBM - Macae",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "5.8.17.2.1",
+              "nome": "1o Destacamento de Bombeiro Militar do 9o Grupamento de Bombeiro Militar (DBM 1/9 - Casimiro de Abreu",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "5.8.17.2.2",
+              "nome": "2o Destacamento de Bombeiro Militar do 9o Grupamento de Bombeiro Militar (DBM 2/9 - Rio das Ostras",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "5.8.17.2.3",
+              "nome": "1o Posto Avancado de Bombeiro Militar do 9o Grupamento de Bombeiro Militar (PABM 1/9 - Conceicao de Macabu",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "5.8.17.3",
+          "nome": "18o Grupamento de Bombeiro Militar (18o GBM - Cabo Frio",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "5.8.17.3.1",
+              "nome": "1o Destacamento de Bombeiro Militar do 18o Grupamento de Bombeiro Militar (DBM 1/18 - Sao Pedro da Aldeia",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "5.8.17.3.2",
+              "nome": "2o Destacamento de Bombeiro Militar do 18o Grupamento de Bombeiro Militar (DBM 2/18 - Armacao dos Buzios",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "5.8.17.3.3",
+              "nome": "1o Posto Avancado de Bombeiro Militar do 18o Grupamento de Bombeiro Militar (PABM 1/18 - Arraial do Cabo",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "5.8.17.4",
+          "nome": "27o Grupamento de Bombeiro Militar (27o GBM - Araruama",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "5.8.17.4.1",
+              "nome": "1o Destacamento de Bombeiro Militar do 27o Grupamento de Bombeiro Militar (DBM 1/27 - Saquarema",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "5.8.18",
+          "nome": "Comando de Bombeiros de Area",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "6",
+      "nome": "Sul II",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "6.8.18.1",
+          "nome": "Chefia do Estado-Maior do CBA",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "6.8.18.2",
+          "nome": "4o Grupamento de Bombeiro Militar (4o GBM - Nova Iguacu",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "6.8.18.2.1",
+              "nome": "1o Destacamento de Bombeiro Militar do 4o Grupamento de Bombeiro Militar (DBM 1/4 - Nilopolis",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "6.8.18.2.2",
+              "nome": "2o Destacamento de Bombeiro Militar do 4o Grupamento de Bombeiro Militar (DBM 2/4 - Belford Roxo",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "6.8.18.2.3",
+              "nome": "3o Destacamento de Bombeiro Militar do 4o Grupamento de Bombeiro Militar (DBM 3/4 - Seropedica",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "6.8.18.2.4",
+              "nome": "4o Destacamento de Bombeiro Militar do 4o Grupamento de Bombeiro Militar (DBM 4/4 - Queimados",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "6.8.18.3",
+          "nome": "14o Grupamento de Bombeiro Militar (14o GBM - Duque de Caxias",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "6.8.18.3.1",
+              "nome": "1o Destacamento de Bombeiro Militar do 14o Grupamento de Bombeiro Militar (DBM 1/14 - Sao Joao de Meriti",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "6.8.19",
+          "nome": "Comando de Bombeiros de Area",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "7",
+      "nome": "Serrana I",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "7.8.19.1",
+          "nome": "Chefia do Estado-Maior do CBA",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "7.8.19.2",
+          "nome": "10o Grupamento de Bombeiro Militar (10o GBM - Angra dos Reis",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "7.8.19.2.1",
+              "nome": "1o Destacamento de Bombeiro Militar do 10o Grupamento de Bombeiro Militar (DBM 1/10 - Itaguai",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "7.8.19.2.2",
+              "nome": "2o Destacamento de Bombeiro Militar do 10o Grupamento de Bombeiro Militar (DBM 2/10 - Ilha Grande",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "7.8.19.2.3",
+              "nome": "3o Destacamento de Bombeiro Militar do 10o Grupamento de Bombeiro Militar (DBM 3/10 - Frade",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "7.8.19.2.4",
+              "nome": "4o Destacamento de Bombeiro Militar do 10o Grupamento de Bombeiro Militar (DBM 4/10 - Mangaratiba",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "7.8.19.3",
+          "nome": "26o Grupamento de Bombeiro Militar (26o GBM - Paraty",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "7.8.19.3.1",
+              "nome": "1o Destacamento de Bombeiro Militar do 26o Grupamento de Bombeiro Militar (DBM 1/26 - Mambucaba",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "7.8.20",
+          "nome": "Comando de Bombeiros de Area",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "8",
+      "nome": "Serrana II",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "8.8.20.1",
+          "nome": "Chefia do Estado-Maior do CBA",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "8.8.20.2",
+          "nome": "Grupamento de Busca e Salvamento",
+          "sigla": "GBS",
+          "filhos": [
+            {
+              "indice": "8.8.20.2.1",
+              "nome": "1o Destacamento de Bombeiro Militar do Grupamento de Busca e Salvamento (DBM 1/GBS - Recreio dos Bandeirantes",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "8.8.20.2.2",
+              "nome": "1o Posto Avancado de Bombeiro Militar do Grupamento de Busca e Salvamento (PABM 1/GBS - Barra da Tijuca",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "8.8.20.3",
+          "nome": "Grupamento de Busca e Resgate e Salvamento com Caes",
+          "sigla": "GBRESC",
+          "filhos": []
+        },
+        {
+          "indice": "8.8.20.4",
+          "nome": "1o Grupamento de Socorro Florestal e Meio Ambiente (1o GSFMA - Alto da Boa Vista",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "8.8.20.5",
+          "nome": "2o Grupamento de Socorro Florestal e Meio Ambiente (2o GSFMA - Fragoso",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "8.8.20.6",
+          "nome": "Grupamento Tecnico de Suprimento de Agua para Incendio",
+          "sigla": "GTSAI",
+          "filhos": []
+        },
+        {
+          "indice": "8.8.20.7",
+          "nome": "Grupamento de Operacoes Aereas",
+          "sigla": "GOA",
+          "filhos": [
+            {
+              "indice": "8.8.20.7.1",
+              "nome": "1o Destacamento de Bombeiro Militar do Grupamento de Operacoes Aereas (DBM 1/GOA - Lagoa",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "8.8.20.7.2",
+              "nome": "Coordenadoria de Operacoes com Veiculo Aereo nao Tripulado",
+              "sigla": "COVANT",
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "8.8.20.8",
+          "nome": "Grupamento de Operacoes com Produtos Perigosos",
+          "sigla": "GOPP",
+          "filhos": []
+        },
+        {
+          "indice": "8.8.20.9",
+          "nome": "Destacamento de Bombeiro Militar de Motociclistas (DBM/Moto",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "8.8.20.10",
+          "nome": "Grupamento de Socorro de Emergencia",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "8.8.21",
+          "nome": "Comando de Bombeiros de Area",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "9",
+      "nome": "Baixada Litoranea",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "9.8.21.1",
+          "nome": "Chefia do Estado-Maior do CBA",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "9.8.21.2",
+          "nome": "3o Grupamento de Bombeiro Militar (3o GBM - Niteroi",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "9.8.21.2.1",
+              "nome": "1o Destacamento de Bombeiro Militar do 3o Grupamento de Bombeiro Militar (DBM 1/3 - Charitas",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "9.8.21.2.2",
+              "nome": "2o Destacamento de Bombeiro Militar do 3o Grupamento de Bombeiro Militar (DBM 2/3 - Marica",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "9.8.21.3",
+          "nome": "20o Grupamento de Bombeiro Militar (20o GBM - Sao Goncalo",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "9.8.21.3.1",
+              "nome": "1o Destacamento de Bombeiro Militar do 20o Grupamento de Bombeiro Militar (DBM 1/20 - Itaborai",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "9.8.21.3.2",
+              "nome": "2o Destacamento de Bombeiro Militar do 20o Grupamento de Bombeiro Militar (DBM 2/20 - Rio Bonito",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "9.8.21.3.3",
+              "nome": "3o Destacamento de Bombeiro Militar do 20o Grupamento de Bombeiro Militar (DBM 3/20 - Colubande",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "9.8.22",
+          "nome": "Comando de Bombeiros de Area",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "10",
+      "nome": "Norte",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "10.8.22.1",
+          "nome": "Chefia do Estado-Maior do CBA",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "10.8.22.2",
+          "nome": "Centro de Embarcacoes de Resgate",
+          "sigla": "CER",
+          "filhos": []
+        },
+        {
+          "indice": "10.8.22.3",
+          "nome": "1o Grupamento Maritimo (1o GMar - Botafogo",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "10.8.22.3.1",
+              "nome": "1o Destacamento de Bombeiro Militar do 1o Grupamento Maritimo (DBM 1/M - Paqueta",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "10.8.22.3.2",
+              "nome": "2o Destacamento de Bombeiro Militar do 1o Grupamento Maritimo (DBM 2/M - Piscinao de Ramos",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "10.8.22.4",
+          "nome": "2o Grupamento Maritimo (2o GMar - Barra da Tijuca",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "10.8.22.4.1",
+              "nome": "1o Destacamento de Bombeiro Militar do 2o Grupamento Maritimo (DBM 3/M - Recreio dos Bandeirantes",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "10.8.22.4.2",
+              "nome": "2o Destacamento de Bombeiro Militar do 2o Grupamento Maritimo (DBM 4/M - Barra de Guaratiba",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "10.8.22.4.3",
+              "nome": "3o Destacamento de Bombeiro Militar do 2o Grupamento Maritimo (DBM 5/M - Sepetiba",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "10.8.22.5",
+          "nome": "3o Grupamento Maritimo (3o GMar - Copacabana",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "10.8.22.6",
+          "nome": "4o Grupamento Maritimo (4o GMar - Itaipu",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "10.8.22.6.1",
+              "nome": "1o Destacamento de Bombeiro Militar do 4o Grupamento Maritimo (DBM 6/M - Itaipu",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "11",
+      "nome": "Noroeste",
+      "sigla": null,
+      "filhos": []
+    }
+  ],
+  "Entes Vinculados": [],
+  "Orgaos Colegiados": [],
+  "Comissoes": [],
+  "Fundos": []
+}

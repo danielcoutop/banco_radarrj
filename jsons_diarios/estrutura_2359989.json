@@ -1,0 +1,104 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DE ASSISTÊNCIA À VÍTIMA",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "Gabinete do Secretario",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "1.1",
+          "nome": "Chefia de Gabinete",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.2",
+          "nome": "Assessoria Especial",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.3",
+          "nome": "Assessoria Tecnica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.4",
+          "nome": "Assessoria de Gestao de Pessoas",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.5",
+          "nome": "Assessoria de Tecnologia da Informacao",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.6",
+          "nome": "Assessoria de Estudos, Projetos e Pesquisas",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "2",
+      "nome": "Superintendencia de Apoio a Vitima de Violencia e Familiares",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "2.1",
+          "nome": "Coordenacao de Apoio a Vitima",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.2",
+          "nome": "Coordenacao de Articulacao Institucional",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "3",
+      "nome": "Superintendencia de Prevencao e Reabilitacao de Vitimados",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "3.1",
+          "nome": "Coordenacao de Reabilitacao e Promocao da Saude",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.2",
+          "nome": "Coordenacao de Prevencao e Acoes Sociais",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "4",
+      "nome": "Superintendencia de Apoio aos Agentes de Seguranca Vitimados e Familiares",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "4.1",
+          "nome": "Coordenacao de Apoio e Protecao a Vitima de Violencia e Familiares",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    }
+  ],
+  "Entes Vinculados": [],
+  "Orgaos Colegiados": [],
+  "Comissoes": [],
+  "Fundos": []
+}

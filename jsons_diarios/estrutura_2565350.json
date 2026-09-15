@@ -1,0 +1,303 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DE GOVERNO",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "Gabinete do Secretario",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "1.1",
+          "nome": "Chefia de Gabinete",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.1.2",
+              "nome": "Assessoria Tecnica",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.2",
+          "nome": "Assessoria Especial",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.3",
+          "nome": "Assessoria de Comunicacao",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.4",
+          "nome": "Assessoria Juridica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.5",
+          "nome": "Assessoria de Relacoes Institucionais",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.6",
+          "nome": "Assessoria de Planejamento e Orcamento",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.7",
+          "nome": "Assessoria de Controle Interno",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.8",
+          "nome": "Corregedoria",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.9",
+          "nome": "Ouvidoria",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.10",
+          "nome": "Nucleo de Inteligencia",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.11",
+          "nome": "Diretoria de Gestao Administrativa",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.11.1",
+              "nome": "Coordenadoria de Compras",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.11.2",
+              "nome": "Coordenadoria de Contratos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.11.3",
+              "nome": "Coordenadoria de Infraestrutura e Manutencao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.11.4",
+              "nome": "Coordenadoria de Tecnologia da Informacao",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.12",
+          "nome": "Diretoria de Gestao Financeira",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.12.1",
+              "nome": "Coordenadoria Financeira",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.12.2",
+              "nome": "Coordenadoria de Gestao de Pessoas",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.12.3",
+              "nome": "Coordenadoria de Almoxarifado e Patrimonio",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.12.4",
+              "nome": "Coordenadoria de Contabilidade e Prestacao de Contas",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "2",
+      "nome": "Subsecretaria Executiva",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "2.1",
+          "nome": "Assessoria Tecnica Executiva",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "3",
+      "nome": "Subsecretaria de Parcerias e Projetos Estrategicos",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "3.2.1",
+          "nome": "Superintendencia de Parceria e Projetos Estrategicos",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.2.1.1",
+              "nome": "Coordenadoria de Projetos Estrategicos",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "4",
+      "nome": "Subsecretaria de Projetos Especiais",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "4.3.1",
+          "nome": "Superintendencia da Operacao Seguranca Presente",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.3.1.1",
+              "nome": "Coordenadoria Operacional",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.3.1.2",
+              "nome": "Coordenadoria de Logistica",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.3.1.3",
+              "nome": "Coordenadoria Administrativa",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.3.1.4",
+              "nome": "Coordenadoria de Capacitacao Continuada",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.3.1.5",
+              "nome": "Coordenadoria de Assuntos Estrategicos",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "4.3.2",
+          "nome": "Superintendencia da Operacao Lei Seca",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.3.2.1",
+              "nome": "Coordenadoria Operacional",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.3.2.2",
+              "nome": "Coordenadoria Administrativa",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.3.2.3",
+              "nome": "Coordenadoria de Educacao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.3.2.4",
+              "nome": "Coordenadoria de Logistica",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "5",
+      "nome": "Subsecretaria d e Articulacao Legislativa e Municipal",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "5.4.1",
+          "nome": "Superintendencia de Articulacao Municipal",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "5.4.1.1",
+              "nome": "Coordenadoria Articulacao Legislativa",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "6",
+      "nome": "Subsecretaria de Relacoes Governamentais",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "6.5.1",
+          "nome": "Assessoria Tecnica de Relacoes Governamentais",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "6.5.2",
+          "nome": "Superintendencia do Programa RJ para Todos",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    }
+  ],
+  "Entes Vinculados": [
+    {
+      "nome": "Fundo Estadual de Financiamento da Operacao Seguranca Presente",
+      "sigla": "FEFOSP"
+    }
+  ],
+  "Orgaos Colegiados": [
+    {
+      "nome": "Conselho Diretor do Fundo Estadual de Financiamento da Operacao Seguranca Presente",
+      "sigla": "CDFEFOSP"
+    }
+  ],
+  "Comissoes": [],
+  "Fundos": []
+}

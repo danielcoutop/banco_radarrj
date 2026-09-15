@@ -1,0 +1,312 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "GABINETE DO SECRETARIO",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "1.1",
+          "nome": "Chefia de Gabinete",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.2",
+          "nome": "Assessoria Especial de Gestao",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.2.1",
+              "nome": "Coordenadoria de Rotinas Administrativas",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.2.2",
+              "nome": "Coordenadoria de Desenvolvimento Organizacional",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.2.3",
+              "nome": "Coordenadoria de Politicas Publicas e Relacionamento com Entes Publicos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.2.4",
+              "nome": "Coordenadoria de Cerimonial e Eventos",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.3",
+          "nome": "Assessoria de Controle Interno",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.4",
+          "nome": "Assessoria de Corregedoria",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.4.1",
+              "nome": "Unidade de Gestao de Integridade",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.5",
+          "nome": "Assessoria de Ouvidoria",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.6",
+          "nome": "Assessoria Juridica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.7",
+          "nome": "Assessoria de Tecnologia da Informacao",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.8",
+          "nome": "Assessoria de Escritorio de Projetos",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.9",
+          "nome": "Assessoria de Comunicacao",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "2",
+      "nome": "SUBSECRETARIA DE COOPERACAO COM O SETOR TECNOLOGICO E INOVATIVO",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "2.1",
+          "nome": "Superintendencia de Cooperacao com Setores Estrategicos",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.1.1",
+              "nome": "Coordenadoria de Desenvolvimento com Setores Produtivos e Potencialidades Regionais",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.1.2",
+              "nome": "Coordenadoria de Cooperacao Tecnologica com Empresas Ancoras",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.1.3",
+              "nome": "Coordenadoria de Apoio e Cooperacao com Micro, Pequena e Media Empresa",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.1.4",
+              "nome": "Coordenadoria de Cooperacao e Desenvolvimento do Empreendedorismo Inovador",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "3",
+      "nome": "SUBSECRETARIA DE CAPTACAO DE RECURSOS E PROJETOS EM CIENCIA, TECNOLOGIA E INOVACAO",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "3.1",
+          "nome": "Superintendencia de Captacao de Recursos para Ciencia, Tecnologia e Inovacao",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.1.1",
+              "nome": "Coordenadoria de Captacao de Recursos Privados",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.1.2",
+              "nome": "Coordenadoria de Captacao de Recursos Publicos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.1.3",
+              "nome": "Coordenadoria de Emendas Parlamentares",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "3.2",
+          "nome": "Superintendencia de Postulacao de Projetos de Ciencia, Tecnologia e Inovacao",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.2.1",
+              "nome": "Coordenadoria de Projetos Estrategicos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.2.2",
+              "nome": "Coordenadoria de Projetos Estruturantes",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "4",
+      "nome": "SUBSECRETARIA DE ENSINO SUPERIOR, TECNOLOGICO E PESQUISA",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "4.1",
+          "nome": "Superintendencia de Ensino Superior e Tecnico",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.1.1",
+              "nome": "Coordenadoria de Ensino Superior",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.1.2",
+              "nome": "Coordenadoria de Ensino Tecnico, Tecnologico e Profissionalizante",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "4.2",
+          "nome": "Superintendencia de Desenvolvimento Cientifico e Tecnologico",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.2.1",
+              "nome": "Coordenadoria de Popularizacao da Ciencia e Tecnologia",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.2.2",
+              "nome": "Coordenadoria de Pesquisa Cientifica e Tecnologica",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "5",
+      "nome": "SUBSECRETARIA EXECUTIVA",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "5.1",
+          "nome": "Superintendencia de Acompanhamento da Aplicacao na M.D.E",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "5.1.1",
+              "nome": "Coordenadoria de Execucao Orcamentaria",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "5.1.2",
+              "nome": "Coordenadoria de Pagamentos",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "5.2",
+          "nome": "Diretoria Geral de Administracao e Financas",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "5.2.1",
+              "nome": "Coordenadoria de Planejamento e Gestao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "5.2.2",
+              "nome": "Coordenadoria de Recursos Humanos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "5.2.3",
+              "nome": "Coordenadoria de Contratos e Convenios",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "5.2.4",
+              "nome": "Coordenadoria de Financas",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "5.2.5",
+              "nome": "Coordenadoria de Contabilidade",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "5.2.6",
+              "nome": "Coordenadoria de Administracao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "5.2.7",
+              "nome": "Coordenadoria de Arquivo e Protocolo",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Entes Vinculados": [],
+  "Orgaos Colegiados": [],
+  "Comissoes": [],
+  "Fundos": []
+}

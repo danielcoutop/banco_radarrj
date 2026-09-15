@@ -1,0 +1,240 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DA CASA CIVIL E GOVERNANÇA",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "Gabinete do Secretario",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "1.1",
+          "nome": "Chefia de Gabinete",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.1.1",
+              "nome": "Assessoria Tecnica",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.2",
+              "nome": "Assessoria de Controle dos Cargos em Comissao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.3",
+              "nome": "Assessoria para Preparo e Publicacao dos Atos Oficiais",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.4",
+              "nome": "Assessoria de Empresas em Liquidacao",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.2",
+          "nome": "Assessoria Juridica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.3",
+          "nome": "Assessoria de Controle Interno",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.4",
+          "nome": "Assessoria de Contabilidade",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.5",
+          "nome": "Assessoria de Assuntos Legislativos",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.6",
+          "nome": "Ouvidoria",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.7",
+          "nome": "Corregedoria",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "2",
+      "nome": "Subsecretaria Geral",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "2.1",
+          "nome": "Superintendencia Especial de Projetos Sociais",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.1.1",
+              "nome": "Assessoria de Programas",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.1.2",
+              "nome": "Assessoria de Administracao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.1.3",
+              "nome": "Assessoria de Marketing",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.1.4",
+              "nome": "Assessoria Juridica da SEPS",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "2.2",
+          "nome": "Laboratorio de Aceleracao da Eficiencia Publica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.3",
+          "nome": "Assessoria de Assuntos Estrategicos",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "3",
+      "nome": "Orgao Especifico Singular",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "3.1",
+          "nome": "Subsecretaria de Gestao de Pessoas",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.1.1",
+              "nome": "Assessoria Tecnica de Gestao de Pessoas",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.1.2",
+              "nome": "Assessoria de Suporte Administrativo e Judicial",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.1.3",
+              "nome": "Superintendencia de Sistemas de Gestao de Pessoas",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.1.3.1",
+                  "nome": "Coordenadoria de Gestao do Processamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.1.3.2",
+                  "nome": "Coordenadoria de Gestao das Aplicacoes",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.1.3.3",
+                  "nome": "Coordenadoria Central de Relacionamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.1.3.4",
+                  "nome": "Coordenadoria de Suporte Tecnologico",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.1.3.5",
+                  "nome": "Coordenadoria de Gestao das Consignacoes",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "3.1.4.1",
+              "nome": "Coordenadoria de Normas",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.1.4.2",
+              "nome": "Coordenadoria de Consultas",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.1.4.3",
+              "nome": "Coordenadoria de Gestao do Cadastro e Processos de Pessoal",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.1.5",
+              "nome": "Superintendencia de Planejamento e Desenvolvimento de Pessoas",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.1.5.1",
+                  "nome": "Coordenadoria de Provimento e Desenvolvimento de Pessoas",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.1.5.2",
+                  "nome": "Coordenadoria de Carreiras e Remuneracao",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.1.5.3",
+                  "nome": "Coordenadoria de Gestao da Informacao e do Conhecimento",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Entes Vinculados": [],
+  "Orgaos Colegiados": [],
+  "Comissoes": [],
+  "Fundos": []
+}

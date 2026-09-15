@@ -1,0 +1,45 @@
+[
+  {
+    "id": 2307658,
+    "secretaria": "SECRETARIA DE ESTADO DE SAÚDE",
+    "data_ato": "2021-04-01",
+    "itens": 10,
+    "sinais": [
+      "tamanho_relativo",
+      "gabinete_sem_filhos"
+    ],
+    "pontuacao": 3,
+    "itens_numerados_no_texto": 253
+  },
+  {
+    "id": 2308963,
+    "secretaria": "SECRETARIA DE ESTADO DE FAZENDA",
+    "data_ato": "2021-04-08",
+    "itens": 54,
+    "sinais": [],
+    "pontuacao": 0,
+    "itens_numerados_no_texto": 194
+  },
+  {
+    "id": 2456682,
+    "secretaria": "SECRETARIA DE ESTADO DE FAZENDA",
+    "data_ato": "2023-02-07",
+    "itens": 58,
+    "sinais": [
+      "consolida"
+    ],
+    "pontuacao": -3,
+    "itens_numerados_no_texto": 211
+  },
+  {
+    "id": 2743751,
+    "secretaria": "SECRETARIA DE ESTADO DE FAZENDA",
+    "data_ato": "2026-06-22",
+    "itens": 41,
+    "sinais": [
+      "consolida"
+    ],
+    "pontuacao": -3,
+    "itens_numerados_no_texto": 197
+  }
+]

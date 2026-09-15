@@ -1,0 +1,249 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DE TRANSPORTE E MOBILIDADE URBANA",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "Gabinete do Secretario",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "1.1",
+          "nome": "Assessoria Juridica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.2",
+          "nome": "Assessoria de Comunicacao Social",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.3",
+          "nome": "Auditoria",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.4",
+          "nome": "Corregedoria",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.5",
+          "nome": "Assessoria de Governanca",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.6",
+          "nome": "Ouvidoria",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.7",
+          "nome": "Assessoria de Planejamento e Gestao",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.8",
+          "nome": "Assessoria de Relacoes Institucionais",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.9",
+          "nome": "Superintendencia de Investigacao e Prevencao de Acidentes Metroferroviarios",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.10",
+          "nome": "Assessoria Tecnica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.11",
+          "nome": "Chefia do Gabinete",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.11.1",
+              "nome": "Assessoria de Tecnologia da Informacao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.11.2",
+              "nome": "Departamento Geral de Administracao e Financas",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "1.11.2.1",
+                  "nome": "Coordenadoria de Gestao de Pessoas",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "1.11.2.2",
+                  "nome": "Coordenadoria de Gestao Documental",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "1.11.2.3",
+                  "nome": "Coordenadoria de Contabilidade",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "1.11.2.4",
+                  "nome": "Coordenadoria de Administracao Financeira",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "1.11.2.5",
+                  "nome": "Coordenadoria de Servicos Gerais",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "1.11.2.6",
+                  "nome": "Coordenadoria de Material e Patrimonio",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "1.11.2.7",
+                  "nome": "Coordenadoria de Gestao do Bilhete Unico Intermunicipal",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "2",
+      "nome": "Subsecretaria Executiva",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "2.1",
+          "nome": "Assessoria Tecnica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.2",
+          "nome": "Assessoria de Projetos de Mobilidade",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.3",
+          "nome": "Assessoria de Transporte Aquaviario",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.4",
+          "nome": "Assessoria de Transporte Aeroviario Regional",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.5",
+          "nome": "Superintendencia de Mobilidade Urbana",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.6",
+          "nome": "Coordenadoria de Gestao do Vale Social",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "3",
+      "nome": "Subsecretaria de Logistica",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "3.1",
+          "nome": "Assessoria Tecnica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.2",
+          "nome": "Assessoria de Projetos Especiais",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.3",
+          "nome": "Superintendencia de Bilhetagem Eletronica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.4",
+          "nome": "Superintendencia de Logistica e Cargas",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "5",
+      "nome": "Conselho Estadual de Transportes e Logistica",
+      "sigla": "CETL",
+      "filhos": []
+    },
+    {
+      "indice": "6",
+      "nome": "Companhia Estadual de Engenharia de Transportes e Logistica",
+      "sigla": "CENTRAL",
+      "filhos": []
+    },
+    {
+      "indice": "7",
+      "nome": "Companhia de Desenvolvimento Rodoviario e Terminais do Estado do Rio de Janeiro",
+      "sigla": "CODERTE",
+      "filhos": []
+    },
+    {
+      "indice": "8",
+      "nome": "Departamento de Transportes Rodoviarios do Estado do Rio de Janeiro",
+      "sigla": "DETRO",
+      "filhos": []
+    },
+    {
+      "indice": "9",
+      "nome": "Companhia de Transportes sobre Trilhos do Estado do Rio de Janeiro",
+      "sigla": "RIOTRILHOS",
+      "filhos": []
+    },
+    {
+      "indice": "10",
+      "nome": "Fundo Estadual de Transportes",
+      "sigla": "FET",
+      "filhos": []
+    }
+  ],
+  "Entes Vinculados": [],
+  "Orgaos Colegiados": [],
+  "Comissoes": [],
+  "Fundos": []
+}

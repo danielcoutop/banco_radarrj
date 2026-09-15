@@ -1,0 +1,62 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DE ADMINISTRAÇÃO PENITENCIÁRIA",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "Gabinete do Secretario",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "1.1",
+          "nome": "Chefia de Gabinete",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.1.1",
+              "nome": "Assessoria Tecnica Administrativa",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.2",
+              "nome": "Assessoria de Seguranca Institucional",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "1.1.2.1",
+                  "nome": "Coordenacao Operacional de SI",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "1.1.2.1.1",
+                      "nome": "Chefe de Turma",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "1.2",
+          "nome": "Assessoria Juridica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.3",
+          "nome": "Assessoria Especial",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    }
+  ],
+  "Entes Vinculados": [],
+  "Orgaos Colegiados": [],
+  "Comissoes": [],
+  "Fundos": []
+}

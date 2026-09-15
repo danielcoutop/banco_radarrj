@@ -1,0 +1,615 @@
+[
+  {
+    "id": 1058914,
+    "orgao_emissor": "GOVERNADOR DO ESTADO DO RIO DE JANEIRO",
+    "secretaria_alterada": "SECRETARIA DE ESTADO DE EDUCAÇÃO",
+    "data_publicacao": null,
+    "data_ato": "2010-12-06",
+    "itens": 1,
+    "sinais": [
+      "omissao_na_lista",
+      "tamanho_relativo",
+      "gabinete_sem_filhos"
+    ],
+    "pontuacao": 5
+  },
+  {
+    "id": 1093266,
+    "orgao_emissor": "GOVERNADOR DO ESTADO DO RIO DE JANEIRO",
+    "secretaria_alterada": "SECRETARIA DE ESTADO DE SAÚDE E DEFESA CIVIL",
+    "data_publicacao": null,
+    "data_ato": "2011-02-23",
+    "itens": 7,
+    "sinais": [
+      "tamanho_relativo",
+      "lacunas_numeracao"
+    ],
+    "pontuacao": 3
+  },
+  {
+    "id": 1124082,
+    "orgao_emissor": "GOVERNADOR DO ESTADO DO RIO DE JANEIRO",
+    "secretaria_alterada": "SECRETARIA DE ESTADO DE SEGURANÇA",
+    "data_publicacao": null,
+    "data_ato": "2011-04-29",
+    "itens": 2,
+    "sinais": [
+      "omissao_na_lista",
+      "lacunas_numeracao"
+    ],
+    "pontuacao": 3
+  },
+  {
+    "id": 1149615,
+    "orgao_emissor": "GOVERNADOR DO ESTADO DO RIO DE JANEIRO",
+    "secretaria_alterada": "SECRETARIA DE ESTADO DA CASA CIVIL",
+    "data_publicacao": null,
+    "data_ato": "2011-06-16",
+    "itens": 33,
+    "sinais": [
+      "omissao_na_lista",
+      "tamanho_relativo"
+    ],
+    "pontuacao": 4
+  },
+  {
+    "id": 1152596,
+    "orgao_emissor": "SECRETÁRIO DE ESTADO CHEFE DA CASA CIVIL",
+    "secretaria_alterada": "SECRETARIA DE ESTADO DA CASA CIVIL",
+    "data_publicacao": null,
+    "data_ato": "2011-06-22",
+    "itens": 35,
+    "sinais": [
+      "omissao_na_lista",
+      "tamanho_relativo"
+    ],
+    "pontuacao": 4
+  },
+  {
+    "id": 1160323,
+    "orgao_emissor": "GOVERNADOR DO ESTADO DO RIO DE JANEIRO",
+    "secretaria_alterada": "SECRETARIA DE ESTADO DE SAÚDE",
+    "data_publicacao": null,
+    "data_ato": "2011-07-08",
+    "itens": 86,
+    "sinais": [
+      "omissao_na_lista",
+      "texto_de_alteracao"
+    ],
+    "pontuacao": 3
+  },
+  {
+    "id": 1232766,
+    "orgao_emissor": "GOVERNADOR DO ESTADO DO RIO DE JANEIRO",
+    "secretaria_alterada": "SECRETARIA DE ESTADO DA CASA CIVIL",
+    "data_publicacao": null,
+    "data_ato": "2011-12-05",
+    "itens": 2,
+    "sinais": [
+      "omissao_na_lista",
+      "tamanho_relativo",
+      "lacunas_numeracao"
+    ],
+    "pontuacao": 5
+  },
+  {
+    "id": 1258344,
+    "orgao_emissor": "GOVERNADOR DO ESTADO DO RIO DE JANEIRO",
+    "secretaria_alterada": "SECRETARIA DE ESTADO DE SAÚDE",
+    "data_publicacao": null,
+    "data_ato": "2012-02-07",
+    "itens": 14,
+    "sinais": [
+      "omissao_na_lista",
+      "tamanho_relativo",
+      "texto_de_alteracao"
+    ],
+    "pontuacao": 5
+  },
+  {
+    "id": 1655158,
+    "orgao_emissor": "GOVERNADOR DO ESTADO DO RIO DE JANEIRO",
+    "secretaria_alterada": "SECRETARIA DE ESTADO DE SAÚDE",
+    "data_publicacao": null,
+    "data_ato": "2014-04-02",
+    "itens": 21,
+    "sinais": [
+      "omissao_na_lista",
+      "tamanho_relativo",
+      "texto_de_alteracao"
+    ],
+    "pontuacao": 5
+  },
+  {
+    "id": 1666509,
+    "orgao_emissor": "GOVERNADOR DO ESTADO DO RIO DE JANEIRO",
+    "secretaria_alterada": "SECRETARIA DE ESTADO DE EDUCAÇÃO",
+    "data_publicacao": null,
+    "data_ato": "2014-04-29",
+    "itens": 7,
+    "sinais": [
+      "omissao_na_lista",
+      "tamanho_relativo",
+      "texto_de_alteracao",
+      "lacunas_numeracao",
+      "gabinete_sem_filhos"
+    ],
+    "pontuacao": 7
+  },
+  {
+    "id": 1667385,
+    "orgao_emissor": "GOVERNADOR DO ESTADO DO RIO DE JANEIRO",
+    "secretaria_alterada": "SECRETARIA DE ESTADO DE EDUCAÇÃO",
+    "data_publicacao": null,
+    "data_ato": "2014-04-30",
+    "itens": 1,
+    "sinais": [
+      "omissao_na_lista",
+      "tamanho_relativo",
+      "texto_de_alteracao",
+      "gabinete_sem_filhos"
+    ],
+    "pontuacao": 6
+  },
+  {
+    "id": 1669465,
+    "orgao_emissor": "GOVERNADOR DO ESTADO DO RIO DE JANEIRO",
+    "secretaria_alterada": "SECRETARIA DE ESTADO DE EDUCAÇÃO",
+    "data_publicacao": null,
+    "data_ato": "2014-05-06",
+    "itens": 5,
+    "sinais": [
+      "omissao_na_lista",
+      "tamanho_relativo",
+      "texto_de_alteracao",
+      "lacunas_numeracao",
+      "gabinete_sem_filhos"
+    ],
+    "pontuacao": 7
+  },
+  {
+    "id": 1670198,
+    "orgao_emissor": "GOVERNADOR DO ESTADO DO RIO DE JANEIRO",
+    "secretaria_alterada": "SECRETARIA DE ESTADO DE EDUCAÇÃO",
+    "data_publicacao": null,
+    "data_ato": "2014-05-07",
+    "itens": 8,
+    "sinais": [
+      "omissao_na_lista",
+      "tamanho_relativo",
+      "texto_de_alteracao",
+      "lacunas_numeracao"
+    ],
+    "pontuacao": 6
+  },
+  {
+    "id": 1670199,
+    "orgao_emissor": "GOVERNADOR DO ESTADO DO RIO DE JANEIRO",
+    "secretaria_alterada": "SECRETARIA DE ESTADO DE EDUCAÇÃO",
+    "data_publicacao": null,
+    "data_ato": "2014-05-07",
+    "itens": 2,
+    "sinais": [
+      "omissao_na_lista",
+      "tamanho_relativo",
+      "texto_de_alteracao",
+      "lacunas_numeracao"
+    ],
+    "pontuacao": 6
+  },
+  {
+    "id": 1679851,
+    "orgao_emissor": "GOVERNADOR DO ESTADO DO RIO DE JANEIRO",
+    "secretaria_alterada": "SECRETARIA DE ESTADO DE EDUCAÇÃO",
+    "data_publicacao": null,
+    "data_ato": "2014-05-26",
+    "itens": 3,
+    "sinais": [
+      "omissao_na_lista",
+      "tamanho_relativo",
+      "texto_de_alteracao",
+      "lacunas_numeracao",
+      "gabinete_sem_filhos"
+    ],
+    "pontuacao": 7
+  },
+  {
+    "id": 1679852,
+    "orgao_emissor": "GOVERNADOR DO ESTADO DO RIO DE JANEIRO",
+    "secretaria_alterada": "SECRETARIA DE ESTADO DE EDUCAÇÃO",
+    "data_publicacao": null,
+    "data_ato": "2014-05-26",
+    "itens": 1,
+    "sinais": [
+      "omissao_na_lista",
+      "tamanho_relativo",
+      "texto_de_alteracao",
+      "gabinete_sem_filhos"
+    ],
+    "pontuacao": 6
+  },
+  {
+    "id": 1702620,
+    "orgao_emissor": "GOVERNADOR DO ESTADO DO RIO DE JANEIRO",
+    "secretaria_alterada": "SECRETARIA DE ESTADO DE EDUCAÇÃO",
+    "data_publicacao": null,
+    "data_ato": "2014-07-15",
+    "itens": 5,
+    "sinais": [
+      "omissao_na_lista",
+      "tamanho_relativo",
+      "texto_de_alteracao",
+      "lacunas_numeracao"
+    ],
+    "pontuacao": 6
+  },
+  {
+    "id": 1859081,
+    "orgao_emissor": "GOVERNADOR DO ESTADO DO RIO DE JANEIRO",
+    "secretaria_alterada": "SECRETARIA DE ESTADO DE EDUCAÇÃO",
+    "data_publicacao": null,
+    "data_ato": "2015-07-15",
+    "itens": 2,
+    "sinais": [
+      "omissao_na_lista",
+      "tamanho_relativo",
+      "texto_de_alteracao",
+      "lacunas_numeracao"
+    ],
+    "pontuacao": 6
+  },
+  {
+    "id": 2054792,
+    "orgao_emissor": "GOVERNADOR DO ESTADO DO RIO DE JANEIRO",
+    "secretaria_alterada": "SECRETARIA DE ESTADO DE FAZENDA E PLANEJAMENTO",
+    "data_publicacao": null,
+    "data_ato": "2017-08-29",
+    "itens": 1,
+    "sinais": [
+      "tamanho_relativo",
+      "gabinete_sem_filhos"
+    ],
+    "pontuacao": 3
+  },
+  {
+    "id": 2252527,
+    "orgao_emissor": "GOVERNADOR DO ESTADO DO RIO DE JANEIRO",
+    "secretaria_alterada": "SECRETARIA EXTRAORDINÁRIA DE ACOMPANHAMENTO DAS AÇÕES GOVERNAMENTAIS INTEGRADAS DA COVID-19",
+    "data_publicacao": null,
+    "data_ato": "2020-05-19",
+    "itens": 4,
+    "sinais": [],
+    "pontuacao": 0
+  },
+  {
+    "id": 2257224,
+    "orgao_emissor": "GOVERNADOR DO ESTADO DO RIO DE JANEIRO",
+    "secretaria_alterada": "SECRETARIA DE ESTADO DE FAZENDA",
+    "data_publicacao": null,
+    "data_ato": "2020-06-24",
+    "itens": 19,
+    "sinais": [
+      "omissao_na_lista",
+      "texto_de_alteracao"
+    ],
+    "pontuacao": 3
+  },
+  {
+    "id": 2266493,
+    "orgao_emissor": "GOVERNADOR DO ESTADO DO RIO DE JANEIRO",
+    "secretaria_alterada": "SECRETARIA DE ESTADO DE EDUCAÇÃO",
+    "data_publicacao": null,
+    "data_ato": "2020-08-20",
+    "itens": 5,
+    "sinais": [
+      "tamanho_relativo",
+      "lacunas_numeracao"
+    ],
+    "pontuacao": 3
+  },
+  {
+    "id": 2347041,
+    "orgao_emissor": "GOVERNADOR DO ESTADO DO RIO DE JANEIRO",
+    "secretaria_alterada": "SECRETARIA DE ESTADO DE FAZENDA",
+    "data_publicacao": null,
+    "data_ato": "2021-10-14",
+    "itens": 1,
+    "sinais": [
+      "omissao_na_lista",
+      "tamanho_relativo",
+      "gabinete_sem_filhos"
+    ],
+    "pontuacao": 5
+  },
+  {
+    "id": 2347416,
+    "orgao_emissor": "GOVERNADOR DO ESTADO DO RIO DE JANEIRO",
+    "secretaria_alterada": "SECRETARIA DE ESTADO DE FAZENDA",
+    "data_publicacao": null,
+    "data_ato": "2021-10-14",
+    "itens": 1,
+    "sinais": [
+      "omissao_na_lista",
+      "tamanho_relativo",
+      "gabinete_sem_filhos"
+    ],
+    "pontuacao": 5
+  },
+  {
+    "id": 2348616,
+    "orgao_emissor": "GOVERNADOR DO ESTADO DO RIO DE JANEIRO",
+    "secretaria_alterada": "SECRETARIA DE ESTADO DE FAZENDA",
+    "data_publicacao": null,
+    "data_ato": "2021-10-27",
+    "itens": 8,
+    "sinais": [
+      "omissao_na_lista",
+      "tamanho_relativo",
+      "texto_de_alteracao"
+    ],
+    "pontuacao": 5
+  },
+  {
+    "id": 2395939,
+    "orgao_emissor": "GOVERNADOR DO ESTADO DO RIO DE JANEIRO",
+    "secretaria_alterada": "SECRETARIA DE ESTADO DE AÇÃO COMUNITÁRIA E JUVENTUDE",
+    "data_publicacao": null,
+    "data_ato": "2022-05-25",
+    "itens": 4,
+    "sinais": [
+      "consolida"
+    ],
+    "pontuacao": -3
+  },
+  {
+    "id": 2396208,
+    "orgao_emissor": "GOVERNADOR DO ESTADO DO RIO DE JANEIRO",
+    "secretaria_alterada": "SECRETARIA DE ESTADO DE FAZENDA",
+    "data_publicacao": null,
+    "data_ato": "2022-05-26",
+    "itens": 11,
+    "sinais": [
+      "omissao_na_lista",
+      "tamanho_relativo",
+      "texto_de_alteracao"
+    ],
+    "pontuacao": 5
+  },
+  {
+    "id": 2411114,
+    "orgao_emissor": "GOVERNADOR DO ESTADO DO RIO DE JANEIRO",
+    "secretaria_alterada": "SECRETARIA DE ESTADO DE FAZENDA",
+    "data_publicacao": null,
+    "data_ato": "2022-07-22",
+    "itens": 1,
+    "sinais": [
+      "omissao_na_lista",
+      "tamanho_relativo",
+      "gabinete_sem_filhos"
+    ],
+    "pontuacao": 5
+  },
+  {
+    "id": 2411472,
+    "orgao_emissor": "GOVERNADOR DO ESTADO DO RIO DE JANEIRO",
+    "secretaria_alterada": "SECRETARIA DE ESTADO DE FAZENDA",
+    "data_publicacao": null,
+    "data_ato": "2022-07-22",
+    "itens": 1,
+    "sinais": [
+      "omissao_na_lista",
+      "tamanho_relativo",
+      "gabinete_sem_filhos"
+    ],
+    "pontuacao": 5
+  },
+  {
+    "id": 2424318,
+    "orgao_emissor": "GOVERNADOR DO ESTADO DO RIO DE JANEIRO",
+    "secretaria_alterada": "SECRETARIA DE ESTADO DE FAZENDA",
+    "data_publicacao": null,
+    "data_ato": "2022-09-14",
+    "itens": 1,
+    "sinais": [
+      "omissao_na_lista",
+      "tamanho_relativo",
+      "gabinete_sem_filhos"
+    ],
+    "pontuacao": 5
+  },
+  {
+    "id": 2450103,
+    "orgao_emissor": "GOVERNADOR DO ESTADO DO RIO DE JANEIRO",
+    "secretaria_alterada": "SECRETARIA DE ESTADO DE FAZENDA",
+    "data_publicacao": null,
+    "data_ato": "2022-01-03",
+    "itens": 1,
+    "sinais": [
+      "omissao_na_lista",
+      "tamanho_relativo",
+      "gabinete_sem_filhos"
+    ],
+    "pontuacao": 5
+  },
+  {
+    "id": 2485916,
+    "orgao_emissor": "GOVERNADOR DO ESTADO DO RIO DE JANEIRO",
+    "secretaria_alterada": "SECRETARIA DE ESTADO DE EDUCAÇÃO",
+    "data_publicacao": null,
+    "data_ato": "2023-06-14",
+    "itens": 1,
+    "sinais": [
+      "omissao_na_lista",
+      "tamanho_relativo",
+      "gabinete_sem_filhos"
+    ],
+    "pontuacao": 5
+  },
+  {
+    "id": 2592789,
+    "orgao_emissor": "GOVERNADOR DO ESTADO DO RIO DE JANEIRO",
+    "secretaria_alterada": "SECRETARIA DE ESTADO DE DESENVOLVIMENTO SOCIAL E DIREITOS HUMANOS",
+    "data_publicacao": null,
+    "data_ato": "2024-09-09",
+    "itens": 4,
+    "sinais": [
+      "tamanho_relativo",
+      "lacunas_numeracao",
+      "gabinete_sem_filhos",
+      "consolida"
+    ],
+    "pontuacao": 1
+  },
+  {
+    "id": 2607742,
+    "orgao_emissor": "GOVERNADOR DO ESTADO DO RIO DE JANEIRO",
+    "secretaria_alterada": "SECRETARIA DE ESTADO DE FAZENDA",
+    "data_publicacao": null,
+    "data_ato": "2024-11-11",
+    "itens": 1,
+    "sinais": [
+      "omissao_na_lista",
+      "tamanho_relativo",
+      "gabinete_sem_filhos"
+    ],
+    "pontuacao": 5
+  },
+  {
+    "id": 2608545,
+    "orgao_emissor": "GOVERNADOR DO ESTADO DO RIO DE JANEIRO",
+    "secretaria_alterada": "SECRETARIA DE ESTADO DE FAZENDA",
+    "data_publicacao": null,
+    "data_ato": "2024-11-11",
+    "itens": 1,
+    "sinais": [
+      "omissao_na_lista",
+      "tamanho_relativo",
+      "gabinete_sem_filhos"
+    ],
+    "pontuacao": 5
+  },
+  {
+    "id": 2610767,
+    "orgao_emissor": "GOVERNADOR DO ESTADO DO RIO DE JANEIRO",
+    "secretaria_alterada": "SECRETARIA DE ESTADO DE FAZENDA",
+    "data_publicacao": null,
+    "data_ato": "2024-11-11",
+    "itens": 1,
+    "sinais": [
+      "omissao_na_lista",
+      "tamanho_relativo",
+      "gabinete_sem_filhos"
+    ],
+    "pontuacao": 5
+  },
+  {
+    "id": 2611114,
+    "orgao_emissor": "GOVERNADOR DO ESTADO DO RIO DE JANEIRO",
+    "secretaria_alterada": "SECRETARIA DE ESTADO DE FAZENDA",
+    "data_publicacao": null,
+    "data_ato": "2024-11-11",
+    "itens": 1,
+    "sinais": [
+      "omissao_na_lista",
+      "tamanho_relativo",
+      "gabinete_sem_filhos"
+    ],
+    "pontuacao": 5
+  },
+  {
+    "id": 2753509,
+    "orgao_emissor": "GOVERNADOR DO ESTADO DO RIO DE JANEIRO",
+    "secretaria_alterada": "SECRETARIA DE ESTADO DE DESENVOLVIMENTO ECONÔMICO; SECRETARIA DE ESTADO DE ENERGIA E ECONOMIA DO MAR",
+    "data_publicacao": null,
+    "data_ato": "2026-07-21",
+    "itens": 2,
+    "sinais": [
+      "omissao_na_lista",
+      "tamanho_relativo",
+      "lacunas_numeracao"
+    ],
+    "pontuacao": 5
+  },
+  {
+    "id": 622946,
+    "orgao_emissor": "GOVERNADOR DO ESTADO DO RIO DE JANEIRO",
+    "secretaria_alterada": "SECRETARIA DE ESTADO DE SEGURANÇA",
+    "data_publicacao": null,
+    "data_ato": "2008-08-04",
+    "itens": 2,
+    "sinais": [
+      "lacunas_numeracao",
+      "consolida"
+    ],
+    "pontuacao": -2
+  },
+  {
+    "id": 633332,
+    "orgao_emissor": "GOVERNADOR DO ESTADO DO RIO DE JANEIRO",
+    "secretaria_alterada": "SECRETARIA DE ESTADO DE FAZENDA",
+    "data_publicacao": null,
+    "data_ato": "2008-08-13",
+    "itens": 3,
+    "sinais": [
+      "tamanho_relativo",
+      "texto_de_alteracao",
+      "gabinete_sem_filhos"
+    ],
+    "pontuacao": 4
+  },
+  {
+    "id": 806494,
+    "orgao_emissor": "GOVERNADOR DO ESTADO DO RIO DE JANEIRO",
+    "secretaria_alterada": "SECRETARIA DE ESTADO DA CASA CIVIL",
+    "data_publicacao": null,
+    "data_ato": "2009-07-17",
+    "itens": 2,
+    "sinais": [
+      "tamanho_relativo",
+      "lacunas_numeracao"
+    ],
+    "pontuacao": 3
+  },
+  {
+    "id": 830707,
+    "orgao_emissor": "GOVERNADOR DO ESTADO DO RIO DE JANEIRO",
+    "secretaria_alterada": "SECRETARIA DE ESTADO DE EDUCAÇÃO",
+    "data_publicacao": null,
+    "data_ato": "2009-08-28",
+    "itens": 48,
+    "sinais": [
+      "omissao_na_lista",
+      "tamanho_relativo"
+    ],
+    "pontuacao": 4
+  },
+  {
+    "id": 887811,
+    "orgao_emissor": "GOVERNADOR DO ESTADO DO RIO DE JANEIRO",
+    "secretaria_alterada": "SECRETARIA DE ESTADO DE FAZENDA",
+    "data_publicacao": null,
+    "data_ato": "2009-12-11",
+    "itens": 2,
+    "sinais": [
+      "tamanho_relativo",
+      "texto_de_alteracao",
+      "gabinete_sem_filhos"
+    ],
+    "pontuacao": 4
+  },
+  {
+    "id": 947076,
+    "orgao_emissor": "GOVERNADOR DO ESTADO DO RIO DE JANEIRO",
+    "secretaria_alterada": "SECRETARIA DE ESTADO DE SAÚDE E DEFESA CIVIL",
+    "data_publicacao": null,
+    "data_ato": "2010-04-20",
+    "itens": 2,
+    "sinais": [
+      "omissao_na_lista",
+      "tamanho_relativo",
+      "texto_de_alteracao",
+      "lacunas_numeracao"
+    ],
+    "pontuacao": 6
+  }
+]

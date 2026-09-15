@@ -1,0 +1,168 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA EXTRAORDINÁRIA DE REPRESENTAÇÃO DO GOVERNO EM BRASÍLIA",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "Gabinete do Secretario",
+      "sigla": "GABSEC",
+      "filhos": [
+        {
+          "indice": "1.1",
+          "nome": "Chefia de Gabinete",
+          "sigla": "CHEGAB",
+          "filhos": []
+        },
+        {
+          "indice": "1.2",
+          "nome": "Corregedoria",
+          "sigla": "CORREG",
+          "filhos": []
+        },
+        {
+          "indice": "1.3",
+          "nome": "Assessoria de Comunicacao",
+          "sigla": "ASSCOM",
+          "filhos": []
+        },
+        {
+          "indice": "1.4",
+          "nome": "Assessoria Juridica",
+          "sigla": "ASSJUR",
+          "filhos": []
+        },
+        {
+          "indice": "1.5",
+          "nome": "Assessoria de Controle Interno",
+          "sigla": "ASSCIN",
+          "filhos": []
+        },
+        {
+          "indice": "1.6",
+          "nome": "Ouvidoria",
+          "sigla": "OUVI",
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "2",
+      "nome": "Subsecretaria de Representacao e Relacoes Institucionais",
+      "sigla": "SUBRI",
+      "filhos": [
+        {
+          "indice": "2.1",
+          "nome": "Assessoria de Relacoes Institucionais",
+          "sigla": "ASSREL",
+          "filhos": []
+        },
+        {
+          "indice": "2.2",
+          "nome": "Assessoria de Relacoes Internacionais",
+          "sigla": "ASSREI",
+          "filhos": []
+        },
+        {
+          "indice": "2.3",
+          "nome": "Assessoria Parlamentar",
+          "sigla": "ASSPAR",
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "3",
+      "nome": "Subsecretaria de Administracao",
+      "sigla": "SUBADM",
+      "filhos": [
+        {
+          "indice": "3.1",
+          "nome": "Superintendencia de Recursos Logisticos",
+          "sigla": "SUPLOG",
+          "filhos": [
+            {
+              "indice": "3.1.1",
+              "nome": "Coordenacao de Patrimonio e Tecnologia da Informacao",
+              "sigla": "COPATI",
+              "filhos": []
+            },
+            {
+              "indice": "3.1.2",
+              "nome": "Coordenacao de Compras e Contratos",
+              "sigla": "COOCONT",
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "3.2",
+          "nome": "Superintendencia de Administracao e Financas",
+          "sigla": "SUPAF",
+          "filhos": [
+            {
+              "indice": "3.2.1",
+              "nome": "Coordenacao de Gestao de Pessoas",
+              "sigla": "COGEPE",
+              "filhos": []
+            },
+            {
+              "indice": "3.2.2",
+              "nome": "Coordenacao de Planejamento, Contabilidade, Orcamento e Financas",
+              "sigla": "COPCOF",
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "4",
+      "nome": "Subsecretaria de Projetos, Convenios e Captacao de Recursos Federais",
+      "sigla": "SUBCAF",
+      "filhos": [
+        {
+          "indice": "4.1",
+          "nome": "Superintendencia de Projetos e Treinamentos",
+          "sigla": "SUPROT",
+          "filhos": [
+            {
+              "indice": "4.1.1",
+              "nome": "Coordenacao de Captacao de Demanda e Apoio Tecnico",
+              "sigla": "CODEAT",
+              "filhos": []
+            },
+            {
+              "indice": "4.1.2",
+              "nome": "Coordenacao de Treinamentos",
+              "sigla": "COTREI",
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "4.2",
+          "nome": "Superintendencia de Convenios e Captacao de Recursos",
+          "sigla": "SUPCCR",
+          "filhos": [
+            {
+              "indice": "4.2.1",
+              "nome": "Coordenacao de Captacao de Recursos Federais e Internacionais",
+              "sigla": "COCAFI",
+              "filhos": []
+            },
+            {
+              "indice": "4.2.2",
+              "nome": "Coordenacao de Criacao e monitoramento de convenios",
+              "sigla": "COCMC",
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Entes Vinculados": [],
+  "Orgaos Colegiados": [],
+  "Comissoes": [],
+  "Fundos": []
+}

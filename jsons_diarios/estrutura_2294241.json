@@ -1,0 +1,345 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DE AGRICULTURA, PECUÁRIA, PESCA E ABASTECIMENTO",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "Gabinete do Secretario",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "1.2",
+          "nome": "Chefia de Gabinete",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.2.2",
+              "nome": "Coordenadoria de Projetos Especiais e Relacoes Institucionais",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.3",
+          "nome": "Assessoria Juridica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.4",
+          "nome": "Assessoria Legislativa",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.5",
+          "nome": "Assessoria de Comunicacao e Eventos",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.6",
+          "nome": "Ouvidoria",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.7",
+          "nome": "Corregedoria",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.8",
+          "nome": "Assessoria Tecnica e de Apoio as Estatais",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.9",
+          "nome": "Nucleo de Controle Interno e Compliance",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.10",
+          "nome": "Escritorio de Captacao de Recursos e Convenios",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "2",
+      "nome": "Subsecretaria de Gestao, Fomento e Defesa Agropecuaria",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "2.1",
+          "nome": "Coordenadoria de Fomento Agropecuario",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.2",
+          "nome": "Diretoria Geral de Administracao e Financas",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.2.1",
+              "nome": "Coordenadoria de Planejamento e Orcamento",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.2",
+              "nome": "Coordenadoria de Financas",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.3",
+              "nome": "Coordenadoria de Contabilidade",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.4",
+              "nome": "Coordenadoria de Licitacoes e Suprimentos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.5",
+              "nome": "Coordenadoria de Recursos Humanos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.6",
+              "nome": "Coordenadoria de Servicos Compartilhados",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.2.6.1",
+                  "nome": "Assessoria de Transportes",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.6.2",
+                  "nome": "Assessoria de Patrimonio",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.6.3",
+                  "nome": "Assessoria de Servicos Gerais",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.2.7",
+              "nome": "Coordenadoria de Comunicacao Administrativa",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.8",
+              "nome": "Coordenadoria de Tecnologia da Informacao",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "2.3",
+          "nome": "Superintendencia de Defesa Agropecuaria",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.3.1",
+              "nome": "Coordenadoria de Defesa Sanitaria Vegetal",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.3.2",
+              "nome": "Coordenadoria de Defesa Sanitaria Animal",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.3.3",
+              "nome": "Coordenadoria de Controle e Qualidade de Produtos",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "3",
+      "nome": "Subsecretaria de Infraestrutu r a e Desenvolvimento Rural Sustentavel",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "3.1",
+          "nome": "Superintendencia de Engenharia e Infraestrutura Rural",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.1.1",
+              "nome": "Coordenadoria de Engenharia Rural",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.1.2",
+              "nome": "Coordenadorias Regionais de Infraestrutura",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.1.2.1",
+                  "nome": "Coordenadoria da Regiao Centro-Sul Fluminense",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.1.2.2",
+                  "nome": "Coordenadoria da Regiao Metropolitana",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.1.2.3",
+                  "nome": "Coordenadoria da Regiao Noroeste Fluminense",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.1.2.4",
+                  "nome": "Coordenadoria da Regiao Norte Fluminense",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.1.2.5",
+                  "nome": "Coordenadoria da Regiao Serrana",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.1.2.6",
+                  "nome": "Coordenadoria da Regiao da Costa Verde",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.1.2.7",
+                  "nome": "Coordenadoria da Regiao Baixadas Litoraneas",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.1.2.8",
+                  "nome": "Coordenadoria da Regiao Medio Paraiba",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "3.2",
+          "nome": "Superintendencia de Desenvolvimento Rural Sustentavel",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.2.1",
+              "nome": "Coordenadoria de Organizacao Socioprodutiva",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.2.2",
+              "nome": "Coordenadoria de Incentivo a Agricultura Sustentavel",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "4",
+      "nome": "Subsecretaria de Protecao e Bem-Estar Animal",
+      "sigla": "RJPETJ",
+      "filhos": [
+        {
+          "indice": "4.1",
+          "nome": "Superintendencia de Politicas de Protecao e Bem-Estar Animal",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.1.1",
+              "nome": "Coordenadoria Especial de Protecao Animal",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Entes Vinculados": [
+    {
+      "nome": "Empresa de Assistencia Tecnica e Extensao Rural do Rio Janeiro",
+      "sigla": "EMATER-RIO"
+    },
+    {
+      "nome": "Empresa de Pesquisa Agropecuaria do Estado do Rio de Janeiro",
+      "sigla": "PESAGRO-RIO"
+    },
+    {
+      "nome": "Centrais de Abastecimento do Estado do Rio de Janeiro",
+      "sigla": "CEASA-RJ"
+    },
+    {
+      "nome": "Companhia Central de Armazens e Silos do Estado do Rio de Janeiro",
+      "sigla": "CASERJ"
+    },
+    {
+      "nome": "Fundacao Instituto de Pesca do Estado do Rio de Janeiro",
+      "sigla": "FIPERJ"
+    },
+    {
+      "nome": "Fundo Estadual de Defesa Agropecuaria",
+      "sigla": null
+    },
+    {
+      "nome": "Conselho Estadual de Politica Agricola e Pesqueira",
+      "sigla": "CEPAP"
+    },
+    {
+      "nome": "Conselho Estadual de Politica Agraria",
+      "sigla": "CEPA"
+    },
+    {
+      "nome": "Conselho Estadual de Pesca e Aquicultura Sustentavel",
+      "sigla": "CONEPAS"
+    },
+    {
+      "nome": "Conselho Estadual de Desenvolvimento Rural e Sustentavel",
+      "sigla": "CEDRUS"
+    }
+  ],
+  "Orgaos Colegiados": [],
+  "Comissoes": [],
+  "Fundos": []
+}

@@ -1,0 +1,208 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DE TURISMO",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "Gabinete do Secretario",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "1.11",
+          "nome": "Assessoria Juridica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.12",
+          "nome": "Assessoria de Comunicacao Social",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.13",
+          "nome": "Auditoria",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.14",
+          "nome": "Corregedoria",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.15",
+          "nome": "Assessoria de Governanca",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.16",
+          "nome": "Ouvidoria",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.17",
+          "nome": "Assessoria de Planejamento e Gestao",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.18",
+          "nome": "Assessoria de Relacoes Institucionais",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.19",
+          "nome": "Superintendencia de Investigacao e Prevencao de Acidentes Metroferroviarios",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.20",
+          "nome": "Assessoria Tecnica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.21",
+          "nome": "Chefia do Gabinete",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.21.2",
+              "nome": "Assessoria de Tecnologia da Informacao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.21.3",
+              "nome": "Departamento Geral de Administracao e Financas",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "1.21.3.1",
+                  "nome": "Coordenadoria de Gestao de Pessoas",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "1.21.3.2",
+                  "nome": "Coordenadoria de Gestao Documental",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "1.21.3.3",
+                  "nome": "Coordenadoria de Contabilidade",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "1.21.3.4",
+                  "nome": "Coordenadoria de Administracao Financeira",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "1.21.3.5",
+                  "nome": "Coordenadoria de Servicos Gerais",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "1.21.3.6",
+                  "nome": "Coordenadoria de Material e Patrimonio",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "1.21.3.7",
+                  "nome": "Coordenadoria de Gestao do Bilhete Unico Intermunicipal",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "1.21.3.8",
+                  "nome": "Coordenadoria de Gestao do Vale Social",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "2",
+      "nome": "Orgaos Especificos",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "2.11",
+          "nome": "Subsecretaria de Mobilidade e Integracao Modal",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.11.2",
+              "nome": "Assessoria Tecnica",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.11.3",
+              "nome": "Assessoria de Projetos de Mobilidade",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.11.4",
+              "nome": "Superintendencia de Transporte Aquaviario",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "2.12",
+          "nome": "Subsecretaria de Logistica",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.12.2",
+              "nome": "Assessoria Tecnica",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.12.3",
+              "nome": "Assessoria de Projetos Especiais",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.12.4",
+              "nome": "Superintendencia de Transporte Aeroviario Regional",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.12.5",
+              "nome": "Superintendencia de Logistica e Cargas",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Entes Vinculados": [],
+  "Orgaos Colegiados": [],
+  "Comissoes": [],
+  "Fundos": []
+}

@@ -1,0 +1,220 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DE TRANSFORMAÇÃO DIGITAL",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "Gabinete do Secretario",
+      "sigla": "GABSEC",
+      "filhos": [
+        {
+          "indice": "1.1",
+          "nome": "Chefia de Gabinete",
+          "sigla": "CHEGAB",
+          "filhos": [
+            {
+              "indice": "1.1.1",
+              "nome": "Assessoria Especial da Chefia de Gabinete",
+              "sigla": "ASSESP",
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.2",
+          "nome": "Assessoria de Comunicacao e Relacoes Institucionais",
+          "sigla": "ASSCOM",
+          "filhos": []
+        },
+        {
+          "indice": "1.3",
+          "nome": "Assessoria Juridica",
+          "sigla": "ASSJUR",
+          "filhos": []
+        },
+        {
+          "indice": "1.4",
+          "nome": "Auditoria Interna",
+          "sigla": "AUD",
+          "filhos": []
+        },
+        {
+          "indice": "1.5",
+          "nome": "Ouvidoria Interna e Transparencia",
+          "sigla": "OUVI",
+          "filhos": []
+        },
+        {
+          "indice": "1.6",
+          "nome": "Corregedoria Interna",
+          "sigla": "CORREG",
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "2",
+      "nome": "Subsecretaria Executiva",
+      "sigla": "SUBEXE",
+      "filhos": [
+        {
+          "indice": "2.1",
+          "nome": "Assessoria Especial da Subsecretaria Executiva",
+          "sigla": "ASSEXE",
+          "filhos": []
+        },
+        {
+          "indice": "2.2",
+          "nome": "Assessoria Setorial de Planejamento e Orcamento",
+          "sigla": "ASPLO",
+          "filhos": []
+        },
+        {
+          "indice": "2.3",
+          "nome": "Diretoria Geral de Administracao e Financas",
+          "sigla": "DGAF",
+          "filhos": [
+            {
+              "indice": "2.3.1",
+              "nome": "Coordenadoria de Contabilidade, Orcamento e Financas",
+              "sigla": "COOCOF",
+              "filhos": [
+                {
+                  "indice": "2.3.1.1",
+                  "nome": "Assessoria Setorial de Contabilidade",
+                  "sigla": "ASSCONT",
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.3.2",
+              "nome": "Coordenadoria de Contratacoes",
+              "sigla": "COOCONT",
+              "filhos": [
+                {
+                  "indice": "2.3.2.1",
+                  "nome": "Assessoria Setorial de Cotacao de Precos",
+                  "sigla": "ASSCP",
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.3.3",
+              "nome": "Coordenadoria Administrativa e Recursos Humanos",
+              "sigla": "COOADM",
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "3",
+      "nome": "Subsecretaria de Estrategia Digital e Dados",
+      "sigla": "SUBEDD",
+      "filhos": [
+        {
+          "indice": "3.1",
+          "nome": "Assessoria Tecnica em Dados",
+          "sigla": "ASSTED",
+          "filhos": []
+        },
+        {
+          "indice": "3.2",
+          "nome": "Superintendencia de Estrategia Digital e Governanca de Dados",
+          "sigla": "SUPEST",
+          "filhos": [
+            {
+              "indice": "3.2.1",
+              "nome": "Coordenadoria de Acompanhamento Estrategico",
+              "sigla": "COOACES",
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "3.3",
+          "nome": "Superintendencia de Governanca de Dados e Inteligencia Artificial",
+          "sigla": "SUPDADOS",
+          "filhos": [
+            {
+              "indice": "3.3.1",
+              "nome": "Coordenadoria de Dados",
+              "sigla": "COODADOS",
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "4",
+      "nome": "Subsecretaria de Desburocratizacao e Governo Digital",
+      "sigla": "SUBDGD",
+      "filhos": [
+        {
+          "indice": "4.1",
+          "nome": "Assessoria Tecnica",
+          "sigla": "ASSTEC",
+          "filhos": []
+        },
+        {
+          "indice": "4.2",
+          "nome": "Superintendencia de Inovacao e Modernizacao",
+          "sigla": "SUPIM",
+          "filhos": [
+            {
+              "indice": "4.2.1",
+              "nome": "Escritorio de Processos e Inovacao do Estado do Rio de Janeiro",
+              "sigla": "EPERJ",
+              "filhos": []
+            },
+            {
+              "indice": "4.2.2",
+              "nome": "Coordenadoria de Qualidade em Servicos Digitais",
+              "sigla": "COOQUALI",
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "4.3",
+          "nome": "Superintendencia de Processos Administrativos Eletronicos",
+          "sigla": "SUPPAE",
+          "filhos": [
+            {
+              "indice": "4.3.1",
+              "nome": "Coordenadoria de Gestao do SEI-RJ",
+              "sigla": "COOGSEI",
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Entes Vinculados": [
+    {
+      "nome": "Centro de Tecnologia de Informacao e Comunicacao do Estado do Rio de Janeiro",
+      "sigla": "PRODERJ"
+    },
+    {
+      "nome": "Conselho Estadual de Tecnologia da Informacao",
+      "sigla": "CONSETI"
+    }
+  ],
+  "Orgaos Colegiados": [],
+  "Comissoes": [
+    {
+      "nome": "Comissao Permanente de Licitacao",
+      "sigla": null
+    },
+    {
+      "nome": "Comissao de Pregao",
+      "sigla": null
+    }
+  ],
+  "Fundos": []
+}

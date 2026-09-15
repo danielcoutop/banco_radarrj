@@ -1,0 +1,131 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DE PROTEÇÃO E DEFESA DO CONSUMIDOR",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "Gabinete do Secretario",
+      "sigla": null,
+      "filhos": []
+    },
+    {
+      "indice": "2",
+      "nome": "Orgaos de Assistencia Direta ao Secretario",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "2.1",
+          "nome": "Chefia de Gabinete",
+          "sigla": "CHEGAB",
+          "filhos": [
+            {
+              "indice": "2.1.1",
+              "nome": "Assessoria de Apoio Administrativo",
+              "sigla": "APA",
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "2.2",
+          "nome": "Assessoria Juridica",
+          "sigla": "ASJUR",
+          "filhos": []
+        },
+        {
+          "indice": "2.3",
+          "nome": "Departamento Geral de Administracao e Financas",
+          "sigla": "DGAF",
+          "filhos": [
+            {
+              "indice": "2.3.1",
+              "nome": "Coordenadoria Financeira",
+              "sigla": "COFIN",
+              "filhos": []
+            },
+            {
+              "indice": "2.3.2",
+              "nome": "Coordenadoria Setorial de Contabilidade",
+              "sigla": "COSEC",
+              "filhos": [
+                {
+                  "indice": "2.3.2.1",
+                  "nome": "Assessoria de Contabilidade",
+                  "sigla": "COSEC",
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.3.3",
+              "nome": "Coordenadoria Setorial de Auditoria",
+              "sigla": "COSEA",
+              "filhos": []
+            },
+            {
+              "indice": "2.3.4",
+              "nome": "Coordenadoria de Servicos Gerais",
+              "sigla": "COSEG",
+              "filhos": []
+            },
+            {
+              "indice": "2.3.5",
+              "nome": "Coordenadoria de Licitacao",
+              "sigla": "COLIC",
+              "filhos": []
+            },
+            {
+              "indice": "2.3.6",
+              "nome": "Coordenadoria de Suprimentos",
+              "sigla": "COSUP",
+              "filhos": []
+            },
+            {
+              "indice": "2.3.7",
+              "nome": "Coordenadoria de Recursos Humanos",
+              "sigla": "CORH",
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "2.4",
+          "nome": "Assessoria de Planejamento e Gestao",
+          "sigla": "APG",
+          "filhos": []
+        },
+        {
+          "indice": "2.5",
+          "nome": "Assessoria de Comunicacao",
+          "sigla": "ACOM",
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "3",
+      "nome": "Subsecretaria Executiva de Orientacao na Protecao e Defesa do Consumidor",
+      "sigla": "SUBEX",
+      "filhos": []
+    },
+    {
+      "indice": "4",
+      "nome": "Subsecretaria de Politicas Publicas de Protecao e Defesa do Consumidor",
+      "sigla": "SUBCON",
+      "filhos": []
+    }
+  ],
+  "Entes Vinculados": [
+    {
+      "nome": "Autarquia de Protecao e Defesa do Consumidor do Estado do Rio de Janeiro",
+      "sigla": "PROCON-RJ"
+    },
+    {
+      "nome": "Fundo Especial de Apoio a Programas de Protecao e Defesa do Consumidor",
+      "sigla": "FEPROCON"
+    }
+  ],
+  "Orgaos Colegiados": [],
+  "Comissoes": [],
+  "Fundos": []
+}

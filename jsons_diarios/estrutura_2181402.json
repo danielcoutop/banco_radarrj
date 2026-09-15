@@ -1,0 +1,227 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DE ESPORTE, LAZER E JUVENTUDE",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "Gabinete do Secretario",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "1.2",
+          "nome": "Chefia de Gabinete",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.3",
+          "nome": "Assessoria de Controle Interno",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.4",
+          "nome": "Assessoria Juridica",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "2",
+      "nome": "ORGAO S ESPECIFICO S SINGULAR ES VINCULADO S AO SECRETARIO DE ESTADO DE ESPORTE, LAZER E JUVENTUDE",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "2.1",
+          "nome": "Subsecretaria de Esporte, Lazer e Juventude",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.1.1",
+              "nome": "Superintendencia de Articulacao e Promocao da Juventude",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.1.1.1",
+                  "nome": "Coordenadoria de Atencao a Juventude",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.1.2",
+                  "nome": "Coordenadoria de Gestao dos CRJ's",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.1.2",
+              "nome": "Superintendencia de Esporte, Lazer e Eventos",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.1.2.1",
+                  "nome": "Coordenadoria de Fiscalizacao e Prestacao de Contas",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.2.2",
+                  "nome": "Coordenadoria de Projetos Esportivos Incentivados",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.2.3",
+                  "nome": "Coordenadoria de Jogos Escolares e Universitarios",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.1.3",
+              "nome": "Superintendencia de Inclusao e Acoes Socioesportivas",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.1.3.1",
+                  "nome": "Coordenadoria de Programas de Atencao as Comunidades",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.3.2",
+                  "nome": "Coordenadoria de Programas para Pessoas com Deficiencia e Melhor Idade",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.3.3",
+                  "nome": "Coordenadoria de Politicas Esportivas e Fomento a Inovacao no Esporte",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "2.2",
+          "nome": "Subsecretaria de Planejamento e Gestao",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.2.1",
+              "nome": "Diretoria-Geral de Administracao e Financas",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.2.1.1",
+                  "nome": "Coordenadoria de Convenios",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.1.2",
+                  "nome": "Coordenadoria de Servicos Gerais e Patrimonio",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.1.3",
+                  "nome": "Coordenadoria de Contabilidade",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.1.4",
+                  "nome": "Coordenadoria de Planejamento, Orcamento e Financas",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.1.5",
+                  "nome": "Coordenadoria de Gestao de Pessoas",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.1.6",
+                  "nome": "Coordenadoria de Licitacoes, Contratos e Pregao",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.2.2",
+              "nome": "Superintendencia de Promocao Institucional",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.2.2.1",
+                  "nome": "Coordenadoria de Comunicacao e Marketing",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.2.2",
+                  "nome": "Coordenadoria de Tecnologia e Modernizacao",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.2.3",
+                  "nome": "Coordenadoria de Gestao Estrategica",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Entes Vinculados": [
+    {
+      "nome": "SUDERJ - Superintendencia de Desportos do Estado do Rio de Janeiro",
+      "sigla": null
+    },
+    {
+      "nome": "CED - Conselho Estadual de Desportos",
+      "sigla": null
+    },
+    {
+      "nome": "COJUERJ - Conselho Estadual de Juventude",
+      "sigla": null
+    },
+    {
+      "nome": "FUGAP - Fundacao Garantia do Atleta Profissional",
+      "sigla": null
+    },
+    {
+      "nome": "CONEFUT - Conselho Estadual do Futebol Masculino e Feminino",
+      "sigla": null
+    }
+  ],
+  "Orgaos Colegiados": [],
+  "Comissoes": [
+    {
+      "nome": "Comissao de Projetos Esportivos Incentivados",
+      "sigla": null
+    },
+    {
+      "nome": "Comissao Permanente de Licitacao",
+      "sigla": null
+    },
+    {
+      "nome": "Comissao de Pregao",
+      "sigla": null
+    }
+  ],
+  "Fundos": []
+}

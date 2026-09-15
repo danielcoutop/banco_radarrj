@@ -1,0 +1,594 @@
+{
+  "raiz": "1",
+  "secretaria": "GABINETE DE SEGURANÇA INSTITUCIONAL",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "Gabinete do Secretario",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "1.1",
+          "nome": "Chefia de Gabinete",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.2",
+          "nome": "Assessoria Especial",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.3",
+          "nome": "Assessoria Juridica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.4",
+          "nome": "Assessoria de Comunicacao",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "2",
+      "nome": "Subsecretaria de Avaliacao de Cenarios e Inteligencia Estrategica de Estado",
+      "sigla": "SSIE",
+      "filhos": [
+        {
+          "indice": "2.1",
+          "nome": "Superintendencia de Avaliacao de Cenarios e Analise de Riscos",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.1.1",
+              "nome": "Coordenacao de Avaliacao de Cenarios",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.1.1.1",
+                  "nome": "Divisao de Processamento da Informacao",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.1.2",
+                  "nome": "Divisao de Cenarios Prospectivos",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.1.2",
+              "nome": "Coordenacao de Analise de Riscos",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.1.2.1",
+                  "nome": "Divisao de Avaliacao de Risco",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.2.2",
+                  "nome": "Divisao de Gerenciamento de Risco",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "2.2",
+          "nome": "Superintendencia de Tecnologia da Informacao e Comunicacao",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.2.1",
+              "nome": "Coordenacao de Infraestrutura e Sistemas",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.2.1.1",
+                  "nome": "Divisao de Infraestrutura de TIC",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.1.2",
+                  "nome": "Divisao de Sistemas",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.2.2",
+              "nome": "Coordenacao de Fontes Abertas e Seguranca Cibernetica e da Informacao",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.2.2.1",
+                  "nome": "Divisao de Seguranca Cibernetica e da Informacao",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.2.2",
+                  "nome": "Divisao de Fontes Abertas",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.2.3",
+              "nome": "Coordenacao de Tratamento de Dados, Gestao de Documentos e Acesso a Informacao",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.2.3.1",
+                  "nome": "Divisao de Tratamento de Dados",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.3.2",
+                  "nome": "Divisao de Gestao de Documentos",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "2.3",
+          "nome": "Superintendencia de Inteligencia de Estado",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.3.1",
+              "nome": "Coordenacao de Informacao",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.3.1.1",
+                  "nome": "Divisao de Producao de Conhecimento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.1.2",
+                  "nome": "Divisao de Coleta e Busca",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.3.2",
+              "nome": "Coordenacao de Contrainformacao",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.3.2.1",
+                  "nome": "Divisao de Seguranca Organica",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.2.2",
+                  "nome": "Divisao de Seguranca Ativa",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.3.3",
+              "nome": "Coordenacao de Apoio",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.3.3.1",
+                  "nome": "Divisao de Capacitacao e Treinamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.3.2",
+                  "nome": "Divisao Operacional",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.3.4",
+              "nome": "Coordenacao de Veiculos Aereos nao Tripulados",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.3.4.1",
+                  "nome": "Divisao de Operacoes",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.4.2",
+                  "nome": "Divisao de Suporte Tecnico",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "3",
+      "nome": "Subsecretaria Militar",
+      "sigla": "SSM",
+      "filhos": [
+        {
+          "indice": "3.1",
+          "nome": "Assessoria Juridica Militar",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.2",
+          "nome": "Assessoria de Inteligencia",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.3",
+          "nome": "Ajudancia de Ordens",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.4",
+          "nome": "Subsecretaria Adjunta Militar",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.5",
+          "nome": "Subsecretaria Adjunta de Prevencao a Risco",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.6",
+          "nome": "Superintendencia de Seguranca",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.6.1",
+              "nome": "Coordenacao de Seguranca Pessoal",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.6.1.1",
+                  "nome": "Divisao de Planejamento, Operacoes, Escolta, Seguranca, Pessoal e Administracao",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.6.1.2",
+                  "nome": "Divisao de Capacitacao Tecnica",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "3.6.2",
+              "nome": "Coordenacao de Seguranca das Instalacoes e Acessibilidade aos Palacios",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.6.2.1",
+                  "nome": "Divisao de Credenciamento, Circulacao, Patrimonio e Controle de Viaturas",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "3.7",
+          "nome": "Superintendencia de Transportes",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.7.1",
+              "nome": "Coordenacao de Transportes Terrestres",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.7.1.1",
+                  "nome": "Divisao de Administracao e Operacoes",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.7.1.2",
+                  "nome": "Divisao de Controle de Material",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "3.8",
+          "nome": "Superintendencia de Gestao do Corpo Funcional",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.8.1",
+              "nome": "Coordenacao de Recursos Humanos",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.8.1.1",
+                  "nome": "Divisao de Manutencao de Informatica e Telefonia",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "3.8.2",
+              "nome": "Coordenacao de Saude",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "4",
+      "nome": "Diretoria Geral de Administracao e Financas",
+      "sigla": "DGAF",
+      "filhos": [
+        {
+          "indice": "4.1",
+          "nome": "Coordenacao de Requisicao e Logistica",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.1.1",
+              "nome": "Divisao de Requisicao e Custeamento",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.1.2",
+              "nome": "Divisao de Fiscalizacao e Controle da Fase Preparatoria dos Processos e do Arquivo",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "4.2",
+          "nome": "Coordenacao de Licitacoes e Contratos",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.2.1",
+              "nome": "Divisao de Licitacoes",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "4.2.1.1",
+                  "nome": "Servico de Processamento, Apoio e Conformidade dos Processos Licitatorios",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "4.2.2",
+              "nome": "Divisao de Contratacoes",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "4.2.2.1",
+                  "nome": "Servico de Processamento, Gestao e Conformidade das Contratacoes",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "4.3",
+          "nome": "Coordenacao de Orcamento e Financas",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.3.1",
+              "nome": "Divisao Orcamentaria",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "4.3.1.1",
+                  "nome": "Servico de Processamento e Controle de Documentos",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "4.3.2",
+              "nome": "Divisao de Financas",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.3.3",
+              "nome": "Divisao de Revisao e Empenhamento",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.3.4",
+              "nome": "Divisao de Pagamento de Pessoal",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "4.3.4.1",
+                  "nome": "Servico de Lancamentos",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "4.3.5",
+              "nome": "Divisao de Adiantamento e Diarias",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "4.4",
+          "nome": "Coordenacao de Material e Patrimonio",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.4.1",
+              "nome": "Divisao de Almoxarifado",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.4.2",
+              "nome": "Divisao de Gestao de Bens Patrimoniais",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "4.4.2.1",
+                  "nome": "Servico de Manutencao",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "5",
+      "nome": "Diretoria Geral de Operacoes Aereas",
+      "sigla": "DGOA",
+      "filhos": [
+        {
+          "indice": "5.1",
+          "nome": "Coordenacao de Operacoes Aereas",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "5.1.1",
+              "nome": "Divisao de Seguranca de Voo",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "5.1.2",
+              "nome": "Divisao de Operacoes Aereas",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "5.1.2.1",
+                  "nome": "Servico Operacional",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.1.2.2",
+                  "nome": "Servico de Treinamento e Instrucao",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "5.1.3",
+              "nome": "Divisao de Manutencao de Aeronaves",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "5.1.3.1",
+                  "nome": "Servico de Manutencao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "5.1.3.1.1",
+                      "nome": "Secao de Controle Tecnico",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "5.1.3.1.2",
+                      "nome": "Secao de Suprimento",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "5.1.4",
+              "nome": "Divisao de Administracao",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "5.1.4.1",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.1.4.2",
+                  "nome": "Servicos Gerais",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.1.4.3",
+                  "nome": "Servico de Expediente",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Entes Vinculados": [],
+  "Orgaos Colegiados": [],
+  "Comissoes": [],
+  "Fundos": []
+}

@@ -1,0 +1,370 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DE DESENVOLVIMENTO ECONÔMICO",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "Gabinete do Secretario",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "1.2",
+          "nome": "Chefia de Gabinete",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.3",
+          "nome": "Corregedoria",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.4",
+          "nome": "Ouvidoria",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.5",
+          "nome": "Assessoria de Controle Interno",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.6",
+          "nome": "Assessoria Juridica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.7",
+          "nome": "Assessoria de Planejamento e Gestao",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.8",
+          "nome": "Assessoria de Comunicacao",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "2",
+      "nome": "Subsecretaria Executiva",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "2.1",
+          "nome": "Diretoria Geral de Administracao e Financas",
+          "sigla": "DGAF",
+          "filhos": [
+            {
+              "indice": "2.1.1",
+              "nome": "Coordenadoria de Contabilidade",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.1.2",
+              "nome": "Coordenadoria de Suprimentos e Logistica",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "2.2",
+          "nome": "Superintendencia de Recursos Humanos",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.2.1",
+              "nome": "Coordenadoria de Departamento Pessoal",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.2",
+              "nome": "Coordenadoria de Recursos Humanos",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "3",
+      "nome": "Subsecretaria de Relacionamento Institucional",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "3.1",
+          "nome": "Superintendencia de Empresas Estatais e Administracao Indireta",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.1.1",
+              "nome": "Coordenadoria de Gestao Administrativa",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.1.2",
+              "nome": "Coordenadoria de Controle Acionario",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "3.2",
+          "nome": "Superintendencia de Relacionamento Executivo",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.3",
+          "nome": "Superintendencia de Relacoes Internacionais",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "4",
+      "nome": "Subsecretaria de Concessoes e Parcerias",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "4.1",
+          "nome": "Superintendencia Operacional",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "4.2",
+          "nome": "Superintendencia de Monitoramento de Projetos",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "5",
+      "nome": "Subsecretaria de Oleo, Gas e Energia",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "5.1",
+          "nome": "Superintendencia de Petroleo e Industria Naval",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "5.1.1",
+              "nome": "Coordenadoria de Construcao Naval",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "5.1.2",
+              "nome": "Coordenadoria de Bens e Servicos da Industria de Petroleo",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "5.2",
+          "nome": "Superintendencia de Energia",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "5.2.1",
+              "nome": "Coordenadoria de Sistemas de Energia Eletrica",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "5.2.2",
+              "nome": "Coordenadoria de Energias Renovaveis",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "6",
+      "nome": "Subsecretaria de Emprego e Renda",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "6.1",
+          "nome": "Observatorio do Trabalho",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "6.2",
+          "nome": "Secretaria Executiva de Conselhos - CETERJ e CEES/RJ",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "6.3",
+          "nome": "Assessoria de Comunicacao",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "6.4",
+          "nome": "Assessoria de Programas e Projetos Especiais",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "6.4.1",
+              "nome": "Coordenadoria de Apoio a Captacao de Recursos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "6.4.2",
+              "nome": "Coordenadoria de Apoio a Convenios",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "6.5",
+          "nome": "Superintendencia de Atendimento ao Trabalhador",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "6.5.1",
+              "nome": "Coordenadoria de Apoio Logistico",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "6.5.2",
+              "nome": "Coordenadoria de Apoio Tecnico",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "6.5.3",
+              "nome": "Coordenadoria de Apoio Administrativo",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "6.6",
+          "nome": "Superintendencia de Empreendedorismo e Inovacao Social",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "6.6.1",
+              "nome": "Coordenadoria de Inovacao Social",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "6.6.2",
+              "nome": "Coordenadoria de Fomento ao Associativismo e Cooperativismo",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "6.6.3",
+              "nome": "Coordenadoria de Economia Solidaria e Comercio Justo",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "6.7",
+          "nome": "Superintendencia de Formacao e Qualificacao",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "6.7.1",
+              "nome": "Coordenadoria de Formacao e Qualificacao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "6.7.2",
+              "nome": "Coordenadoria Casa do Trabalhador",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "6.7.3",
+              "nome": "Coordenadoria de Primeiro Emprego e Estagios",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "7",
+      "nome": "Subsecretaria de Industria, Comercio, Servicos e Ambiente de Negocios",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "7.1",
+          "nome": "Superintendencia de Comercio e Servicos",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "7.1.1",
+              "nome": "Coordenadoria de Comercio",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "7.1.2",
+              "nome": "Coordenadoria de Servicos",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "7.2",
+          "nome": "Superintendencia de Industria e Agronegocio",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "7.2.1",
+              "nome": "Coordenadoria de Industria",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "7.2.2",
+              "nome": "Coordenadoria de Agronegocio",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Entes Vinculados": [],
+  "Orgaos Colegiados": [],
+  "Comissoes": [],
+  "Fundos": []
+}

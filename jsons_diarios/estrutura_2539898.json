@@ -1,0 +1,164 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DE SEGURANÇA PÚBLICA",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "Gabinete do Secretario",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "1.1.1",
+          "nome": "Chefia de Gabinete",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.1.1.1",
+              "nome": "Assessoria Especial",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.1.2",
+              "nome": "Assessoria Juridica",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.1.3",
+              "nome": "Assessoria de Gabinete",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.1.4",
+              "nome": "Assessoria de Comunicacao Social",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.1.5",
+              "nome": "Assessoria de Seguranca",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.2",
+          "nome": "Subsecretaria Executiva e Gestao Integrada",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.2.1",
+              "nome": "Diretoria de Geral de Administracao e Financas",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "1.2.1.1",
+                  "nome": "Coordenadoria de Infraestrutura, Logistica e Contratacoes",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "1.2.1.2",
+                  "nome": "Coordenadoria de Contabilidade, Orcamento e Financas",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "1.2.1.3",
+                  "nome": "Coordenadoria de Gestao de Pessoas",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "1.3",
+          "nome": "Subsecretaria de Inteligencia Integrada",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.3.1",
+              "nome": "Superintendencia de Inteligencia",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.3.2",
+              "nome": "Superintendencia de Contrainteligencia",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.3.3",
+              "nome": "Superintendencia de Operacoes de Inteligencia",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.4",
+          "nome": "Subsecretaria de Operacoes Integradas",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.4.1",
+              "nome": "Superintendencia de Atividades Especiais",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.4.2",
+              "nome": "Superintendencia de Comunicacoes Criticas",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.5",
+          "nome": "Corregedoria Geral Unificada",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.5.1",
+              "nome": "Superintendencia de Correicao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.5.2",
+              "nome": "Superintendencia de Ouvidoria",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.5.3",
+              "nome": "Superintendencia de Controle Interno",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Entes Vinculados": [
+    {
+      "nome": "Conselho de Seguranca Publica do Estado do Rio de Janeiro",
+      "sigla": null
+    },
+    {
+      "nome": "Fundo Estadual de Seguranca Publica do Estado do Rio de Janeiro",
+      "sigla": null
+    }
+  ],
+  "Orgaos Colegiados": [],
+  "Comissoes": [],
+  "Fundos": []
+}

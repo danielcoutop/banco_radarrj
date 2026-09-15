@@ -1,0 +1,255 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DE GOVERNO",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "Gabinete do Secretario",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "1.1",
+          "nome": "Chefia de Gabinete",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.1.1",
+              "nome": "Superintendencia da Marcha pela Cidadania e Ordem",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.2",
+          "nome": "Assessoria Especial",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.3",
+          "nome": "Assessoria de Assuntos Comunitarios",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.4",
+          "nome": "Assessoria de Comunicacao",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.5",
+          "nome": "Nucleo de Inteligencia",
+          "sigla": "NUINT",
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "2",
+      "nome": "Subsecretaria de Projetos",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "2.1",
+          "nome": "Subsecretaria Adjunta de Planejamento e Gestao",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.2",
+          "nome": "Superintendencia da Operacao Seguranca Presente",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.2.1",
+              "nome": "Coordenacao Operacional",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.2",
+              "nome": "Coordenacao Administrativa Logistica",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.3",
+              "nome": "Coordenacao Administrativa de Pessoal",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.4",
+              "nome": "Coordenacao de Capacitacao Continuada",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.5",
+              "nome": "Coordenacao de Assuntos Estrategicos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.6",
+              "nome": "Assessoria de Assuntos Institucionais",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "2.3",
+          "nome": "Superintendencia da Lei Seca",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.3.1",
+              "nome": "Coordenacao Operacional da Lei Seca",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.3.2",
+              "nome": "Coordenacao Administrativa da Lei Seca",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.3.3",
+              "nome": "Coordenacao de Educacao da Lei Seca",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "3",
+      "nome": "Subsecretaria de Governo",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "3.1",
+          "nome": "Superintendencia de Integracao Governamental",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.1.1",
+              "nome": "Coordenacao Regional I",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.1.2",
+              "nome": "Coordenacao Regional II",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.1.3",
+              "nome": "Coordenacao Regional III",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.1.4",
+              "nome": "Coordenacao Regional IV",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.1.5",
+              "nome": "Coordenacao Regional V",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.1.6",
+              "nome": "Coordenacao Regional VI",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.1.7",
+              "nome": "Coordenacao Regional VII",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.1.8",
+              "nome": "Coordenacao Regional VIII",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.1.9",
+              "nome": "Coordenacao Regional IX",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.1.10",
+              "nome": "Coordenacao Regional X",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.1.11",
+              "nome": "Coordenacao Regional XI",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.1.12",
+              "nome": "Coordenacao Regional XII",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.1.13",
+              "nome": "Coordenacao Regional XIII",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.1.14",
+              "nome": "Coordenacao Regional XIV",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.1.15",
+              "nome": "Coordenacao Regional XV",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.1.16",
+              "nome": "Coordenacao Regional XVI",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Entes Vinculados": [
+    {
+      "nome": "Fundo Estadual de Financiamento da Operacao Seguranca Presente",
+      "sigla": "FEFOSP"
+    }
+  ],
+  "Orgaos Colegiados": [
+    {
+      "nome": "Conselho Diretor do Fundo Estadual de Financiamento da Operacao Seguranca Presente",
+      "sigla": "CDFEFOSP"
+    }
+  ],
+  "Comissoes": [],
+  "Fundos": []
+}

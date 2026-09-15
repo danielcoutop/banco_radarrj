@@ -1,0 +1,1046 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DE DESENVOLVIMENTO SOCIAL E DIREITOS HUMANOS",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "Gabinete do Secretario",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "1.1",
+          "nome": "Chefia de Gabinete",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.1.1",
+              "nome": "Assessoria Tecnica",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.2",
+              "nome": "Assessoria de Eventos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.3",
+              "nome": "Assessoria de Planejamento",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.4",
+              "nome": "Assessoria de Acompanhamento de Conselhos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.5",
+              "nome": "Assessoria de Utilidade Publica",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.2",
+          "nome": "Assessoria de Comunicacao",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.3",
+          "nome": "Assessoria Juridica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.4",
+          "nome": "Ouvidoria",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.5",
+          "nome": "Unidade de Controle Interno",
+          "sigla": "UCI",
+          "filhos": []
+        },
+        {
+          "indice": "1.6",
+          "nome": "Corregedoria",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.7",
+          "nome": "Superintendencia de Seguranca Alimentar",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.7.1",
+              "nome": "Coordenacao de Gestao do SISAN",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.7.2",
+              "nome": "Coordenacao de Seguranca Alimentar e Nutricional",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.8",
+          "nome": "Superintendencia de Politicas Emancipatorias e Cooperativismos",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "2",
+      "nome": "Subsecretaria de Gestao do SUAS",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "2.1",
+          "nome": "Superintendencia de Gestao do SUAS",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.1.1",
+              "nome": "Coordenacao de Vigilancia Socioassistencial",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.1.2",
+              "nome": "Coordenacao de Educacao Permanente",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.1.3",
+              "nome": "Coordenacao de Gestao do SUAS",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "2.2",
+          "nome": "Superintendencia de Protecao Social Basica",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.2.1",
+              "nome": "Coordenacao Crianca Feliz",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.2",
+              "nome": "Coordenacao de Cadastro Unico e do Bolsa Familia",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.3",
+              "nome": "Coordenacao Aluguel Social",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.4",
+              "nome": "Coordenacao do Programa Cartao Recomecar",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.5",
+              "nome": "Coordenacao de Servicos e Programas",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.6",
+              "nome": "Coordenacao de Atencao ao Territorio",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.7",
+              "nome": "Coordenacao dos Centros Comunitarios de Defesa da Cidadania - CCDCs",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.2.7.1",
+                  "nome": "Centro Comunitario de Defesa da Cidadania - CCDC - Rio de Janeiro - Acari",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.7.2",
+                  "nome": "Centro Comunitario de Defesa da Cidadania - CCDC - Rio de Janeiro - Mare",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.7.3",
+                  "nome": "Centro Comunitario de Defesa da Cidadania - CCDC - Rio de Janeiro - Varginha",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.7.4",
+                  "nome": "Centro Comunitario de Defesa da Cidadania - CCDC - Rio de Janeiro - Mineira",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.7.5",
+                  "nome": "Centro Comunitario de Defesa da Cidadania - CCDC - Rio de Janeiro - Cesarao",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.7.6",
+                  "nome": "Centro Comunitario de Defesa da Cidadania - CCDC - Rio de Janeiro - Pavao/Pavaozinho",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.7.7",
+                  "nome": "Centro Comunitario de Defesa da Cidadania - CCDC - Rio de Janeiro - Bangu",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.7.8",
+                  "nome": "Centro Comunitario de Defesa da Cidadania - CCDC - Rio de Janeiro - Rocinha",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.7.9",
+                  "nome": "Centro Comunitario de Defesa da Cidadania - CCDC - Rio de Janeiro - Parada de Lucas",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.7.10",
+                  "nome": "Centro Comunitario de Defesa da Cidadania - CCDC - Rio de Janeiro - Central do Brasil",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.7.11",
+                  "nome": "Centro Comunitario de Defesa da Cidadania - CCDC - Rio de Janeiro - Vila Alianca",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.7.12",
+                  "nome": "Centro Comunitario de Defesa da Cidadania - CCDC - Duque de Caxias",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.7.13",
+                  "nome": "Centro Comunitario de Defesa da Cidadania - CCDC - Nova Iguacu",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.7.14",
+                  "nome": "Centro Comunitario de Defesa da Cidadania - CCDC - Queimados",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.7.15",
+                  "nome": "Centro Comunitario de Defesa da Cidadania - CCDC - Sao Goncalo",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.7.16",
+                  "nome": "Centro Comunitario de Defesa da Cidadania - CCDC - Campos dos Goytacazes",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.7.17",
+                  "nome": "Centro Comunitario de Defesa da Cidadania - CCDC - Natividade",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.7.18",
+                  "nome": "Centro Comunitario de Defesa da Cidadania - CCDC - Nilopolis",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "2.3",
+          "nome": "Superintendencia de Protecao Social Especial",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.3.1",
+              "nome": "Coordenacao de Alta Complexidade",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.3.2",
+              "nome": "Coordenacao de Media Complexidade",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.3.3",
+              "nome": "Coordenacao de Erradicacao do Trabalho Infantil",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.3.4",
+              "nome": "Coordenacao do Programa Um Lar Para Mim",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.3.5",
+              "nome": "Coordenacao de Abrigos",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.3.5.1",
+                  "nome": "Centro de Promocao Social Abrigo Cristo Redentor",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.5.2",
+                  "nome": "Centro Integrado de Portador de Deficiencia Rego Barros",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.5.3",
+                  "nome": "Centro de Atendimento Integral Protogenes de Guimaraes",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.5.4",
+                  "nome": "Centro Integrado de Pessoas com Deficiencia Oswaldo Aranha",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "3",
+      "nome": "Subsecretaria de Promocao, Defesa e Garantia dos Direitos Humanos",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "3.1",
+          "nome": "Assessoria de Monitoramento",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.2",
+          "nome": "Coordenacao do Disque Cidadania",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.3",
+          "nome": "Superintendencia de Promocao e Defesa dos Direitos Humanos",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.3.1",
+              "nome": "Coordenacao de Educacao em Direitos Humanos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.3.2",
+              "nome": "Coordenacao de Programas de Protecao a Vida (PPCAM, PPDH e PROVITA",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.3.3",
+              "nome": "Coordenacao de Justica Internacional e Memoria e Verdade",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.3.4",
+              "nome": "Coordenacao de Enfrentamento ao Trafico de Pessoas e Trabalho Escravo",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.3.5",
+              "nome": "Coordenacao de Politicas de Migracao e Refugiados",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.3.6",
+              "nome": "Coordenacao de Defesa dos Direitos da Crianca e do Adolescente",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.3.7",
+              "nome": "Coordenacao de Atencao em Direitos Humanos aos Agentes de Seguranca Publica",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.3.8",
+              "nome": "Coordenacao de Atencao as Pessoas Portadoras de Doencas Raras",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "3.4",
+          "nome": "Superintendencia de Promocao da Liberdade Religiosa",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.4.1",
+              "nome": "Coordenacao de Garantia da Liberdade Religiosa",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.4.1.1",
+                  "nome": "Nucleo de Atendimento as Pessoas Vitimas de Intolerancia Religiosa - Nova Iguacu",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.4.1.2",
+                  "nome": "Nucleo de Atendimento as Pessoas Vitimas de Intolerancia Religiosa - Duque de Caxias",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "3.5",
+          "nome": "Superintendencia de Prevencao e Enfrentamento ao Desaparecimento de Pessoas e Acesso a Documentacao Basica",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.5.1",
+              "nome": "Coordenacao de Prevencao e Enfrentamento ao Desaparecimento de Pessoas",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.5.2",
+              "nome": "Coordenacao de Acesso a Documentacao Basica",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.5.2.1",
+                  "nome": "Nucleo de Atendimento ao Desaparecido e Documentacao Basica - Nova Iguacu",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "3.6",
+          "nome": "Superintendencia de Politicas para o Idoso",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.7",
+          "nome": "Superintendencia de Pessoas com Deficiencia",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.8",
+          "nome": "Superintendencia de Politicas LGBTQI+",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "4",
+      "nome": "Subsecretaria de Politicas para Mulheres",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "4.1",
+          "nome": "Superintendencia de Enfretamento a Violencia Contra Mulher",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.1.1",
+              "nome": "Coordenacao de redes e Servicos",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "4.1.1.1",
+                  "nome": "Centro Especializado de Atendimento a Mulher",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "4.1.1.1.1",
+                      "nome": "Centro Especializado de Atendimento a Mulher - Marcia Lyra",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "4.1.1.1.2",
+                      "nome": "Centro Especializado de Atendimento a Mulher - Queimados",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "4.1.1.1.3",
+                      "nome": "Centro Especializado de Atendimento a Mulher - Baixada",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "4.1.1.1.4",
+                      "nome": "Centro Especializado de Atendimento a Mulher - Itaguai",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "4.1.1.1.5",
+                      "nome": "Centro Especializado de Atendimento a Mulher - Volta Redonda",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "4.1.2",
+              "nome": "Coordenacao de capacitacao em Politicas de enfretamento a violencia Contra Mulher",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.1.3",
+              "nome": "Coordenacao de Politicas Intersetoriais",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "4.2",
+          "nome": "Superintendencia de Projetos e Politicas Publicas para Mulheres",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.2.1",
+              "nome": "Coordenacao de monitoramento, Pesquisa e analise de dados",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.2.2",
+              "nome": "Coordenacao de Projetos em Politicas Publica para Mulheres",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.2.3",
+              "nome": "Coordenacao de Educacao em genero e insercao das mulheres no mercado de trabalho",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "5",
+      "nome": "Subsecretaria de Articulacao Politica e Acompanhamento de Municipios",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "5.1",
+          "nome": "Superintendencia de Articulacao Parlamentar",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "5.1.1",
+              "nome": "Coordenacao de Articulacao Politica",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "6",
+      "nome": "Subsecretaria de Governanca e Gestao",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "6.1",
+          "nome": "Superintendencia de Governanca",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "6.1.1",
+              "nome": "Coordenacao de Gestao de Fluxos",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "6.2",
+          "nome": "Superintendencia Financeira",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "6.2.1",
+              "nome": "Coordenacao Financeira",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "6.2.2",
+              "nome": "Coordenacao de Orcamento",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "6.2.3",
+              "nome": "Coordenacao de Fundos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "6.2.4",
+              "nome": "Coordenacao de Contabilidade",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "6.3",
+          "nome": "Superintendencia de Prestacao de Contas",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "6.4",
+          "nome": "Superintendencia Executiva",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "6.4.1",
+              "nome": "Coordenacao de Administracao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "6.4.2",
+              "nome": "Coordenacao de Protocolo e Arquivo",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "6.4.3",
+              "nome": "Coordenacao de Tecnologia da Informacao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "6.4.4",
+              "nome": "Coordenacao de Patrimonio",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "6.4.5",
+              "nome": "Coordenacao de Infraestrutura",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "6.4.6",
+              "nome": "Coordenacao de Contratos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "6.4.7",
+              "nome": "Coordenacao de Convenios",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "6.4.8",
+              "nome": "Coordenacao de Licitacoes",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "6.4.9",
+              "nome": "Coordenacao de Compras",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "6.4.10",
+              "nome": "Coordenacao de Recursos Humanos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "6.4.11",
+              "nome": "Coordenacao de Transportes",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "6.4.12",
+              "nome": "Coordenacao de Armazenamento e Distribuicao",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "7",
+      "nome": "Subsecretaria de Planejamento e Projetos Especiais",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "7.1",
+          "nome": "Superintendencia de Planejamento",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "7.2",
+          "nome": "Superintendencia de Projetos Sociais",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "8",
+      "nome": "Subsecretaria de Vitimados",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "8.1",
+          "nome": "Superintendencia de Apoio a Vitima de Violencia e Familiares",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "8.1.1",
+              "nome": "Coordenacao de Apoio a Vitima",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "8.1.2",
+              "nome": "Coordenacao de Articulacao Institucional",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "8.2",
+          "nome": "Superintendencia de Prevencao e Reabilitacao de Vitimados",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "8.2.1",
+              "nome": "Coordenacao de Reabilitacao e Promocao da Saude",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "8.2.2",
+              "nome": "Coordenacao de Prevencao e Acoes Sociais",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "8.3",
+          "nome": "Superintendencia de Capacitacao, Estudos e Projetos",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "8.3.1",
+              "nome": "Coordenacao de Projetos e Formulacao de Politicas Publicas para Vitimados",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "8.3.2",
+              "nome": "Coordenacao de Captacao de Recursos",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "9",
+      "nome": "Subsecretaria de Prevencao a Dependencia Quimica",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "9.1",
+          "nome": "Superintendencia de Prevencao a Dependencia Quimica",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "9.1.1",
+              "nome": "Coordenacao de Operacoes",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "9.1.1.1",
+                  "nome": "Divisao de Operacoes",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "9.1.1.1.1",
+                      "nome": "Gerencia de Operacoes",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "9.1.1.1.2",
+                      "nome": "Gerencia Regional",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "9.1.1.1.3",
+                      "nome": "Gerencia de Fiscalizacao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "9.1.2",
+              "nome": "Centro de Referencia sobre Drogas",
+              "sigla": "CRD",
+              "filhos": []
+            },
+            {
+              "indice": "9.1.3",
+              "nome": "Coordenacao de Pesquisa",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "9.1.3.1",
+                  "nome": "Divisao de Pesquisa",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "9.1.3.1.1",
+                      "nome": "Gerencia de Pesquisa",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "9.1.3.1.2",
+                      "nome": "Gerencia de Atendimento",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "9.1.4",
+              "nome": "Coordenacao de Atendimento, Gestao e Informacao sobre Drogas",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "9.1.5",
+              "nome": "Coordenacao de Projetos",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "9.1.5.1",
+                  "nome": "Divisao de Projetos",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "9.1.5.1.1",
+                      "nome": "Gerencia Administrativa",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "9.1.5.1.2",
+                      "nome": "Gerencia de Projetos",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "9.1.5.1.3",
+                      "nome": "Gerencia de Documentos",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "9.1.6",
+              "nome": "Coordenacao de Articulacao",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "9.1.6.1",
+                  "nome": "Divisao de Articulacao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "9.1.6.1.1",
+                      "nome": "Gerencia de Articulacao",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "9.1.6.1.2",
+                      "nome": "Gerencia de Prevencao",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "9.1.6.1.3",
+                      "nome": "Gerencia de Reinsercao Social",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Entes Vinculados": [
+    {
+      "nome": "Fundacao para a Infancia e Adolescentes",
+      "sigla": "FIA"
+    },
+    {
+      "nome": "Fundacao Leao XIII",
+      "sigla": null
+    }
+  ],
+  "Orgaos Colegiados": [],
+  "Comissoes": [
+    {
+      "nome": "Comissao Permanente de Licitacao",
+      "sigla": null
+    },
+    {
+      "nome": "Comissao de Pregao",
+      "sigla": null
+    },
+    {
+      "nome": "Comissao Permanente de Tomada de Contas",
+      "sigla": null
+    }
+  ],
+  "Fundos": [
+    {
+      "nome": "Fundo Especial de Prevencao, Fiscalizacao e Repressao de Entorpecentes",
+      "sigla": "FESPREN"
+    },
+    {
+      "nome": "Fundo para a Politica de Integracao da Pessoa Portadora de Deficiencia",
+      "sigla": "FUPDE"
+    },
+    {
+      "nome": "Fundo Estadual de Assistencia Social",
+      "sigla": "FEAS"
+    },
+    {
+      "nome": "Fundo de Defesa Social e Promocao da Cidadania",
+      "sigla": "FDSPC"
+    },
+    {
+      "nome": "Fundo para a Infancia e Adolescencia",
+      "sigla": "FIA"
+    },
+    {
+      "nome": "Fundo para Defesa e Direitos da Pessoa Idosa",
+      "sigla": "FUNDEPI"
+    },
+    {
+      "nome": "Fundo Especial dos Direitos dos Negros",
+      "sigla": "FEDINE"
+    },
+    {
+      "nome": "Fundo Especial dos Direitos da Mulher",
+      "sigla": "FEDM"
+    },
+    {
+      "nome": "Fundo Estadual de Enfrentamento a Violencia contra as Mulheres",
+      "sigla": "FEEVIMU"
+    }
+  ]
+}

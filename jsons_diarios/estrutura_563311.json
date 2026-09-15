@@ -1,0 +1,716 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DE EDUCAÇÃO",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "GABINETE DO SECRETARIO",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "1.1",
+          "nome": "Chefia de Gabinete",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.1.1",
+              "nome": "Divisao de Apoio Administrativo",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.2",
+              "nome": "Assessoria de Documentacao e Publicacao Oficial",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.3",
+              "nome": "Comissao Permanente de Sindicancia",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.2",
+          "nome": "Assessoria Juridica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.3",
+          "nome": "Assessoria de Comunicacao Social",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.4",
+          "nome": "Assessoria de Relacoes Institucionais",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.5",
+          "nome": "Assessoria de Tecnologia da Informacao",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.5.1",
+              "nome": "Gerencia Administrativa",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.5.2",
+              "nome": "Gerencia de Infra-Estrutura Tecnologica Educacional",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.5.3",
+              "nome": "Gerencia de Estatisticas Escolares",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.5.4",
+              "nome": "Gerencia de Negocios e Processos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.5.5",
+              "nome": "Gerencia de Projetos e Contratos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.5.6",
+              "nome": "Diretoria de Desenvolvimento",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "1.5.6.1",
+                  "nome": "Divisao de Mudancas de Aplicativos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "1.5.6.2",
+                  "nome": "Divisao de Analise e Manutencao de Aplicativos",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "1.5.7",
+              "nome": "Diretoria de Infra-estrutura",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "1.5.7.1",
+                  "nome": "Divisao de Suporte Tecnico",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "1.5.7.2",
+                  "nome": "Divisao de Controle de Ativos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "1.5.7.3",
+                  "nome": "Divisao de Rede e Seguranca da Informacao",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "1.6",
+          "nome": "Assessoria de Planejamento",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.7",
+          "nome": "Assessoria de Controle Interno",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.8",
+          "nome": "Coordenadoria Especial de Unidades Escolares Prisionais e Socioeducativas",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.8.1",
+              "nome": "Divisao de Ensino, Gestao e Integracao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.8.2",
+              "nome": "Divisao de Administracao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.8.3",
+              "nome": "Divisao de Projetos, Pesquisa e Avaliacao",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "2",
+      "nome": "SUBSECRETARIA DE GESTAO DE RECURSOS E INFRA",
+      "sigla": "ESTRUTURA",
+      "filhos": [
+        {
+          "indice": "2.1",
+          "nome": "Divisao de Apoio Administrativo",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.2",
+          "nome": "Superintendencia de Apoio Operacional",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.2.1",
+              "nome": "Divisao de Apoio Administrativo",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.2",
+              "nome": "Coordenacao de Transporte",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.3",
+              "nome": "Coordenacao de Operacao Escolar",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.4",
+              "nome": "Coordenacao de Obras da Rede Fisica",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.5",
+              "nome": "Coordenacao de Infra-Estrutura",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.6",
+              "nome": "Coordenacao de Patrimonio",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.7",
+              "nome": "Coordenacao de Suprimentos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.8",
+              "nome": "Coordenacao de Alimentacao Escolar",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "2.3",
+          "nome": "Superintendencia de Infra-Estrutura",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.3.1",
+              "nome": "Comissao Permanente de Licitacao",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "2.4",
+          "nome": "Superintendencia de Orcamento e Financas",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.4.1",
+              "nome": "Divisao de Apoio Administrativo",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.4.2",
+              "nome": "Assessoria de Convenios Especiais",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.4.3",
+              "nome": "Coordenadoria de Planejamento e Controle Orcamentario",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.4.3.1",
+                  "nome": "Coordenacao de Planejamento e Orcamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.4.3.2",
+                  "nome": "Coordenacao de Orcamento e Controle",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.4.3.3",
+                  "nome": "Coordenacao de Execucao Financeira",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.4.4",
+              "nome": "Coordenadoria de Prestacao de Contas",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.4.4.1",
+                  "nome": "Coordenacao de Prestacao de Contas da Regiao A",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.4.4.2",
+                  "nome": "Coordenacao de Prestacao de Contas da Regiao B",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.4.4.3",
+                  "nome": "Coordenacao de Prestacao de Contas da Regiao C",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.4.4.4",
+                  "nome": "Coordenacao de Prestacao de Contas do Orgao Central",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.4.5",
+              "nome": "Coordenadoria de Contabilidade Analitica",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.4.5.1",
+                  "nome": "Coordenacao de Liquidacao de Despesas",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.4.5.2",
+                  "nome": "Coordenacao de Registro Contabil",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.4.6",
+              "nome": "Coordenadoria de Controle Financeiro",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.4.6.1",
+                  "nome": "Coordenacao de Controle Financeiro",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.4.6.2",
+                  "nome": "Coordenacao de Controle Administrativo",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.4.7",
+              "nome": "Coordenadoria de Controle e Registro de Contratos e Convenios",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.4.7.1",
+                  "nome": "Coordenacao de Registros Contratuais",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.4.7.2",
+                  "nome": "Coordenacao de Controle de Contratos",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "2.5",
+          "nome": "Superintendencia de Programas e Projetos Especiais",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.5.1",
+              "nome": "Diretoria Geral de Desenvolvimento e Implementacao de Programas e Projetos",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.5.1.1",
+                  "nome": "Divisao de Apoio Administrativo",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.5.1.2",
+                  "nome": "Coordenacao de Desenvolvimento de Programas e Projetos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.5.1.3",
+                  "nome": "Coordenacao de Implementacao de Programas e Projetos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.5.1.4",
+                  "nome": "Coordenacao de Controle de Programas e Projetos",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "2.6",
+          "nome": "Superintendencia de Gestao de Pessoas",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.6.1",
+              "nome": "Divisao de Apoio Administrativo",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.6.2",
+              "nome": "Coordenacao de Atendimento ao Servidor",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.6.3",
+              "nome": "Diretoria de Cadastro e Movimentacao de Pessoas",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.6.4",
+              "nome": "Diretoria de Pagamento",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.6.5",
+              "nome": "Diretoria de Direitos e Vantagens",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.6.5.1",
+                  "nome": "Coordenacao de Aposentadoria",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.6.6",
+              "nome": "Coordenadoria de Selecao e Controle de Pessoas",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.6.6.1",
+                  "nome": "Coordenacao de Gerenciamento de Pessoas",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.6.7",
+              "nome": "Coordenadoria de Cargos em Comissao e Funcoes Gratificadas",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "3",
+      "nome": "SUBSECRETARIA DE GESTAO DA REDE E DE ENSINO",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "3.1",
+          "nome": "Divisao de Apoio Administrativo",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.2",
+          "nome": "Coordenadorias Regionais",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.3",
+          "nome": "Superintendencia Pedagogica",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.3.1",
+              "nome": "Diretoria Geral de Educacao",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.3.1.1",
+                  "nome": "Assessoria Curricular Pedagogica",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.3.1.2",
+                  "nome": "Coordenacao de Ensino Fundamental",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.3.1.3",
+                  "nome": "Coordenacao de Jovens e Adultos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.3.1.4",
+                  "nome": "Coordenacao de Diversidade e Inclusao Educacional",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.3.1.5",
+                  "nome": "Coordenacao de Ensino Medio",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "3.3.2",
+              "nome": "Diretoria Geral de Programas e Projetos",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.3.2.1",
+                  "nome": "Coordenacao de Integracao com a Comunidade Escolar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.3.2.2",
+                  "nome": "Coordenacao de Projetos Culturais",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.3.2.3",
+                  "nome": "Coordenacao de Educacao Ambiental",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.3.2.4",
+                  "nome": "Coordenacao de Tecnologia Educacional",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.3.2.5",
+                  "nome": "Coordenacao de Desenvolvimento da Escola",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.3.2.6",
+                  "nome": "Coordenacao do Programa Mais Educacao",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.3.2.7",
+                  "nome": "Coordenacao de Acoes Articuladas",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.3.2.8",
+                  "nome": "Coordenacao do Programa Escola Aberta",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "3.3.3",
+              "nome": "Diretoria Geral de Avaliacao da Educacao Basica",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.3.3.1",
+                  "nome": "Coordenacao de Pesquisa e Avaliacao",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.3.3.2",
+                  "nome": "Coordenacao de Informacoes Educacionais",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.3.3.3",
+                  "nome": "Coordenacao de Treinamento e Capacitacao",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.3.3.4",
+                  "nome": "Coordenacao de Evasao Escolar",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "3.4",
+          "nome": "Superintendencia de Gestao da Rede",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.4.1",
+              "nome": "Diretoria Geral de Dimensionamento da Rede e Matriculas",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.4.1.1",
+                  "nome": "Coordenacao de Controle e Dimensionamento da Rede",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.4.1.2",
+                  "nome": "Coordenacao de Integracao Municipal",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.4.1.3",
+                  "nome": "Coordenacao de Operacionalizacao da Matricula",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "3.4.2",
+              "nome": "Diretoria Geral de Gestao Escolar",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.4.2.1",
+                  "nome": "Coordenacao de Gerenciamento de Recursos Pedagogicos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.4.2.2",
+                  "nome": "Coordenacao de Certificados",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.4.2.3",
+                  "nome": "Coordenacao de Inspecao Escolar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.4.2.4",
+                  "nome": "Coordenacao de Eventos Escolares",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "4",
+      "nome": "Departamento Geral de Acoes Socio-Educativas",
+      "sigla": "DEGASE",
+      "filhos": []
+    },
+    {
+      "indice": "5",
+      "nome": "Conselho Estadual de Educacao",
+      "sigla": null,
+      "filhos": []
+    }
+  ],
+  "Entes Vinculados": [],
+  "Orgaos Colegiados": [],
+  "Comissoes": [],
+  "Fundos": []
+}

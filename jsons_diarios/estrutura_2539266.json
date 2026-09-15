@@ -1,0 +1,428 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DE FAZENDA",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "Gabinete do Secretario",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "1.1",
+          "nome": "AssessoriaEspecial",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.2",
+          "nome": "AssessoriadeComunicacaoSocial",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.3",
+          "nome": "ChefiadeGabinete",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.3.1",
+              "nome": "AssessoriadeApoioAdministrativo",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.3.2",
+              "nome": "AssessoriaLegislativa",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.4",
+          "nome": "RepresentacaoGeraldaFazenda",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.4.1",
+              "nome": "DivisaodeAssessoriaTecnica",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "2",
+      "nome": "Subsecretaria Geral de Fazenda",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "2.1",
+          "nome": "AssessoriaEspecial",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.2",
+          "nome": "AssessoriadeGestaoEstrategica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.3",
+          "nome": "EscolaFazendariadoEstadodoRiodeJaneiro",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.3.1",
+              "nome": "DivisaodeAdministracao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.3.2",
+              "nome": "DivisaodeEducacaoFiscal",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.3.3",
+              "nome": "DivisaodeCapacitacao",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "3",
+      "nome": "Subsecretaria de Tecnologia da Informacao e Comunicacao",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "3.1",
+          "nome": "SubsecretariaAdjuntadePlanejamentoeGovernanca",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.2",
+          "nome": "AssessoriadeSegurancadaInformacao",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.3",
+          "nome": "SuperintendenciadeGovernancadeDados",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.3.1",
+              "nome": "CoordenadoriadeIntegracaodeDadoseTecnologiaFiscal",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.3.2",
+              "nome": "CoordenadoriadeConsumodeDados",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "3.4",
+          "nome": "SuperintendenciadeInfraestrutura",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.4.1",
+              "nome": "CoordenadoriadeOperacoes",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.4.2",
+              "nome": "CoordenadoriadeServicos",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "3.5",
+          "nome": "SuperintendenciadeSistemas",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.5.1",
+              "nome": "CoordenadoriadeSistemasFazendarios",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.5.2",
+              "nome": "CoordenadoriadeSistemasdaReceitaI",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.5.3",
+              "nome": "CoordenadoriadeSistemasdaReceitaII",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "3.6",
+          "nome": "SuperintendenciadeAquisicoeseContratosdeTIC",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.6.1",
+              "nome": "CoordenadoriadeAquisicoesdeTIC",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.6.2",
+              "nome": "CoordenadoriadeGestaoeFiscalizacaodeContratosdeTIC",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "4",
+      "nome": "Subsecretaria de Estado de Receita",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "4.8",
+          "nome": "SuperintendenciadeCadastroeInformacoesFiscais",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.8.1",
+              "nome": "CoordenadoriadeDeclaracoeseInformacoesEconomico-Fiscais",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.8.2",
+              "nome": "CoordenadoriadeDocumentosFiscaisEletronicos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.8.3",
+              "nome": "CoordenadoriadeCadastroFiscal",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.8.4",
+              "nome": "CoordenadoriaAdministrativa",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "6",
+      "nome": "Subsecretaria do Tesouro do Estado do Rio de Janeiro",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "6.1",
+          "nome": "AssessoriaTecnica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "6.2",
+          "nome": "SuperintendenciadeContabilidadeeControle",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "6.2.1",
+              "nome": "CoordenadoriadeContabilidadeeControle",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "6.3",
+          "nome": "SubsecretariaAdjuntadeFinancas",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "6.3.1",
+              "nome": "SuperintendenciadeGestaodasObrigacoes",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "6.3.1.1",
+                  "nome": "CoordenadoriadeEncargosGeraisdoEstadoeOperacoesEspeciais",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "6.3.1.2",
+                  "nome": "CoordenadoriadeGestaodeObrigacoes",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "6.3.1.3",
+                  "nome": "CoordenadoriadeAssessoramentoTecnicoeJuridico",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "6.3.2",
+              "nome": "SuperintendenciadeGestaodoCaixaEstadual",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "6.3.2.1",
+                  "nome": "CoordenadoriadePlanejamentoFinanceiro",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "6.3.2.2",
+                  "nome": "CoordenadoriadeControledePagamentodePessoal",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "6.3.2.3",
+                  "nome": "CoordenadoriadeControledePagamentodeCusteioeInvestimento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "6.3.2.4",
+                  "nome": "CoordenadoriadeControledePagamentodeConcessionariasdeServicosPublicos",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "6.3.3",
+              "nome": "SuperintendenciadeControledaMovimentacaoFinanceira",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "6.3.3.1",
+                  "nome": "CoordenadoriadeControleeConciliacaoBancaria",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "6.3.3.2",
+                  "nome": "CoordenadoriadeExecucaoFinanceira",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "6.3.3.3",
+                  "nome": "CoordenadoriadeConciliacaodeReceita",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "6.4",
+          "nome": "SubsecretariaAdjuntadePoliticaFiscal",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "6.4.1",
+              "nome": "SuperintendenciadeAcompanhamentodaReceitaPublica",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "6.4.1.1",
+                  "nome": "CoordenadoriadeProjecoesdeReceitasTributarias",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "6.4.1.2",
+                  "nome": "CoordenadoriadeProjecoesdeReceitasNao-TributariasedeRoyaltieseParticipacoesEspeciais",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "6.4.2",
+              "nome": "SuperintendenciadeAcompanhamentodaDespesaPublica",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "6.4.2.1",
+                  "nome": "CoordenadoriadeAnaliseeEstudosTecnicosdaDespesa",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "6.4.2.2",
+                  "nome": "CoordenadoriadeAcompanhamentoeControledosGastosPublicos",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "6.4.3",
+              "nome": "SuperintendenciadeControledaDividaPublica",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "6.4.3.1",
+                  "nome": "CoordenadoriadeControleeExecucaodoPagamentodaDividaPublicadaAdministracaoDireta",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "6.4.3.2",
+                  "nome": "CoordenadoriadePrecatorios",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "6.4.3.3",
+                  "nome": "CoordenadoriadeCaptacaoeGestaodaDivida",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Entes Vinculados": [],
+  "Orgaos Colegiados": [],
+  "Comissoes": [],
+  "Fundos": []
+}

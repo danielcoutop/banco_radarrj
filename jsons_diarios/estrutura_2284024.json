@@ -1,0 +1,212 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DAS CIDADES",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "Gabinete do Secretario",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "1.1",
+          "nome": "Chefe de Gabinete",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.2",
+          "nome": "Assessoria Juridica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.3",
+          "nome": "Assessoria de Comunicacao",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.4",
+          "nome": "Assessoria de Controle Interno",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.5",
+          "nome": "Ouvidoria Setorial",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.6",
+          "nome": "Corregedoria Setorial",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "2",
+      "nome": "Diretoria Geral de Administracao e Financas",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "2.1",
+          "nome": "Coordenadoria de Contabilidade e Financas",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.2",
+          "nome": "Coordenadoria de Planejamento e Orcamento",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.3",
+          "nome": "Coordenadoria de Administracao",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.4",
+          "nome": "Coordenadoria de Licitacoes, Contratos e Convenios",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.5",
+          "nome": "Coordenadoria de Recursos Humanos",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "3",
+      "nome": "Subsecretaria Executiva",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "3.1",
+          "nome": "Superintendencia de Projetos e Programas Estrategicos",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.1.1",
+              "nome": "Coordenadoria de Tecnologia da Informacao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.1.2",
+              "nome": "Coordenadoria de Captacao de Recursos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.1.3",
+              "nome": "Coordenadoria de Capacitacao Tecnica",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.1.4",
+              "nome": "Coordenadoria de Estudos Tecnicos",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "4",
+      "nome": "Subsecretaria de Articulacao Regional",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "4.1",
+          "nome": "Superintendencia Regional da Metropolitana, Centro-Sul e Serrana",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.1.1",
+              "nome": "Assessoria Regional Metropolitana",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.1.2",
+              "nome": "Assessoria Regional Centro-Sul",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.1.3",
+              "nome": "Assessoria Regional Serrana",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "4.2",
+          "nome": "Superintendencia Regional Baixada Litoranea, Norte e Noroeste",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "5",
+      "nome": "Subsecretaria de Infraestrutura",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "5.1",
+          "nome": "Superintendencia de Obras Civis e Saneamento",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "5.2",
+          "nome": "Superintendencia de Programas Especiais de Infraestrutura",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "6",
+      "nome": "Subsecretaria de Sustentabilidade Urbana",
+      "sigla": null,
+      "filhos": []
+    },
+    {
+      "indice": "7.1",
+      "nome": "Comissao Permanente de Licitacao",
+      "sigla": "CPL",
+      "filhos": []
+    },
+    {
+      "indice": "7.2",
+      "nome": "Comissao de Pregao",
+      "sigla": null,
+      "filhos": []
+    }
+  ],
+  "Entes Vinculados": [
+    {
+      "nome": "Instituto de Terras e Cartografia do Estado do Rio de Janeiro",
+      "sigla": "ITERJ"
+    },
+    {
+      "nome": "Fundacao Departamento Estadual de Estradas de Rodagem",
+      "sigla": "DER/RJ"
+    }
+  ],
+  "Orgaos Colegiados": [],
+  "Comissoes": [],
+  "Fundos": []
+}

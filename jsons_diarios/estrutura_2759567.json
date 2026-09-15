@@ -1,0 +1,702 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DE DESENVOLVIMENTO ECONÔMICO",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "Gabinete do Secretario",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "1.1",
+          "nome": "Corregedoria",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.2",
+          "nome": "Ouvidoria",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.3",
+          "nome": "Assessoria de Controle Interno",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.4",
+          "nome": "Assessoria de Auditoria Interna",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.5",
+          "nome": "Assessoria Juridica",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "2",
+      "nome": "Chefia de Gabinete",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "2.1",
+          "nome": "Assessoria de Governanca das",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.2",
+          "nome": "Assessoria Legislativa",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.3",
+          "nome": "Assessoria de Comunicacao e Eventos",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.4",
+          "nome": "Assessoria Especial de Gerenciamento de Riscos e Emergencias em Energia",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.4.1",
+              "nome": "Divisao de Planejamento e Administracao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.4.2",
+              "nome": "Divisao de Operacoes e Inteligencia",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "3",
+      "nome": "Subsecretaria Executiva",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "3.1",
+          "nome": "Assessoria de Gestao Estrategica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.2",
+          "nome": "Assessoria Setorial de Planejamento e Orcamento",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.3",
+          "nome": "Superintendencia de Gestao de Pessoas",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.3.1",
+              "nome": "Coordenadoria de Gestao de Pessoas",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.3.2",
+              "nome": "Coordenadoria de Gestao de Folha",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "3.4",
+          "nome": "Diretoria Geral de Administracao e Financas",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.4.1",
+              "nome": "Assessoria de Apoio Tecnico e Administrativo",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.4.2",
+              "nome": "Coordenadoria de Licitacao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.4.3",
+              "nome": "Coordenadoria de Gestao de Contratos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.4.4",
+              "nome": "Coordenadoria de Suprimentos e Logistica",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.4.4.1",
+                  "nome": "Divisao de Almoxarifado e Patrimonio",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.4.4.2",
+                  "nome": "Divisao de Transporte",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.4.4.3",
+                  "nome": "Divisao de Servicos Gerais",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.4.4.4",
+                  "nome": "Divisao de Protocolo e Arquivo",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "3.4.5",
+              "nome": "Coordenadoria Financeira",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.4.6",
+              "nome": "Coordenadoria de Contabilidade",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "3.5",
+          "nome": "Assessoria de Tecnologia da Informacao",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "4",
+      "nome": "Subsecretaria de Industria, Comercio e Servicos",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "4.1",
+          "nome": "Assessoria Tecnica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "4.2",
+          "nome": "Superintendencia de Desenvolvimento Regional",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.2.1",
+              "nome": "Coordenadoria de Apoio aos Municipios e Governancas Territoriais",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.2.2",
+              "nome": "Coordenadoria de Apoio ao Setor Produtivo",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "4.3",
+          "nome": "Superintendencia de Competitividade",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.3.1",
+              "nome": "Coordenadoria de Sustentabilidade e Diversificacao Produtiva",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.3.2",
+              "nome": "Coordenadoria de Capacitacao e Empregabilidade",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.3.3",
+              "nome": "Coordenadoria de Infraestrutura e Logistica",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "4.4",
+          "nome": "Superintendencia de Politicas de Atracao de Investimentos",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.4.1",
+              "nome": "Coordenadoria de Politicas de Fomento a Atividade Produtiva",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.4.2",
+              "nome": "Coordenadoria de Novos Negocios",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "5",
+      "nome": "Subsecretaria de Inovacao",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "5.1",
+          "nome": "Superintendencia de Ambientes de Inovacao",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "5.1.1",
+              "nome": "Coordenadoria de Ambientes de Inovacao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "5.1.2",
+              "nome": "Coordenadoria de Empresas Nascentes e Setores Emergentes",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "5.2",
+          "nome": "Superintendencia de Instrumentos de Fomento e Acesso a Mercado",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "5.2.1",
+              "nome": "Coordenadoria de Instrumentos de Fomento",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "5.2.2",
+              "nome": "Coordenadoria de Acesso a Mercado",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "6",
+      "nome": "Subsecretaria de Energia e Economia do Mar",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "6.1",
+          "nome": "Assessoria Tecnica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "6.2",
+          "nome": "Superintendencia de Oleo, Gas e Biocombustiveis",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "6.2.1",
+              "nome": "Coordenadoria de Oleo e Gas",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "6.2.2",
+              "nome": "Coordenadoria de Biocombustiveis",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "6.3",
+          "nome": "Superintendencia de Energia Eletrica",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "6.3.1",
+              "nome": "Coordenadoria de Novas Energias",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "6.3.2",
+              "nome": "Coordenadoria de Acompanhamento de Servicos Regulados em Energia Eletrica e Inclusao Social",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "6.4",
+          "nome": "Superintendencia de Eficiencia e Transicao Energetica",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "6.4.1",
+              "nome": "Coordenadoria de Eficiencia Energetica",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "6.4.2",
+              "nome": "Coordenadoria de Transicao Energetica",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "6.5",
+          "nome": "Superintendencia de Portos, Industria Naval e Economia do Mar",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "6.5.1",
+              "nome": "Coordenadoria de Portos e Industria Naval",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "6.5.2",
+              "nome": "Coordenadoria de Economia do Mar",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "7",
+      "nome": "Subsecretaria de Ciencia, Tecnologia e Inovacao",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "7.1",
+          "nome": "Superintendencia de Captacao de Recursos para Ciencia, Tecnologia e Inovacao",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "7.1.1",
+              "nome": "Coordenadoria de Captacao de Recursos Privados",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "7.1.2",
+              "nome": "Coordenadoria de Captacao de Recursos Publicos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "7.1.3",
+              "nome": "Coordenadoria de Emendas Parlamentares",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "7.2",
+          "nome": "Superintendencia de Postulacao de Projetos de Ciencia, Tecnologia e Inovacao",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "7.2.1",
+              "nome": "Coordenadoria de Projetos Estrategicos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "7.2.2",
+              "nome": "Coordenadoria de Projetos Estruturantes",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "7.3",
+          "nome": "Superintendencia de Desenvolvimento Cientifico e Tecnologico",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "7.3.1",
+              "nome": "Coordenadoria de Popularizacao da Ciencia e Tecnologia",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "7.3.2",
+              "nome": "Coordenadoria de Pesquisa Cientifica e Tecnologica",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "7.4",
+          "nome": "Superintendencia de Ensino Superior e Tecnologico",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "7.4.1",
+              "nome": "Coordenadoria de Ensino Superior",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "7.4.2",
+              "nome": "Coordenadoria de Ensino Tecnico, Tecnologico e Profissionalizante",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "7.5",
+          "nome": "Superintendencia de Cooperacao com Setores Estrategicos",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "7.5.1",
+              "nome": "Coordenadoria de Desenvolvimento com Setores Produtivos e Potencialidades Regionais",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "7.5.2",
+              "nome": "Coordenadoria de Cooperacao Tecnologica com Empresas Ancoras",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "7.5.3",
+              "nome": "Coordenadoria de Apoio e Cooperacao com Micro, Pequenas e Medias Empresas",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "7.5.4",
+              "nome": "Coordenadoria de Cooperacao e Desenvolvimento do Empreendedorismo Inovador",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "8",
+      "nome": "Ent idades Vinculada s",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "8.1",
+          "nome": "Agencia Estadual de Fomento",
+          "sigla": "AGERIO",
+          "filhos": []
+        },
+        {
+          "indice": "8.2",
+          "nome": "Fundo de Desenvolvimento Economico e Social",
+          "sigla": "FUNDES",
+          "filhos": []
+        },
+        {
+          "indice": "8.3",
+          "nome": "Fundo de Recuperacao Economica dos Municipios Fluminenses",
+          "sigla": "FREMF",
+          "filhos": []
+        },
+        {
+          "indice": "8.4",
+          "nome": "Fundo Estadual de Fomento ao Microcredito Produtivo Orientado para Empreendedores",
+          "sigla": "FEMPO",
+          "filhos": []
+        },
+        {
+          "indice": "8.5",
+          "nome": "Conselho Gestor do Fundo Soberano",
+          "sigla": "CGFS",
+          "filhos": []
+        },
+        {
+          "indice": "8.6",
+          "nome": "Conselho Consultivo do Fundo Soberano",
+          "sigla": "CCFS",
+          "filhos": []
+        },
+        {
+          "indice": "8.7",
+          "nome": "Companhia de Desenvolvimento Industrial do Estado do Rio de Janeiro",
+          "sigla": "CODIN",
+          "filhos": []
+        },
+        {
+          "indice": "8.8",
+          "nome": "Agencia Reguladora de Energia e Saneamento Basico",
+          "sigla": "AGENERSA",
+          "filhos": []
+        },
+        {
+          "indice": "8.9",
+          "nome": "Comissao Permanente de Politicas para o Desenvolvimento Economico do Estado do Rio de Janeiro",
+          "sigla": "CPPDE",
+          "filhos": []
+        },
+        {
+          "indice": "8.10",
+          "nome": "Comissao Estadual de Desenvolvimento da Economia do Mar",
+          "sigla": "CEDEMAR",
+          "filhos": []
+        },
+        {
+          "indice": "8.11",
+          "nome": "Fundacao Carlos Chagas Filho de Amparo a Pesquisa do Rio de Janeiro",
+          "sigla": "FAPERJ",
+          "filhos": []
+        },
+        {
+          "indice": "8.12",
+          "nome": "Fundacao Centro de Ciencias e de Educacao Superior a Distancia do Estado do Rio de Janeiro",
+          "sigla": "CECIERJ",
+          "filhos": []
+        },
+        {
+          "indice": "8.13",
+          "nome": "Fundacao de Apoio a Escola Tecnica do Estado do Rio de Janeiro",
+          "sigla": "FAETEC",
+          "filhos": []
+        },
+        {
+          "indice": "8.14",
+          "nome": "Fundacao Universidade do Estado do Rio de Janeiro",
+          "sigla": "UERJ",
+          "filhos": []
+        },
+        {
+          "indice": "8.15",
+          "nome": "Universidade Estadual do Norte Fluminense Darcy Ribeiro",
+          "sigla": "UENF",
+          "filhos": []
+        },
+        {
+          "indice": "8.16",
+          "nome": "Fundo de Apoio ao Desenvolvimento Tecnologico",
+          "sigla": "FATEC",
+          "filhos": []
+        },
+        {
+          "indice": "8.17",
+          "nome": "Fundo para as Ciencias do Estado do Rio de Janeiro",
+          "sigla": "FUNCIERJ",
+          "filhos": []
+        },
+        {
+          "indice": "8.18",
+          "nome": "Comissao de Acompanhamento, Gestao e Fiscalizacao de Contratos",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "8.19",
+          "nome": "Comissao de Analise de Credenciamento",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "8.20",
+          "nome": "Comissao de Inventario e Avaliacao",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "8.21",
+          "nome": "Comissao Permanente de Licitacao",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "8.22",
+          "nome": "Comissao Permanente de Tomada de Contas",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "8.23",
+          "nome": "Comissao Permanente de Sindicancia",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "8.24",
+          "nome": "Comissao de Pregao",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "8.25",
+          "nome": "Comite Gestor do Programa Startup Rio",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "8.26",
+          "nome": "Comite Permanente do Plano Estrategico e Diretor de Tecnologia da Informacao e Comunicacao",
+          "sigla": "PEDTIC",
+          "filhos": []
+        },
+        {
+          "indice": "8.27",
+          "nome": "Conselho Estadual de Ciencia, Tecnologia e Inovacao",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    }
+  ],
+  "Entes Vinculados": [],
+  "Orgaos Colegiados": [],
+  "Comissoes": [],
+  "Fundos": []
+}

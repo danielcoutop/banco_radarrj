@@ -1,0 +1,464 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DE HABITAÇÃO",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "Gabinete do Secretario",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "1.1",
+          "nome": "Chefia de Gabinete",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.1.1",
+              "nome": "Coordenadoria de Comunicacao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.2",
+              "nome": "Coordenadoria Administrativa",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.3",
+              "nome": "Coordenadoria de Processos",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "2",
+      "nome": "Subsecretaria Executiva",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "2.1",
+          "nome": "Subsecretaria Adjunta",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.1.1",
+              "nome": "Assessoria Juridica",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.1.2",
+              "nome": "Unidade de Controle Interno",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.1.3",
+              "nome": "Corregedoria",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.1.4",
+              "nome": "Ouvidoria",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.1.5",
+              "nome": "Assessoria Especial",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "2.2",
+          "nome": "Assessoria Executiva",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.2.1",
+              "nome": "Coordenadoria de Fiscalizacao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.2",
+              "nome": "Coordenadoria de Prestacao de Contas",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "2.3",
+          "nome": "Superintendencia de Licitacoes",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.3.1",
+              "nome": "Coordenadoria de Compras",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.3.2",
+              "nome": "Coordenadoria de Licitacoes",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.3.3",
+              "nome": "Coordenadoria de Contratos",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "2.4",
+          "nome": "Superintendencia de Administracao",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.5",
+          "nome": "Coordenadoria de Recursos Humanos",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.5.1",
+              "nome": "Coordenadoria de Informatica",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.5.2",
+              "nome": "Coordenadoria de Patrimonio, Protocolo, Arquivo e Publicacoes",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.5.3",
+              "nome": "Coordenadoria de Transportes e Apoio Operacional",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "2.6",
+          "nome": "Superintendencia de Planejamento e Gestao de Financas",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.6.1",
+              "nome": "Coordenadoria de Captacao de Recurso e Convenios",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.6.2",
+              "nome": "Coordenadoria de Planejamento e Orcamento",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.6.3",
+              "nome": "Coordenadoria de Suprimento e Almoxarifado",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.6.4",
+              "nome": "Coordenadoria Financeira e Contabil",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "3",
+      "nome": "Subsecretaria de Habitacao de Interesse Social",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "3.1",
+          "nome": "Superintendencia de Obras",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.1.1",
+              "nome": "Coordenadoria de Obras",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.1.2",
+              "nome": "Coordenadoria de Acompanhamento e Monitoramento",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "3.2",
+          "nome": "Superintendencia de Projetos de Engenharia e Arquitetura",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.2.1",
+              "nome": "Coordenadoria de Arquitetura",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.2.2",
+              "nome": "Coordenadoria de Engenharia",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "3.3",
+          "nome": "Superintendencia de Acompanhamento e Medicao",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.3.1.1",
+              "nome": "Coordenadoria de Implantacao de Projetos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.3.1.2",
+              "nome": "Coordenadoria de Medicao de Projetos",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "3.4",
+          "nome": "Superintendencia de Parcerias Publico-Privadas",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.4.1",
+              "nome": "Coordenadoria de Editais",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.4.2",
+              "nome": "Coordenadoria de Gestao de Parcerias",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "3.5",
+          "nome": "Superintendencia de Programas Habitacionais",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.5.1",
+              "nome": "Coordenadoria de Programas de Habitacao Popular",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.5.2",
+              "nome": "Coordenadoria de Planejamento Habitacional",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "3.6",
+          "nome": "Superintendencia de Obras de Reformas de Unidades Habitacionais",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.6.1",
+              "nome": "Coordenadoria de Melhorias Habitacionais",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.6.2",
+              "nome": "Coordenadoria de Regularizacao Fundiaria",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "3.7",
+          "nome": "Superintendencia de Projetos e Trabalhos de Interesses Sociais",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.7.1",
+              "nome": "Coordenadoria de Inclusao Social e Produtiva",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.7.2",
+              "nome": "Coordenadoria de Habitabilidade Familiar e Comunitaria",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.7.3",
+              "nome": "Coordenadoria de PTTS",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.7.4",
+              "nome": "Coordenadoria de Monitoramento e Avaliacao de Acoes",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.7.5",
+              "nome": "Coordenadoria de Sustentabilidade de Projetos Habitacionais",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.7.6",
+              "nome": "Coordenadoria de Cadastramento de Unidades Habitacionais e Acompanhamento Social dos Beneficiarios",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "4",
+      "nome": "Subsecretaria de Urbanizacao, Saneamento, Erradicacao de Riscos e Desastres e Projetos Especiais",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "4.1",
+          "nome": "Superintendencia de Saneamento e Urbanizacao da Capital e Regioes Metropolitanas",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.1.1",
+              "nome": "Coordenadoria de Saneamento da Capital e Regioes Metropolitanas",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.1.2",
+              "nome": "Coordenadoria de Urbanizacao da Capital e Regioes Metropolitanas",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "4.2",
+          "nome": "Superintendencia de Saneamento e Urbanizacao do Interior",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.2.1",
+              "nome": "Coordenadoria de Saneamento do Interior",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.2.2",
+              "nome": "Coordenadoria de Urbanizacao do Interior",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "4.3",
+          "nome": "Superintendencia Prevencao e Erradicacao de Riscos e Desastres",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.3.1",
+              "nome": "Coordenadoria de Prevencao de Desastres",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.3.2",
+              "nome": "Coordenadoria de Analise de Erradicacao de Riscos",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "4.4",
+          "nome": "Superintendencia Projetos Especiais",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.4.1",
+              "nome": "Coordenadoria da Casa da Gente",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.4.2",
+              "nome": "Coordenadoria do Programa Na Regua",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.4.3",
+              "nome": "Coordenadoria do Programa Comunidade Cidade",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.4.4",
+              "nome": "Coordenadoria de Estudos e Prevencao",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Entes Vinculados": [
+    {
+      "nome": "Conselho Estadual de Habitacao e Saneamento do Estado do Rio de Janeiro",
+      "sigla": "CEHAS"
+    },
+    {
+      "nome": "Fundo Estadual de Habitacao e Interesse Social",
+      "sigla": "FEHIS"
+    },
+    {
+      "nome": "Companhia Estadual de Habitacao",
+      "sigla": "CEHAB"
+    }
+  ],
+  "Orgaos Colegiados": [],
+  "Comissoes": [],
+  "Fundos": []
+}

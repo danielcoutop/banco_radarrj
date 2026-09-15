@@ -1,0 +1,434 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DE INFRAESTRUTURA E OBRAS",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "Gabinete do Secretario",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "1.1",
+          "nome": "Assessoria Especial",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.2",
+          "nome": "Assessoria Juridica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.3",
+          "nome": "Corregedoria",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.4",
+          "nome": "Controle Interno",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.5",
+          "nome": "Ouvidoria",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "2",
+      "nome": "Chefia de Gabinete",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "2.1",
+          "nome": "Coordenacao de Comunicacao",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.2",
+          "nome": "Coordenacao Administrativa",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.3",
+          "nome": "Coordenacao de Relacoes Internacionais",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.4",
+          "nome": "Assessoria Tecnica",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.4.1",
+              "nome": "Coordenacao de Processos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.4.2",
+              "nome": "Coordenacao de Metas",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "3",
+      "nome": "Subsecretaria Executiva",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "3.1",
+          "nome": "Assessoria Tecnica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.2",
+          "nome": "Coordenacao de Fiscalizacao",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.3",
+          "nome": "Coordenacao de Prestacao de Contas",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.4",
+          "nome": "Coordenacao de Formacao Continuada",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.5",
+          "nome": "Superintendencia de Licitacoes",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.5.1",
+              "nome": "Coordenacao de Compras",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.5.2",
+              "nome": "Coordenacao de Licitacoes",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.5.3",
+              "nome": "Coordenacao de Contratos",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "3.6",
+          "nome": "Superintendencia de Administracao e Relacionamento",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.6.1",
+              "nome": "Coordenacao de Recursos Humanos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.6.2",
+              "nome": "Coordenacao de Transportes",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.6.3",
+              "nome": "Coordenacao de Informatica3.6.4 - Coordenacao de Protocolo, Arquivo e Publicacoes",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.6.5",
+              "nome": "Coordenacao de Apoio Operacional",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.6.6",
+              "nome": "Divisao de Patrimonio",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "3.7",
+          "nome": "Superintendencia de Planejamento, Gestao e Financas",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.7.1",
+              "nome": "Coordenacao de Captacao de Recursos e Convenios",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.7.2",
+              "nome": "Coordenacao de Suprimentos e Almoxarifado",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.7.3",
+              "nome": "Coordenacao de Planejamento e Orcamento",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.7.4",
+              "nome": "Coordenacao de Contabilidade",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.7.4.1",
+                  "nome": "Divisao de Liquidacao",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.7.4.2",
+                  "nome": "Divisao de Conciliacao Bancaria3.7.4.3 - Divisao de Administracao Financeira",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "4",
+      "nome": "Subsecretaria de Relacoes Institucionais",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "4.1",
+          "nome": "Coordenacao de Assuntos Municipais",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "4.2",
+          "nome": "Coordenacao de Assuntos Governamentais",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "4.3",
+          "nome": "Coordenacao de Assuntos Legislativos",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "5",
+      "nome": "Subsecretaria de Projetos",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "5.1",
+          "nome": "Superintendencia de Engenharia e Arquitetura",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "5.1.1",
+              "nome": "Coordenacao de Arquitetura",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "5.1.2",
+              "nome": "Coordenacao de Engenharia",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "5.1.3",
+              "nome": "Coordenacao de Desenvolvimento Continuado de Projetos",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "5.2",
+          "nome": "Superintendencia de Acompanhamento e Medicao5.2.1 - Coordenacao de Implantacao de Projetos",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "5.2.2",
+              "nome": "Coordenacao de Medicao de Projetos",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "5.3",
+          "nome": "Superintendencia de Projetos Especiais",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "6",
+      "nome": "Subsecretaria de Urbanizacao",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "6.1",
+          "nome": "Assessoria Tecnica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "6.2",
+          "nome": "Superintendencia de Apoio Regional",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "6.2.1",
+              "nome": "Coordenacao de Apoio da Capital",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "6.2.2",
+              "nome": "Coordenacao de Apoio do Interior",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "6.2.3",
+              "nome": "Coordenacao de Apoio da Regiao Metropolitana",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "6.3",
+          "nome": "Superintendencia de Prevencao de Desastres",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "6.3.1",
+              "nome": "Coordenacao de Gestao Operacional",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "7",
+      "nome": "Subsecretaria de Logistica",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "7.1",
+          "nome": "Assessoria Tecnica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "7.2",
+          "nome": "Assessoria de Desenvolvimento",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "7.2.1",
+              "nome": "Coordenacao de Parcerias",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "8",
+      "nome": "Subsecretaria de Habitacao",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "8.1",
+          "nome": "Assessoria Tecnica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "8.2",
+          "nome": "Superintendencia de Programas Habitacionais",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "8.2.1",
+              "nome": "Coordenacao de Regularizacao Fundiaria",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "9",
+      "nome": "Subsecretaria do Programa Comunidade Cidade",
+      "sigla": null,
+      "filhos": []
+    }
+  ],
+  "Entes Vinculados": [
+    {
+      "nome": "Empresa de Obras Publicas",
+      "sigla": "EMOP"
+    },
+    {
+      "nome": "Instituto Estadual de Engenharia e Arquitetura",
+      "sigla": "IEEA"
+    },
+    {
+      "nome": "Companhia Estadual de Habitacao do Estado do Rio de Janeiro",
+      "sigla": "CEHAB"
+    },
+    {
+      "nome": "Conselho Estadual de Habitacao e Saneamento do Estado do Estado do Rio de Janeiro",
+      "sigla": "CEHAS"
+    },
+    {
+      "nome": "Fundo Estadual de Habitacao e de Interesse Social",
+      "sigla": "FEHIS"
+    }
+  ],
+  "Orgaos Colegiados": [],
+  "Comissoes": [],
+  "Fundos": []
+}

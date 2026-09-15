@@ -1,0 +1,182 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DE TRANSFORMAÇÃO DIGITAL",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "Gabinete do Secretario",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "1.1",
+          "nome": "Chefia de Gabinete",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.1.1",
+              "nome": "Assessoria Especial",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.2",
+          "nome": "Assessoria de Comunicacao e Relacoes Institucionais",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.3",
+          "nome": "Assessoria de Juridica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.4",
+          "nome": "Controladoria Interna",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.4.1",
+              "nome": "Auditoria Interna",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.4.2",
+              "nome": "Corregedoria Interna",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.4.3",
+              "nome": "Ouvidoria Interna e Transparencia",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "2",
+      "nome": "Subsecretaria Executiva",
+      "sigla": "SUBEXE",
+      "filhos": [
+        {
+          "indice": "2.1",
+          "nome": "Assessoria Especial",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.2",
+          "nome": "Diretoria Geral de Administracao e Financas",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.2.1",
+              "nome": "Coordenadoria de Contabilidade, Orcamento e Financas",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.2",
+              "nome": "Coordenadoria de Contratacoes",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.3",
+              "nome": "Coordenadoria Administrativa e Recursos Humanos",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "3",
+      "nome": "Subsecretaria de Projetos Especiais em Inovacao",
+      "sigla": "SUBPEI",
+      "filhos": [
+        {
+          "indice": "3.1",
+          "nome": "Assessoria Especial",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.2",
+          "nome": "Superintendencia de Fomento a Inovacao",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "4",
+      "nome": "Subsecretaria de Desburocratizacao e Governo Digital",
+      "sigla": "SUBDGD",
+      "filhos": [
+        {
+          "indice": "4.1",
+          "nome": "Assessoria Tecnica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "4.2",
+          "nome": "Superintendencia de Inovacao e Modernizacao",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.2.1",
+              "nome": "Escritorio de Processos e Inovacao do Estado do Rio de Janeiro",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "4.3",
+          "nome": "Superintendencia de Processos Administrativos Eletronicos",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.3.1",
+              "nome": "Coordenadoria de Gestao do SEI",
+              "sigla": "RJ",
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "4.4",
+          "nome": "Superintendencia de Gestao de Dados e Resultados",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.4.1",
+              "nome": "Coordenadoria de Gestao por Resultados",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.4.2",
+              "nome": "Coordenadoria de Gestao de Dados e Inteligencia",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Entes Vinculados": [],
+  "Orgaos Colegiados": [],
+  "Comissoes": [],
+  "Fundos": []
+}

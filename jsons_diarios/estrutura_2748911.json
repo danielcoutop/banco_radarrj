@@ -1,0 +1,208 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO ; SECRETARIA DE ESTADO DE DESENVOLVIMENTO REGIONAL DO INTERIOR, PESCA E AGRICULTURA FAMILIAR",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "Gabinete do Secretario",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "1.1",
+          "nome": "Chefia de Gabinete",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.2",
+          "nome": "Assessoria Juridica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.3",
+          "nome": "Ouvidoria",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.4",
+          "nome": "Corregedoria",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.5",
+          "nome": "Auditoria Interna",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "2",
+      "nome": "Subsecretaria de Gestao, Planejamento e Administracao",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "2.1",
+          "nome": "Diretoria Geral de Administracao e Financas",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.1.2",
+              "nome": "Coordenadoria de Planejamento e Orcamento",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.1.3",
+              "nome": "Coordenadoria de Contabilidade",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.1.4",
+              "nome": "Coordenadoria de Licitacoes e Suprimentos",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.1.4.1",
+                  "nome": "Assessoria de Estoque e Almoxarifado",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.1.5",
+              "nome": "Coordenadoria de Recursos Humanos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.1.6",
+              "nome": "Coordenadoria de Servicos Compartilhados",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.1.6.1",
+                  "nome": "Assessoria de Transportes",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.6.2",
+                  "nome": "Assessoria de Patrimonio",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.6.3",
+                  "nome": "Assessoria de Servicos Gerais",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.1.7",
+              "nome": "Coordenadoria de Comunicacao Administrativa",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.1.8",
+              "nome": "Coordenadoria de Tecnologia da Informacao",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "3",
+      "nome": "Subsecretaria de Producao Agropecuaria",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "3.1",
+          "nome": "Superintendencia de Engenharia e Infraestrutura Rural",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.1.1",
+              "nome": "Coordenadoria de Engenharia Rural",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.1.2",
+              "nome": "Coordenadorias Regionais de Infraestrutura",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "4",
+      "nome": "Subsecretaria de Agricultura Familiar, Pesca e Aquicultura",
+      "sigla": null,
+      "filhos": []
+    },
+    {
+      "indice": "5",
+      "nome": "Subsecretaria de Desenvolvimento Regional do Interior",
+      "sigla": null,
+      "filhos": []
+    }
+  ],
+  "Entes Vinculados": [
+    {
+      "nome": "Fundacao Instituto de Pesca do Estado do Rio de Janeiro",
+      "sigla": "FIPERJ"
+    },
+    {
+      "nome": "Empresa de Pesquisa Agropecuaria do Estado do Rio de Janeiro",
+      "sigla": "PESAGRO-RIO"
+    },
+    {
+      "nome": "Centrais de Abastecimento do Estado do Rio de Janeiro",
+      "sigla": "CEASA-RJ"
+    },
+    {
+      "nome": "Empresa de Assistencia Tecnica e Extensao Rural do Rio de Janeiro - EMATER",
+      "sigla": "RIO"
+    },
+    {
+      "nome": "Companhia Central de Armazens e Silos do Estado do Rio de Janeiro",
+      "sigla": "CASERJ"
+    },
+    {
+      "nome": "Conselho Estadual de Desenvolvimento Rural Sustentavel",
+      "sigla": "CEDRUS"
+    },
+    {
+      "nome": "Conselho Estadual de Politica Agraria",
+      "sigla": "CEPA"
+    },
+    {
+      "nome": "Conselho Estadual de Politica Agricola e Pesqueira",
+      "sigla": "CEPAP"
+    },
+    {
+      "nome": "Conselho Estadual de Pesca e Aquicultura Sustentavel",
+      "sigla": "CONEPAS"
+    },
+    {
+      "nome": "Fundo Estadual de Defesa Agropecuaria",
+      "sigla": null
+    }
+  ],
+  "Orgaos Colegiados": [],
+  "Comissoes": [],
+  "Fundos": []
+}

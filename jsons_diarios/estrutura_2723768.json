@@ -1,0 +1,451 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "GABINETE DO SECRETARIO",
+      "sigla": "GABSEC",
+      "filhos": [
+        {
+          "indice": "1.1",
+          "nome": "Chefia de Gabinete",
+          "sigla": "CHEGAB",
+          "filhos": []
+        },
+        {
+          "indice": "1.2",
+          "nome": "Assessoria Especial de Gestao",
+          "sigla": "ASSEG",
+          "filhos": [
+            {
+              "indice": "1.2.1",
+              "nome": "Coordenadoria de Rotinas Administrativas",
+              "sigla": "COORA",
+              "filhos": []
+            },
+            {
+              "indice": "1.2.2",
+              "nome": "Coordenadoria de Desenvolvimento Organizacional",
+              "sigla": "COODO",
+              "filhos": []
+            },
+            {
+              "indice": "1.2.3",
+              "nome": "Coordenadoria de Politicas Publicas e Relacionamento com Entes Publicos",
+              "sigla": "COOPP",
+              "filhos": []
+            },
+            {
+              "indice": "1.2.4",
+              "nome": "Coordenadoria de Cerimonial e Eventos",
+              "sigla": "COOCE",
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.3",
+          "nome": "Assessoria de Controle Interno",
+          "sigla": "ASSCI",
+          "filhos": []
+        },
+        {
+          "indice": "1.4",
+          "nome": "Assessoria de Corregedoria",
+          "sigla": "ASSCOR",
+          "filhos": [
+            {
+              "indice": "1.4.1",
+              "nome": "Unidade de Gestao de Integridade",
+              "sigla": "UGI",
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.5",
+          "nome": "Assessoria de Ouvidoria",
+          "sigla": "ASSOUV",
+          "filhos": []
+        },
+        {
+          "indice": "1.6",
+          "nome": "Assessoria Juridica",
+          "sigla": "ASSJUR",
+          "filhos": []
+        },
+        {
+          "indice": "1.7",
+          "nome": "Assessoria de Tecnologia da Informacao",
+          "sigla": "ASSTI",
+          "filhos": []
+        },
+        {
+          "indice": "1.8",
+          "nome": "Assessoria de Escritorio de Projetos",
+          "sigla": "ASSEP",
+          "filhos": []
+        },
+        {
+          "indice": "1.9",
+          "nome": "Assessoria de Comunicacao",
+          "sigla": "ASSCOM",
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "2",
+      "nome": "SUBSECRETARIA DE COOPERACAO COM O SETOR TECNOLOGICO E INOVATIVO",
+      "sigla": "SUBCOOP",
+      "filhos": [
+        {
+          "indice": "2.1",
+          "nome": "Superintendencia de Cooperacao com Setores Estrategicos",
+          "sigla": "SUPES",
+          "filhos": [
+            {
+              "indice": "2.1.1",
+              "nome": "Coordenadoria de Desenvolvimento com Setores Produtivos e Potencialidades Regionais",
+              "sigla": "COOREG",
+              "filhos": []
+            },
+            {
+              "indice": "2.1.2",
+              "nome": "Coordenadoria de Cooperacao Tecnologica com Empresas Ancoras",
+              "sigla": "COOCTEA",
+              "filhos": []
+            },
+            {
+              "indice": "2.1.3",
+              "nome": "Coordenadoria de Apoio e Cooperacao com Micro, Pequena e Media Empresa",
+              "sigla": "COOEMP",
+              "filhos": []
+            },
+            {
+              "indice": "2.1.4",
+              "nome": "Coordenadoria de Cooperacao e Desenvolvimento do Empreendedorismo Inovador",
+              "sigla": "COOINOVA",
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "3",
+      "nome": "SUBSECRETARIA DE CAPTACAO DE RECURSOS E PROJETOS EM CIENCIA, TECNOLOGIA E INOVACAO",
+      "sigla": "SUBCAP",
+      "filhos": [
+        {
+          "indice": "3.1",
+          "nome": "Superintendencia de Captacao de Recursos para Ciencia, Tecnologia e Inovacao",
+          "sigla": "SUPCAP",
+          "filhos": [
+            {
+              "indice": "3.1.1",
+              "nome": "Coordenadoria de Captacao de Recursos Privados",
+              "sigla": "COOPRI",
+              "filhos": []
+            },
+            {
+              "indice": "3.1.2",
+              "nome": "Coordenadoria de Captacao de Recursos Publicos",
+              "sigla": "COOPUB",
+              "filhos": []
+            },
+            {
+              "indice": "3.1.3",
+              "nome": "Coordenadoria de Emendas Parlamentares",
+              "sigla": "COOEP",
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "3.2",
+          "nome": "Superintendencia de Postulacao de Projetos de Ciencia, Tecnologia e Inovacao",
+          "sigla": "SUPPRO",
+          "filhos": [
+            {
+              "indice": "3.2.1",
+              "nome": "Coordenadoria de Projetos Estrategicos",
+              "sigla": "COOPESTRA",
+              "filhos": []
+            },
+            {
+              "indice": "3.2.2",
+              "nome": "Coordenadoria de Projetos Estruturantes",
+              "sigla": "COOPESTRU",
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "3.873",
+          "nome": "de",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "4",
+      "nome": "SUBSECRETARIA DE ENSINO SUPERIOR, TECNOLOGICO E PESQUISA",
+      "sigla": "SUBEP",
+      "filhos": [
+        {
+          "indice": "4.1",
+          "nome": "Superintendencia de Ensino Superior e Tecnico",
+          "sigla": "SUPEST",
+          "filhos": [
+            {
+              "indice": "4.1.1",
+              "nome": "Coordenadoria de Ensino Superior",
+              "sigla": "COOESUP",
+              "filhos": []
+            },
+            {
+              "indice": "4.1.2",
+              "nome": "Coordenadoria de Ensino Tecnico, Tecnologico e Profissionalizante",
+              "sigla": "COOETEC",
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "4.2",
+          "nome": "Superintendencia de Desenvolvimento Cientifico e Tecnologico",
+          "sigla": "SUPDES",
+          "filhos": [
+            {
+              "indice": "4.2.1",
+              "nome": "Coordenadoria de Popularizacao da Ciencia e Tecnologia",
+              "sigla": "COOPCIT",
+              "filhos": []
+            },
+            {
+              "indice": "4.2.2",
+              "nome": "Coordenadoria de Pesquisa Cientifica e Tecnologica",
+              "sigla": "COOPESQ",
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "4.427",
+          "nome": "de",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "5",
+      "nome": "SUBSECRETARIA EXECUTIVA",
+      "sigla": "SUBEXE",
+      "filhos": [
+        {
+          "indice": "5.1",
+          "nome": "Superintendencia de Acompanhamento da Aplicacao na M.D.E",
+          "sigla": "SUPAMDE",
+          "filhos": [
+            {
+              "indice": "5.1.1",
+              "nome": "Coordenadoria de Execucao Orcamentaria",
+              "sigla": "COOEXO",
+              "filhos": []
+            },
+            {
+              "indice": "5.1.2",
+              "nome": "Coordenadoria de Pagamentos",
+              "sigla": "COOPAG",
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "5.2",
+          "nome": "Diretoria Geral de Administracao e Financas",
+          "sigla": "DGAF",
+          "filhos": [
+            {
+              "indice": "5.2.1",
+              "nome": "Coordenadoria de Planejamento e Gestao",
+              "sigla": "COOPLAG",
+              "filhos": []
+            },
+            {
+              "indice": "5.2.2",
+              "nome": "Coordenadoria de Recursos Humanos",
+              "sigla": "COORH",
+              "filhos": []
+            },
+            {
+              "indice": "5.2.3",
+              "nome": "Coordenadoria de Contratos e Convenios",
+              "sigla": "COOCC",
+              "filhos": []
+            },
+            {
+              "indice": "5.2.4",
+              "nome": "Coordenadoria de Financas",
+              "sigla": "COOFIN",
+              "filhos": []
+            },
+            {
+              "indice": "5.2.5",
+              "nome": "Coordenadoria de Contabilidade",
+              "sigla": "COOCONT",
+              "filhos": []
+            },
+            {
+              "indice": "5.2.6",
+              "nome": "Coordenadoria de Administracao",
+              "sigla": "COOADM",
+              "filhos": []
+            },
+            {
+              "indice": "5.2.7",
+              "nome": "Coordenadoria de Arquivo e Protocolo",
+              "sigla": "COOPRO",
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "6.2",
+      "nome": "Comissao de Analise de Credenciamento",
+      "sigla": "COMACRE",
+      "filhos": []
+    },
+    {
+      "indice": "6.3",
+      "nome": "Comissao de Inventario e Avaliacao",
+      "sigla": "COMIAV",
+      "filhos": []
+    },
+    {
+      "indice": "6.4",
+      "nome": "Comissao Permanente de Licitacao",
+      "sigla": "COMPELI",
+      "filhos": []
+    },
+    {
+      "indice": "6.5",
+      "nome": "Comissao Permanente de Tomada de Contas",
+      "sigla": "COMPTC",
+      "filhos": []
+    },
+    {
+      "indice": "6.6",
+      "nome": "Comissao Permanente de Sindicancia",
+      "sigla": "COPSIND",
+      "filhos": []
+    },
+    {
+      "indice": "6.7",
+      "nome": "Comissao de Pregao",
+      "sigla": "COMISPRE",
+      "filhos": []
+    },
+    {
+      "indice": "7",
+      "nome": "CONSELHO",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "7.1",
+          "nome": "Conselho Estadual de Ciencia, Tecnologia e Inovacao",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "8",
+      "nome": "COMITE",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "8.1",
+          "nome": "Comite Gestor do Programa Startup Rio",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "8.2",
+          "nome": "Comite Permanente do Plano Estrategico e Diretor de Tecnologia da Informacao e Comunicacao",
+          "sigla": "PEDTIC",
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "10",
+      "nome": "A Coordenadoria de Rotinas Administrativas (COORA), subordinada diretamente a Assessoria Especial de Gestao",
+      "sigla": null,
+      "filhos": []
+    },
+    {
+      "indice": "11",
+      "nome": "Coordenadoria de Desenvolvimento Organizacional (COODO",
+      "sigla": null,
+      "filhos": []
+    },
+    {
+      "indice": "12",
+      "nome": "A Coordenadoria de Politicas Publicas e Relacionamento com Entes Publicos (COOPP",
+      "sigla": null,
+      "filhos": []
+    },
+    {
+      "indice": "13",
+      "nome": "A Coordenadoria de Cerimonial e Eventos (COOCE",
+      "sigla": null,
+      "filhos": []
+    },
+    {
+      "indice": "14",
+      "nome": "A Assessoria de Controle Interno (ASSCI), subordinada diretamente ao Secretario e tecnicamente a Auditoria Geral do Estado",
+      "sigla": null,
+      "filhos": []
+    }
+  ],
+  "Entes Vinculados": [
+    {
+      "nome": "Fundacao Carlos Chagas Filho de Amparo a Pesquisa do Rio de Janeiro",
+      "sigla": "FAPERJ"
+    },
+    {
+      "nome": "Fundacao Centro de Ciencias e de Educacao Superior a Distancia do Estado do Rio de Janeiro",
+      "sigla": "CECIERJ"
+    },
+    {
+      "nome": "Fundacao de Apoio a Escola Tecnica do Estado do Rio de Janeiro",
+      "sigla": "FAETEC"
+    },
+    {
+      "nome": "Fundacao Universidade do Estado do Rio de Janeiro",
+      "sigla": "UERJ"
+    },
+    {
+      "nome": "Fundo de Apoio ao Desenvolvimento Tecnologico",
+      "sigla": "FATEC"
+    },
+    {
+      "nome": "Fundo para as Ciencias do Estado do Rio de Janeiro",
+      "sigla": "FUNCIERJ"
+    },
+    {
+      "nome": "Universidade Estadual do Norte Fluminense Darcy Ribeiro",
+      "sigla": "UENF"
+    }
+  ],
+  "Orgaos Colegiados": [],
+  "Comissoes": [],
+  "Fundos": []
+}

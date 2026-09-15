@@ -1,0 +1,620 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DE PLANEJAMENTO E GESTÃO",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "Gabinete do Secretario",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "1.1",
+          "nome": "Chefia de Gabinete",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.2",
+          "nome": "Assessoria de Integridade",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.2.1",
+              "nome": "Unidade de Controle Interno",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.2.2",
+              "nome": "Unidade de Contabilidade",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.2.3",
+              "nome": "Unidade de Corregedoria Setorial",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.2.4",
+              "nome": "Unidade de Ouvidoria Setorial",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.3",
+          "nome": "Assessoria de Comunicacao",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.4",
+          "nome": "Assessoria de Gestao e Redes",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.5",
+          "nome": "Assessoria Juridica",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "2",
+      "nome": "Subsecretaria Geral",
+      "sigla": null,
+      "filhos": []
+    },
+    {
+      "indice": "3",
+      "nome": "Subsecretaria de Planejamento e Orcamento",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "3.1",
+          "nome": "Assessoria Tecnica de Planejamento",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.1.1",
+              "nome": "Assessoria Negocial",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "3.2",
+          "nome": "Superintendencia de Planejamento",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.2.1",
+              "nome": "Coordenadoria de Instrumentos de Planejamento",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.2.2",
+              "nome": "Coordenadoria de Qualificacao da Informacao em Planejamento",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.2.3",
+              "nome": "Coordenadoria de Monitoramento e Avaliacao",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "3.3",
+          "nome": "Superintendencia de Orcamento",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.3.1",
+              "nome": "Coordenadoria da Receita",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.3.2",
+              "nome": "Coordenadoria de Programacao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.3.3",
+              "nome": "Coordenadoria de Acompanhamento",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "3.4",
+          "nome": "Superintendencia da Qualidade da Despesa Publica",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.4.1",
+              "nome": "Coordenadoria de Acompanhamento da Despesa Publica",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.4.2",
+              "nome": "Coordenadoria de Investimentos Setoriais",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "4",
+      "nome": "Subsecretaria de Administracao",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "4.1",
+          "nome": "Diretoria Geral de Administracao e Financas",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.1.1",
+              "nome": "Coordenadoria de Planejamento e Orcamento",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "4.1.1.1",
+                  "nome": "Divisao de Execucao Orcamentaria e Financeira",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "4.1.1.2",
+                  "nome": "Divisao de Prestacao de Contas",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "4.1.2",
+              "nome": "Coordenadoria de Contratacoes",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "4.1.2.1",
+                  "nome": "Divisao de Gestao de Contratos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "4.1.2.2",
+                  "nome": "Divisao de Compras Setorial",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "4.1.3",
+              "nome": "Coordenadoria Administrativa",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "4.1.3.1",
+                  "nome": "Divisao de Apoio Administrativo",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "4.1.3.2",
+                  "nome": "Divisao de Protocolo e Arquivo",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "4.1.3.3",
+                  "nome": "Divisao de Documentacao",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "4.1.3.4",
+                  "nome": "Divisao de Almoxarifado",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "4.2",
+          "nome": "Superintendencia de Recursos Humanos",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.2.1",
+              "nome": "Coordenadoria de Administracao de Recursos Humanos",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "4.2.1.1",
+                  "nome": "Divisao de Pagamento",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "4.2.2",
+              "nome": "Coordenadoria de Desenvolvimento de Pessoas",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "4.3",
+          "nome": "Superintendencia de Infraestrutura",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.3.1",
+              "nome": "Coordenadoria de Patrimonio",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.3.2",
+              "nome": "Coordenadoria de Engenharia e Transporte",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "4.3.2.1",
+                  "nome": "Divisao de Engenharia",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "4.3.2.2",
+                  "nome": "Divisao de Transporte",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "4.4",
+          "nome": "Superintendencia de Tecnologia da Informacao e Comunicacao",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.4.1",
+              "nome": "Coordenadoria de Planejamento",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.4.2",
+              "nome": "Coordenadoria de Infraestrutura e Servicos",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "5",
+      "nome": "Subsecretaria de Logistica",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "5.1",
+          "nome": "Assessoria Tecnica de Logistica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "5.2",
+          "nome": "Superintendencia de Inteligencia Logistica",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "5.2.1",
+              "nome": "Coordenadoria de Planejamento Estrategico de Suprimentos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "5.2.2",
+              "nome": "Coordenadoria de Normatizacao, Politicas e Dados Logisticos",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "5.3",
+          "nome": "Superintendencia de Contratacoes",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "5.3.1",
+              "nome": "Coordenadoria de Compras e Licitacoes",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "5.3.1.1",
+                  "nome": "Divisao de Compras",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.3.1.2",
+                  "nome": "Divisao de Licitacoes",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "5.4",
+          "nome": "Superintendencia de Gestao Centralizada",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "5.4.1",
+              "nome": "Coordenadoria de Gestao Centralizada de Bens",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "5.4.2",
+              "nome": "Coordenadoria de Gestao Centralizada de Servicos",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "6",
+      "nome": "Subsecretaria de Modernizacao da Gestao",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "6.1",
+          "nome": "Assessoria de Estruturacao e Analise de Dados de Gestao",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "6.2",
+          "nome": "Arquivo Publico do Estado do Rio de Janeiro",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "6.2.1",
+              "nome": "Assessoria Tecnica",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "6.2.2",
+              "nome": "Coordenadoria de Gestao de Documentos",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "6.2.2.1",
+                  "nome": "Divisao de Normas Tecnicas",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "6.2.2.2",
+                  "nome": "Divisao de Apoio Tecnico",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "6.2.3",
+              "nome": "Coordenadoria de Acesso a Informacao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "6.2.4",
+              "nome": "Coordenadoria de Gestao do Acervo",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "6.2.4.1",
+                  "nome": "Divisao de Processamento Tecnico",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "6.2.4.2",
+                  "nome": "Divisao de Conservacao",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "6.2.4.3",
+                  "nome": "Divisao de Apoio Administrativo",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "6.3",
+          "nome": "Superintendencia de Simplificacao de Processos e Servicos",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "6.3.1",
+              "nome": "Escritorio de Processos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "6.3.2",
+              "nome": "Coordenadoria de Gestao do Sistema Eletronico de Informacao",
+              "sigla": "SEI/RJ",
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "6.4",
+          "nome": "Superintendencia de Modernizacao de Ativos",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "6.4.1",
+              "nome": "Coordenadoria de Desestatizacao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "6.4.2",
+              "nome": "Coordenadoria de Empresas em Liquidacao",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "7",
+      "nome": "Subsecretaria de Projetos e Fundos",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "7.1",
+          "nome": "Superintendencia de Projetos e Fundos",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "7.1.2",
+              "nome": "Coordenadoria de Gestao de Fundos",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "7.2",
+          "nome": "Deposito Publico do Estado do Rio de Janeiro",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "7.2.1",
+              "nome": "Assessoria Tecnica",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "7.2.2",
+              "nome": "Coordenadoria de Apoio Administrativo",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "7.2.3",
+              "nome": "Coordenadoria de Recebimento e destinacao de Bens",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "7.2.4",
+              "nome": "Coordenadoria de Guarda e Armazenagem de Bens",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Entes Vinculados": [
+    {
+      "nome": "Banco de Desenvolvimento do Estado do Rio de Janeiro (Em liquidacao)",
+      "sigla": "BD/RIO"
+    },
+    {
+      "nome": "Centrais Eletricas Fluminense S/A (Em liquidacao)",
+      "sigla": "CELF"
+    },
+    {
+      "nome": "Companhia de Metropolitano do Estado do Rio de Janeiro - Metro/RJ (Em liquidacao)",
+      "sigla": null
+    },
+    {
+      "nome": "Companhia Fluminense de Trens Urbanos (Em liquidacao)",
+      "sigla": "FLUMITRENS"
+    },
+    {
+      "nome": "Companhia de Transportes Coletivos do Estado do Rio de Janeiro (Em liquidacao)",
+      "sigla": "CTC"
+    },
+    {
+      "nome": "Distribuidora de Titulos do Estado do Rio de Janeiro (Em liquidacao)",
+      "sigla": "DIVERJ"
+    },
+    {
+      "nome": "Companhia Fluminense de Securitizacao (Em liquidacao)",
+      "sigla": "CFSEC"
+    }
+  ],
+  "Orgaos Colegiados": [
+    {
+      "nome": "Conselho Estadual de Arquivos",
+      "sigla": "CONEARQ"
+    },
+    {
+      "nome": "Conselho Gestor",
+      "sigla": null
+    },
+    {
+      "nome": "Fundo Estadual de Combate a Pobreza e Desigualdades Sociais",
+      "sigla": null
+    }
+  ],
+  "Comissoes": [
+    {
+      "nome": "Comissao Permanente de Licitacao",
+      "sigla": null
+    },
+    {
+      "nome": "Comissao de Pregao",
+      "sigla": null
+    }
+  ],
+  "Fundos": []
+}

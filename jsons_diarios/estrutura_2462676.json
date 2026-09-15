@@ -1,0 +1,347 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DE DESENVOLVIMENTO ECONÔMICO",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "Gabinete do Secretario",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "1.1",
+          "nome": "Assessoria de Comunicacao",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.2",
+          "nome": "Assessoria Juridica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.3",
+          "nome": "Chefia de Gabinete",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.3.1",
+              "nome": "Superintendencia de Gestao de Pessoas",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "1.3.1.1",
+                  "nome": "Coordenadoria de Recursos Humanos",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "1.3.1.1.1",
+                      "nome": "Assessoria de Recursos Humanos",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "1.3.2",
+              "nome": "Superintendencia de Retencao e Atracao de Investimentos",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "1.3.2.1",
+                  "nome": "Coordenadoria da Secretaria Executiva da CPPDE",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "1.3.3",
+              "nome": "Superintendencia Administracao das Vinculadas",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.3.4",
+              "nome": "Superintendencia do Fundo Soberano",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "1.3.4.1",
+                  "nome": "Coordenadoria Financeira do Fundo Soberano",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "1.3.4.2",
+                  "nome": "Assessoria do Conselho Gestor do Fundo Soberano",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "1.3.5",
+              "nome": "Assessoria Legislativa",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.3.6",
+              "nome": "Corregedoria",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.3.7",
+              "nome": "Ouvidoria",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.3.8",
+              "nome": "Assessoria de Controle Interno",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "2",
+      "nome": "Subsecretaria Executiva",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "2.1",
+          "nome": "Diretoria Geral de Administracao e Financas",
+          "sigla": "DGAF",
+          "filhos": [
+            {
+              "indice": "2.1.1",
+              "nome": "Coordenadoria de Planejamento e Orcamento",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.1.1.1",
+                  "nome": "Assessoria de Planejamento",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.1.2",
+              "nome": "Coordenadoria Financeira",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.1.2.1",
+                  "nome": "Assessoria Financeira",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.1.3",
+              "nome": "Coordenadoria de Suprimentos e Logistica",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.1.3.1",
+                  "nome": "Assessoria de Suprimentos e Licitacoes",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "2.1.3.1.1",
+                      "nome": "Divisao de Compras e Almoxarifado",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "2.1.4",
+              "nome": "Coordenadoria de Contratos",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.1.4.1",
+                  "nome": "Divisao de Patrimonio",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.4.2",
+                  "nome": "Divisao de Logistica",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.4.3",
+                  "nome": "Divisao de Protocolo e Arquivo",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.4.4",
+                  "nome": "Divisao de Servicos Gerais",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.1.5",
+              "nome": "Assessoria de Contabilidade",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.1.6",
+              "nome": "Assessoria de Tecnologia da Informacao",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "3",
+      "nome": "Subsecretaria Adjunta de Projetos Estrategicos",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "3.1",
+          "nome": "Superintendencia de Empreendedorismo da Micro e da Pequena Empresa",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.1.1",
+              "nome": "Coordenadoria de Empreendedorismo da Micro e da Pequena Empresa",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.1.1.1",
+                  "nome": "Assessoria de Empreendedorismo da Micro e da Pequena Empresa",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "3.1.2",
+              "nome": "Assessoria de Projetos",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "3.2",
+          "nome": "Superintendencia de Inovacao e Competitividade Setorial",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.2.1",
+              "nome": "Coordenadoria de Inovacao e Competitividade Setorial",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.2.1.1",
+                  "nome": "Assessoria de Inovacao e Competitividade Setorial",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "3.2.2",
+              "nome": "Assessoria de Projetos",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "4",
+      "nome": "Subse cretaria de Industria, Comercio e Servicos",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "4.1",
+          "nome": "Superintendencia da Industria",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.1.1",
+              "nome": "Coordenadoria da Industria",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "4.1.1.1",
+                  "nome": "Assessoria da Industria",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "4.2",
+          "nome": "Superintendencia de Comercio e Servicos",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.2.1",
+              "nome": "Coordenadoria de Comercio e Servicos",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "4.2.1.1",
+                  "nome": "Assessoria de Comercio e Servicos",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "4.3",
+          "nome": "Superintendencia de Infraestrutura e Logistica",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.3.1",
+              "nome": "Coordenadoria de Infraestrutura e Logistica",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "4.3.1.1",
+                  "nome": "Assessoria de Infraestrutura e Logistica",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Entes Vinculados": [],
+  "Orgaos Colegiados": [],
+  "Comissoes": [],
+  "Fundos": []
+}

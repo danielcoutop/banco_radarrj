@@ -1,0 +1,1084 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DE SAÚDE",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "Gabinete do Secretario",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "1.1.1",
+          "nome": "Chefia de Gabinete",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.1.1.1",
+              "nome": "Assessoria Tecnica do Gabinete",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.1.2",
+              "nome": "Assessoria Tecnica dos Orgaos de Controle",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.1.3",
+              "nome": "Assessoria Tecnica de Apoio Administrativo",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.1.2",
+          "nome": "Assessoria Executiva do Gabinete",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.1.2.1",
+              "nome": "Assessoria Tecnica do Cerimonial",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.2.2",
+              "nome": "Assessoria Tecnica de Demandas Especiais",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.2.3",
+              "nome": "Assessoria Tecnica do Secretariado",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.1.3",
+          "nome": "Assessoria de Eventos",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.1.3.1",
+              "nome": "Assessoria Tecnica de Pre-Producao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.3.2",
+              "nome": "Assessoria Tecnica de Producao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.3.3",
+              "nome": "Assessoria Tecnica de Avaliacao",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.1.4",
+          "nome": "Assessoria de Comunicacao",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.1.4.1",
+              "nome": "Assessoria Tecnica de Imprensa",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.4.2",
+              "nome": "Assessoria Tecnica de Comunicacao Digital",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.4.3",
+              "nome": "Assessoria Tecnica de Comunicacao Visual",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.1.5",
+          "nome": "Assessoria de Gestao",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.1.5.1",
+              "nome": "Assessoria Tecnica de Gestao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.5.2",
+              "nome": "Assessoria Tecnica de Monitoramento",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.5.3",
+              "nome": "Assessoria Tecnica de Inovacao",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.1.6",
+          "nome": "Corregedoria Geral",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.1.6.1",
+              "nome": "Subcorregedoria Correcional",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.6.2",
+              "nome": "Subcorregedoria de Inteligencia",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.6.3",
+              "nome": "Assessoria Tecnica Administrativa",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.1.7",
+          "nome": "Assessoria de Planejamento",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.1.7.1",
+              "nome": "Assessoria Tecnica de Informacao em Saude",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.7.2",
+              "nome": "Assessoria Tecnica de Planejamento em Saude",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.7.3",
+              "nome": "Assessoria Tecnica de Planejamento Orcamentario",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.7.4",
+              "nome": "Assessoria Tecnica de Convenios",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.7.5",
+              "nome": "Assessoria Tecnica de Humanizacao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.7.6",
+              "nome": "Assessoria Tecnica de Participacao Social e Equidade",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.1.8",
+          "nome": "Assessoria de Tecnologia da Informacao",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.1.8.1",
+              "nome": "Assessoria Tecnica de Infraestrutura e Seguranca Tecnologica",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.8.2",
+              "nome": "Assessoria Tecnica de Controle Normas e Padroes",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.8.3",
+              "nome": "Assessoria Tecnica de Atendimento",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.8.4",
+              "nome": "Assessoria Tecnica de Projetos de TI",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.8.5",
+              "nome": "Assessoria Tecnica de Sistemas",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.1.9",
+          "nome": "Assessoria Parlamentar",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.1.9.1",
+              "nome": "Assessoria Tecnica",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.1.10",
+          "nome": "Assessoria de Regionalizacao",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.1.10.1",
+              "nome": "Assessoria Tecnica de Integracao Regional",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.10.2",
+              "nome": "Assessoria Tecnica do Pacto Interfederativo",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.10.3",
+              "nome": "Assessoria Tecnica de Apoio aos Hospitais do Interior",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.1.11",
+          "nome": "Assessoria do Escritorio de Projetos",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.1.11.1",
+              "nome": "Assessoria Tecnica de Arquitetura e Engenharia",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.11.2",
+              "nome": "Assessoria Tecnica de Requalificacao das Unidades",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.11.3",
+              "nome": "Assessoria Tecnica de Regularizacao das Unidades",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.11.4",
+              "nome": "Assessoria Tecnica de Projetos Especiais",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.1.12",
+          "nome": "Assessoria Especial",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "2",
+      "nome": "ORGAOS DE PLANEJAMENTO E GESTAO",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "2.1",
+          "nome": "Subsecretaria Juridica",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.1.1",
+              "nome": "Assessoria Juridica",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.1.2",
+              "nome": "Assessoria de Mandados",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.1.2.1",
+                  "nome": "Coordenacao da Central de Atendimento a Demandas Judiciais",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.1.3",
+              "nome": "Assessoria Tecnica",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.1.3.1",
+                  "nome": "Coordenacao dos Nucleos de Apoio Tecnico",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.1.4",
+              "nome": "Auditoria",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.1.4.1",
+                  "nome": "Coordenacao de Auditoria Interna",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.4.2",
+                  "nome": "Coordenacao de Auditoria Externa",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.1.5",
+              "nome": "Ouvidoria Geral",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.1.6",
+              "nome": "Controle Interno",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "2.2",
+          "nome": "Subsecretaria Executiva do Fundo Estadual de Saude",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.2.1",
+              "nome": "Superintendencia de Contabilidade e Controle",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.2.1.1",
+                  "nome": "Coordenacao de Prestacao de Servicos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.1.2",
+                  "nome": "Coordenacao de Contabilidade do SUS",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.2.2",
+              "nome": "Superintendencia de Execucao Orcamentaria e Financeira",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.2.2.1",
+                  "nome": "Coordenacao de Execucao Orcamentaria",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.2.2",
+                  "nome": "Coordenacao de Execucao Financeira",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.2.3",
+              "nome": "Superintendencia de Faturamento do SUS",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.2.3.1",
+                  "nome": "Coordenacao de Habilitacao",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.3.2",
+                  "nome": "Coordenacao de Faturamento",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "2.3",
+          "nome": "Subsecretaria de Administracao e Logistica",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.3.1",
+              "nome": "Superintendencia de Aquisicao",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.3.1.1",
+                  "nome": "Coordenacao de Contratos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.1.2",
+                  "nome": "Coordenacao de Compra",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.3.2",
+              "nome": "Superintendencia de Suprimentos e Logistica",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.3.2.1",
+                  "nome": "Coordenacao de Medicamentos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.2.2",
+                  "nome": "Coordenacao de Materiais",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.3.3",
+              "nome": "Superintendencia de Armazenagem e Distribuicao",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.3.3.1",
+                  "nome": "Coordenacao de Armazenagem",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.3.2",
+                  "nome": "Coordenacao de Distribuicao",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.3.4",
+              "nome": "Superintendencia de Servicos",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.3.4.1",
+                  "nome": "Coordenacao de Servicos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.4.2",
+                  "nome": "Coordenacao de Administracao",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.3.5",
+              "nome": "Superintendencia de Acompanhamento dos Contratos de Gestao",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.3.5.1",
+                  "nome": "Coordenacao de Analise Tecnica",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.5.2",
+                  "nome": "Coordenacao de Contratos de Gestao",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.5.3",
+                  "nome": "Coordenacao de Orcamentaria e Financeira dos Contratos de Gestao",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.3.6",
+              "nome": "Superintendencia de Infraestrutura",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.3.6.1",
+                  "nome": "Coordenacao de Obras",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.6.2",
+                  "nome": "Coordenacao de Manutencao",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.3.7",
+              "nome": "Coordenacao de Patrimonio",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.3.8",
+              "nome": "Coordenacao de Licitacao",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "2.4",
+          "nome": "Subsecretaria de Gestao dos Profissionais da Saude",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.4.1",
+              "nome": "Superintendencia de Recursos Humanos",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.4.1.1",
+                  "nome": "Coordenacao de Administracao de Recursos Humanos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.4.1.2",
+                  "nome": "Coordenacao de Pagamento de Pessoal",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.4.1.3",
+                  "nome": "Coordenacao de Apoio e Atendimento",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.4.2",
+              "nome": "Superintendencia Central de Pericias Medicas e Saude Educacional",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.4.2.1",
+                  "nome": "Coordenacao de Pericia Medica",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.4.2.2",
+                  "nome": "Coordenacao de Pericia Medica Externa",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.4.3",
+              "nome": "Superintendencia de Educacao em Saude",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.4.3.1",
+                  "nome": "Coordenacao de Formacao e Pos-Graduacao",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.4.3.2",
+                  "nome": "Coordenacao de Educacao Permanente - Nivel Superior",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.4.3.3",
+                  "nome": "Coordenacao de Educacao Permanente - Nivel Tecnico",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "3",
+      "nome": "ORGAOS DE ASSISTENCIA A SAUDE",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "3.1",
+          "nome": "Subsecretaria de Atencao a Saude",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.1.1",
+              "nome": "Superintendencia de Atencao Especializada, Controle e Avaliacao",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.1.1.2",
+                  "nome": "Coordenacao Geral de Atencao Especializada e Gestao de Tecnologia",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.1.1.3",
+                  "nome": "Coordenacao Geral de Controle e Avaliacao",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.1.1.4",
+                  "nome": "Coordenacao de Programacao em Saude",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.1.1.5",
+                  "nome": "Coordenacao de Tratamento Fora de Domicilio",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "3.1.2",
+              "nome": "Superintendencia de Assistencia Farmaceutica e Insumos Estrategicos",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.1.2.1",
+                  "nome": "Coordenacao de Qualificacao de Servicos Farmaceuticos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.1.2.2",
+                  "nome": "Coordenacao de Gestao de Assistencia Farmaceutica",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.1.2.3",
+                  "nome": "Coordenacao de Componentes Especiais da Assistencia Farmaceutica",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.1.2.4",
+                  "nome": "Coordenacao de Logistica e Qualidade de Medicamentos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.1.2.5",
+                  "nome": "Farmacia Estadual de Medicamentos Especiais",
+                  "sigla": "RIOFARMES",
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "3.1.3",
+              "nome": "Superintendencia de Atencao Basica",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.1.3.1",
+                  "nome": "Coordenacao do Apoio a Gestao da Atencao Basica",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.1.3.2",
+                  "nome": "Coordenacao de Areas Programaticas",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "3.1.4",
+              "nome": "Superintendencia de Regulacao",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.1.4.1",
+                  "nome": "Coordenacao Geral das Centrais Regionais de Regulacao",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.1.4.2",
+                  "nome": "Coordenacao Medica da Regulacao",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "3.2",
+          "nome": "Subsecretaria de Vigilancia em Saude",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.2.1",
+              "nome": "Laboratorio Central de Saude Publica Noel Nutels",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.2.2",
+              "nome": "Superintendencia de Vigilancia Sanitaria",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.2.2.1",
+                  "nome": "Coordenacao de Vigilancia e Fiscalizacao de Insumos, Medicamentos e Produtos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.2.2.2",
+                  "nome": "Coordenacao de Vigilancia e Fiscalizacao de Alimentos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.2.2.3",
+                  "nome": "Coordenacao de Vigilancia e Fiscalizacao de Servicos de Saude",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.2.2.4",
+                  "nome": "Coordenacao de Apoio as Acoes em Vigilancia Sanitaria",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.2.2.5",
+                  "nome": "Coordenacao de Desenvolvimento Institucional e Apoio a Descentralizacao",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "3.2.3",
+              "nome": "Superintendencia de Vigilancia Epidemiologica e Ambiental",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.2.3.1",
+                  "nome": "Coordenacao de Vigilancia Epidemiologica",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.2.3.2",
+                  "nome": "Coordenacao de Vigilancia Ambiental e Saude do Trabalhador",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.2.3.3",
+                  "nome": "Coordenacao de Protecao Animal",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.2.3.4",
+                  "nome": "Coordenacao de Acoes Estrategicas",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.2.3.5",
+                  "nome": "Coordenacao de Informacoes Estrategicas de Vigilancia em Saude",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "3.2.4",
+              "nome": "Superintendencia de Gestao de Vigilancia em Saude",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.2.4.1",
+                  "nome": "Coordenacao de Qualificacao das Acoes de Vigilancia em Saude",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.2.4.2",
+                  "nome": "Coordenacao de Administracao",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.2.4.3",
+                  "nome": "Coordenacao de Planejamento e Financas",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "3.2.5",
+              "nome": "Superintendencia dos Centros de Referencia de Doencas infecciosas",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.2.5.1",
+                  "nome": "Coordenacao de Gestao das Unidades de Referencia",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.2.5.2",
+                  "nome": "Coordenacao de Gestao das Unidades de Referencia em Tuberculose",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "3.3",
+          "nome": "Subsecretaria de Unidades de Saude",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.3.1",
+              "nome": "Superintendencia de Gestao das Unidades Pre-Hospitalares",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.3.1.1",
+                  "nome": "Coordenacao das Unidades de Pronto Atendimento 24hs",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.3.1.2",
+                  "nome": "Coordenacao do Rio Imagem",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.3.1.3",
+                  "nome": "Coordenacao de Unidades Moveis",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.3.1.4",
+                  "nome": "Coordenacao do Transporte Inter Hospitalar",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "3.3.2",
+              "nome": "Superintendencia de Gestao das Unidades Hospitalares",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.3.2.1",
+                  "nome": "Coordenacao de Terapia Intensiva",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.3.2.2",
+                  "nome": "Coordenacao de Emergencia",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.3.2.3",
+                  "nome": "Coordenacao de Ortopedia",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.3.2.4",
+                  "nome": "Coordenacao de Medicina Interna",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.3.2.5",
+                  "nome": "Coordenacao de Enfermagem",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.3.2.6",
+                  "nome": "Coordenacao Materno Infantil",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.3.2.7",
+                  "nome": "Coordenacao de Trauma",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.3.2.8",
+                  "nome": "Coordenacao de Clinicas Cirurgicas",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "3.3.3",
+              "nome": "Superintendencia de Qualidade das Unidades de Saude",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.3.3.1",
+                  "nome": "Coordenacao de Qualificacao de Materiais",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.3.3.2",
+                  "nome": "Coordenacao de Apoio e Diagnostico e Terapeutica",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.3.3.3",
+                  "nome": "Coordenacao de Gestao Clinica",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.3.3.4",
+                  "nome": "Coordenacao de Planejamento das Unidades",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "5.1",
+      "nome": "Conselho Estadual de Saude",
+      "sigla": null,
+      "filhos": []
+    },
+    {
+      "indice": "5.2",
+      "nome": "Conselho Estadual de Luta contra a Tuberculose",
+      "sigla": null,
+      "filhos": []
+    },
+    {
+      "indice": "5.3",
+      "nome": "Comissao de Intergestores Bipartite",
+      "sigla": null,
+      "filhos": []
+    }
+  ],
+  "Entes Vinculados": [
+    {
+      "nome": "Instituto de Assistencia aos Servidores do Estado do Rio de Janeiro",
+      "sigla": "IASERJ"
+    },
+    {
+      "nome": "Instituto Vital Brazil S.A",
+      "sigla": "IVB"
+    },
+    {
+      "nome": "Fundacao Saude do Estado do Rio de Janeiro",
+      "sigla": null
+    }
+  ],
+  "Orgaos Colegiados": [],
+  "Comissoes": [],
+  "Fundos": []
+}

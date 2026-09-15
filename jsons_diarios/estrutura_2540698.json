@@ -1,0 +1,685 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DE PLANEJAMENTO E GESTÃO",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "Gabinete do Secretario",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "1.1",
+          "nome": "Chefia de Gabinete",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.1.1",
+              "nome": "Assessoria Tecnica",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.2",
+          "nome": "Assessoria de Relacoes Institucionais",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.3",
+          "nome": "Assessoria Especial",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.4",
+          "nome": "Assessoria de Comunicacao",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.5",
+          "nome": "Assessoria Juridica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.6",
+          "nome": "Assessoria de Planejamento e Orcamento",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.7",
+          "nome": "Assessoria de Integridade",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.8",
+          "nome": "Auditoria Interna",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.9",
+          "nome": "Corregedoria Interna",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.10",
+          "nome": "Ouvidoria Interna e Transparencia",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "2",
+      "nome": "Subsecretaria Executiva",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "2.1",
+          "nome": "Assessoria Tecnica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.2",
+          "nome": "Superintendencia de Gestao de Dados e Resultados",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.2.1",
+              "nome": "Coordenadoria de Gestao por Resultados",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.2",
+              "nome": "Coordenadoria de Dados e Inteligencia",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "2.3",
+          "nome": "Escola de Gestao Publica",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.3.1",
+              "nome": "Coordenadoria Academica",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.3.2",
+              "nome": "Coordenadoria de Gestao e Inovacao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.3.3",
+              "nome": "Coordenadoria Operacional",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "3",
+      "nome": "Subsecretaria de Planejamento e Orcamento",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "3.1",
+          "nome": "Assessoria Tecnica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.2",
+          "nome": "Assessoria Negocial",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.3",
+          "nome": "Assessoria de Dados e Redes",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.4",
+          "nome": "Subsecretaria Adjunta de Planejamento",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.4.1",
+              "nome": "Superintendencia de Planejamento",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.4.1.1",
+                  "nome": "Coordenadoria de Instrumentos de Planejamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.4.1.2",
+                  "nome": "Coordenadoria de Qualificacao da Informacao em Planejamento",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "3.4.2",
+              "nome": "Superintendencia de Investimentos Setoriais",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.4.2.1",
+                  "nome": "Coordenadoria de Consolidacao e Analise de Projetos de Investimentos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.4.2.2",
+                  "nome": "Coordenadoria de Monitoramento e Avaliacao de Investimentos",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "3.5",
+          "nome": "Subsecretaria Adjunta de Orcamento",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.5.1",
+              "nome": "Superintendencia de Estudos Fiscais",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.5.1.1",
+                  "nome": "Coordenadoria da Receita",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.5.1.2",
+                  "nome": "Coordenadoria de Limites de Despesas",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "3.5.2",
+              "nome": "Superintendencia de Programacao Orcamentaria",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.5.2.1",
+                  "nome": "Coordenadoria de Movimentacao de Empenho",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.5.2.2",
+                  "nome": "Coordenadoria de Qualificacao da Despesa",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.5.2.3",
+                  "nome": "Coordenadoria de Execucao Orcamentaria",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "4",
+      "nome": "Subsecretaria de Administracao",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "4.1",
+          "nome": "Assessoria Tecnica de Administracao",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "4.2",
+          "nome": "Diretoria Geral de Administracao e Financas",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.2.1",
+              "nome": "Assessoria de Contabilidade",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.2.2",
+              "nome": "Assessoria de Prestacao de Contas",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.2.3",
+              "nome": "Coordenadoria Setorial de Execucao Orcamentaria",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "4.2.3.1",
+                  "nome": "Divisao de Execucao Orcamentaria",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "4.2.4",
+              "nome": "Coordenadoria de Contratacoes",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "4.2.4.1",
+                  "nome": "Divisao de Gestao de Contratos",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "4.2.5",
+              "nome": "Coordenadoria de Compras",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "4.2.5.1",
+                  "nome": "Divisao de Compras Setorial",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "4.2.6",
+              "nome": "Coordenadoria Administrativa",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "4.2.6.1",
+                  "nome": "Divisao de Apoio Administrativo",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "4.2.6.2",
+                  "nome": "Divisao de Protocolo",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "4.2.6.3",
+                  "nome": "Divisao de Documentacao e Arquivo",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "4.3",
+          "nome": "Superintendencia de Recursos Humanos",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.3.1",
+              "nome": "Coordenadoria de Gestao de Direitos e Vantagens",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "4.3.1.1",
+                  "nome": "Divisao de Pagamento",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "4.3.2",
+              "nome": "Coordenadoria de Gestao de Carreiras e Pessoas",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "4.4",
+          "nome": "Superintendencia de Infraestrutura e Manutencao",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.4.1",
+              "nome": "Coordenadoria de Patrimonio e Transportes",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "4.4.1.1",
+                  "nome": "Divisao de Patrimonio e Almoxarifado",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "4.4.1.2",
+                  "nome": "Divisao de Transportes",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "4.4.2",
+              "nome": "Coordenadoria de Manutencao e Servicos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.4.3",
+              "nome": "Coordenadoria de Engenharia e Infraestrutura",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "4.5",
+          "nome": "Deposito Publico do Estado do Rio de Janeiro",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.5.1",
+              "nome": "Assessoria Tecnica",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.5.2",
+              "nome": "Coordenadoria de Apoio Administrativo",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.5.3",
+              "nome": "Coordenadoria de Recebimento e Destinacao de Bens",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.5.4",
+              "nome": "Coordenadoria de Guarda e Armazenagem de Bens",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "5",
+      "nome": "Subsecretaria de Logistica",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "5.1",
+          "nome": "Assessoria Tecnica de Logistica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "5.2",
+          "nome": "Superintendencia de Inteligencia Logistica",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "5.2.1",
+              "nome": "Coordenadoria de Normatizacao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "5.2.2",
+              "nome": "Coordenadoria de Estudos e Redes de Logistica",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "5.3",
+          "nome": "Superintendencia de Compras Centralizadas",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "5.3.1",
+              "nome": "Coordenadoria de Compras Centralizadas",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "5.3.2",
+              "nome": "Coordenadoria de Gestao de Categorias Estrategicas",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "5.4",
+          "nome": "Superintendencia de Gestao Centralizada",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "5.4.1",
+              "nome": "Coordenadoria de Gestao Centralizada de Bens",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "5.4.2",
+              "nome": "Coordenadoria de Gestao Centralizada de Servicos",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "5.5",
+          "nome": "Superintendencia de Planejamento e Suporte Logistico",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "5.5.1",
+              "nome": "Coordenadoria de Planejamento Logistico",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "5.5.2",
+              "nome": "Coordenadoria de Sistemas de Logistica",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "6",
+      "nome": "Subsecretaria de Planejamento Estrategico",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "6.1",
+          "nome": "Assessoria de Adimplencia",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "6.2",
+          "nome": "Assessoria Tecnica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "6.3",
+          "nome": "Superintendencia de Projetos Especiais",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "6.3.1",
+              "nome": "Coordenadoria de Projetos Especiais",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "6.3.2",
+              "nome": "Coordenadoria de Captacao de Recursos",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "6.4",
+          "nome": "Superintendencia de Planejamento Estrategico",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "6.4.1",
+              "nome": "Coordenadoria de Missoes",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "6.4.2",
+              "nome": "Coordenadoria de Complexos Economicos",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "7",
+      "nome": "Subsecretaria de Tecnologia da Informacao e Comunicacao",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "7.1",
+          "nome": "Assessoria de Governanca",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "7.2",
+          "nome": "Superintendencia de Gestao de Tecnologia da Informacao e Comunicacao",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "7.2.1",
+              "nome": "Coordenadoria de Planejamento e Contratacao de Tecnologia da Informacao e Comunicacao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "7.2.2",
+              "nome": "Coordenadoria de Infraestrutura de Tecnologia da Informacao e Comunicacao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "7.2.3",
+              "nome": "Coordenadoria de Seguranca da Informacao",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "7.3",
+          "nome": "Superintendencia de Sistemas e Solucoes Digitais",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "7.3.1",
+              "nome": "Coordenadoria de Requisitos e Apoio ao Negocio",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "7.3.2",
+              "nome": "Coordenadoria de Sistemas e Aplicacoes",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "7.3.3",
+              "nome": "Coordenadoria de Arquitetura e Solucoes em Dados",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Entes Vinculados": [],
+  "Orgaos Colegiados": [
+    {
+      "nome": "Conselho Gestor",
+      "sigla": null
+    },
+    {
+      "nome": "Fundo Estadual de Combate a Pobreza e Desigualdades Sociais",
+      "sigla": "FECP"
+    }
+  ],
+  "Comissoes": [
+    {
+      "nome": "Comissao Permanente de Licitacao",
+      "sigla": null
+    },
+    {
+      "nome": "Comissao de Pregao",
+      "sigla": null
+    }
+  ],
+  "Fundos": [
+    {
+      "nome": "Fundo Especial do Deposito Publico",
+      "sigla": "FUNDEP"
+    }
+  ]
+}

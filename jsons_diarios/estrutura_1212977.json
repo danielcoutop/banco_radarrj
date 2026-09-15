@@ -1,0 +1,203 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DO AMBIENTE",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "Gabinete do Secretario",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "1.2",
+          "nome": "Assessoria Juridica",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.2.1",
+              "nome": "Assessoria de Contratos e Convenios",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.3",
+          "nome": "Assessoria de Comunicacao",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.4",
+          "nome": "Assessoria de Informatica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.5",
+          "nome": "Assessoria Tecnica",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "2",
+      "nome": "ORGAOS DE PLANEJAMENTO",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "2.1",
+          "nome": "Subsecretaria Executiva",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.1.1",
+              "nome": "Superintendencia de Politicas de Saneamento",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.1.2",
+              "nome": "Superintendencia de Biodiversidade e Florestas",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.1.3",
+              "nome": "Superintendencia de Planejamento e Gestao Ecossistencia",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "2.2",
+          "nome": "Subsecretaria de Projetos e Intervencoes Especiais",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.2.1",
+              "nome": "Superintendencia de Intervencoes Especiais",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "2.3",
+          "nome": "Subsecretaria de Economia Verde",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.3.1",
+              "nome": "Superintendencia de Economia Verde",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "2.4",
+          "nome": "Unidade Executora do Programa de Saneamento dos Municipios do Entorno da Baia de Guanabara",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.5",
+          "nome": "Superintendencia de Educacao Ambiental",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.6",
+          "nome": "Superintendencia de Articulacao Institucional",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.7",
+          "nome": "Superintendencia de Territorio e Cidadania",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.8",
+          "nome": "Superintendencia do Fundo Estadual de Conservacao Ambiental e Desenvolvimento Urbano",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.9",
+          "nome": "Coordenadoria de Combate aos Crimes Ambientais",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.10",
+          "nome": "Assessoria de Saude Ambiental",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "3",
+      "nome": "Orgaos DE Apoio",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "3.1",
+          "nome": "Departamento Geral de Administracao e Financas",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.2",
+          "nome": "Assessoria de Controle Interno",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.3",
+          "nome": "Assessoria de Contabilidade Analitica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.4",
+          "nome": "Assessoria de Planejamento e Gestao",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "4.1",
+      "nome": "Instituto Estadual do Ambiente",
+      "sigla": "INEA",
+      "filhos": []
+    },
+    {
+      "indice": "5.1",
+      "nome": "Fundo Estadual de Conservacao Ambiental e Desenvolvimento Urbano",
+      "sigla": "FECAM",
+      "filhos": []
+    },
+    {
+      "indice": "5.2",
+      "nome": "Comissao Estadual de Controle Ambiental",
+      "sigla": "CECA",
+      "filhos": []
+    },
+    {
+      "indice": "5.3",
+      "nome": "Conselho Estadual de Meio Ambiente",
+      "sigla": "CONEMA",
+      "filhos": []
+    }
+  ],
+  "Entes Vinculados": [],
+  "Orgaos Colegiados": [],
+  "Comissoes": [],
+  "Fundos": []
+}

@@ -1,0 +1,435 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DO AMBIENTE E SUSTENTABILIDADE",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "GABINETE DO SECRETARIO",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "1.1",
+          "nome": "Chefia de Gabinete",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.2",
+          "nome": "Assessoria de Projetos Especiais",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.3",
+          "nome": "Assessoria de Planejamento em Politicas Ambientais",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.4",
+          "nome": "Assessoria Juridica",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.4.1",
+              "nome": "Assessoria Juridica Especializada em Direito Ambiental",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.4.2",
+              "nome": "Assessoria Juridica Especializada em Direito Administrativo e Materias Juridicas Residuais",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.5",
+          "nome": "Assessoria de Comunicacao e Eventos",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.6",
+          "nome": "Corregedoria",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.7",
+          "nome": "Ouvidoria",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.8",
+          "nome": "Assessoria Setorial de Auditoria",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "2",
+      "nome": "SUBSECRETARIA EXECUTIVA",
+      "sigla": "SUBEXE",
+      "filhos": [
+        {
+          "indice": "2.1",
+          "nome": "Superintendencia de Fundos de Interesse Publico",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.1.1",
+              "nome": "Coordenadoria do Fundo Estadual de Conservacao Ambiental e Desenvolvimento Urbano",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.1.2",
+              "nome": "Coordenadoria do Fundo da Mata Atlantica",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "2.2",
+          "nome": "Superintendencia de Combate aos Crimes Ambientais",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.2.1",
+              "nome": "Coordenadoria de Logistica e Apoio Aereo",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.2",
+              "nome": "Coordenadoria de Operacoes",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.3",
+              "nome": "Coordenadoria de Inteligencia Ambiental",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "2.3",
+          "nome": "Diretoria Geral de Administracao e Financas",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.3.1",
+              "nome": "Coordenadoria de Pessoal",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.3.2",
+              "nome": "Coordenadoria de Convenios, Contratos e Licitacoes",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.3.3",
+              "nome": "Coordenadoria de Contabilidade",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.3.4",
+              "nome": "Coordenadoria de Planejamento, Orcamento e Financas",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.3.5",
+              "nome": "Coordenadoria de Servicos Gerais e Patrimonio",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.3.6",
+              "nome": "Coordenadoria de Administracao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.3.7",
+              "nome": "Assessoria de Prestacao de Contas",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "2.4",
+          "nome": "Superintendencia Especial do Programa de Saneamento Ambiental dos Municipios do Estado do Rio de Janeiro",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.4.1",
+              "nome": "Coordenadoria de Infraestrutura, de Implantacao de Projetos do Programa de Saneamento Ambiental dos Municipios do Entorno da Baia de Guanabara",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.4.2",
+              "nome": "Coordenadoria de Execucao Financeira e Gestao de Recursos do Programa de Saneamento Ambiental dos Municipios do Entorno da Baia de Guanabara",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.4.3",
+              "nome": "Coordenadoria de Articulacao Institucional do Programa de Saneamento Ambiental",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "3",
+      "nome": "SUBSECRETARIA DE RECURSOS HIDRICOS E SUSTENTABILIDADE AMBIENTAL",
+      "sigla": "SUBRHISA",
+      "filhos": [
+        {
+          "indice": "3.1",
+          "nome": "Superintendencia de Residuos Solidos e Economia Circular",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.1.1",
+              "nome": "Coordenadoria de Desenvolvimento de Projetos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.1.2",
+              "nome": "Coordenadoria de Acompanhamento Administrativo",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "3.2",
+          "nome": "Superintendencia de Recursos Hidricos",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.2.1",
+              "nome": "Coordenadoria de Apoio a Gestao Participativa das Aguas",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.2.2",
+              "nome": "Coordenadoria de Planejamento e Articulacao para a Seguranca Hidrica",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "3.3",
+          "nome": "Superintendencia de Educacao Ambiental e Sustentabilidade",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.3.1",
+              "nome": "Coordenadoria de Educacao Ambiental",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.3.2",
+              "nome": "Coordenadoria da Agenda",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "4",
+      "nome": "SUBSECRETARIA DE MUDANCAS DO CLIMA E CONSERVACAO DA BIODIVERSIDADE",
+      "sigla": "SUBCLIM",
+      "filhos": [
+        {
+          "indice": "4.1",
+          "nome": "Superintendencia de Mudancas do Clima e Florestas",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.1.1",
+              "nome": "Coordenadoria de Mudancas do Clima",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.1.2",
+              "nome": "Coordenadoria de Restauracao Ecologica",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "4.2",
+          "nome": "Superintendencia de Gestao Ecossistemica",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.2.1",
+              "nome": "Coordenadoria de Biodiversidade",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.2.2",
+              "nome": "Coordenadoria de Gestao do Territorio",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "4.3",
+          "nome": "Assessoria Especial de Cidades Resilientes",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.3.1",
+              "nome": "Coordenadoria de Estudos e Projetos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.3.2",
+              "nome": "Coordenadoria de Cidades Resilientes",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "5",
+      "nome": "SUBSECRETARIA DE INFRAESTRUTURA AMBIENTAL",
+      "sigla": "SUBINFRA",
+      "filhos": [
+        {
+          "indice": "5.1",
+          "nome": "Superintendencia de Saneamento Ambiental",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "5.1.1",
+              "nome": "Coordenadoria de Abastecimento de Agua e Tratamento de Esgoto",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "5.1.2",
+              "nome": "Coordenadoria de Infraestrutura Ambiental",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "5.2",
+          "nome": "Coordenadoria Regional Ambiental do Centro Sul",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "5.3",
+          "nome": "Coordenadoria Regional Ambiental da Metropolitana",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "5.5",
+          "nome": "Coordenadoria Regional Ambiental do Norte Fluminense",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "5.6",
+          "nome": "Coordenadoria Regional Ambiental da Serrana",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "5.7",
+          "nome": "Coordenadoria Regional Ambiental da Costa Verde",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "5.8",
+          "nome": "Coordenadoria Regional Ambiental das Baixadas Litoraneas",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "5.9",
+          "nome": "Coordenadoria Regional Ambiental do Medio Paraiba",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "5.10",
+          "nome": "Coordenadoria Regional Ambiental da Metropolitana",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    }
+  ],
+  "Entes Vinculados": [
+    {
+      "nome": "Instituto Estadual do Ambiente",
+      "sigla": "INEA"
+    },
+    {
+      "nome": "Camara de Compensacao Ambiental do Estado do Rio de Janeiro",
+      "sigla": null
+    },
+    {
+      "nome": "Comissao Estadual de Controle Ambiental",
+      "sigla": "CECA"
+    },
+    {
+      "nome": "Conselho Superior do FECAM",
+      "sigla": null
+    }
+  ],
+  "Orgaos Colegiados": [
+    {
+      "nome": "Conselho Estadual de Meio Ambiente",
+      "sigla": "CONEMA"
+    },
+    {
+      "nome": "Conselho Estadual de Recursos Hidricos",
+      "sigla": "CERHI"
+    },
+    {
+      "nome": "Conselho Deliberativo do Programa",
+      "sigla": "PROSANEA"
+    }
+  ],
+  "Comissoes": [],
+  "Fundos": []
+}

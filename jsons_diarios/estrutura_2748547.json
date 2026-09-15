@@ -1,0 +1,1265 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DE POLÍCIA MILITAR",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "Gabinete do Secretario",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "1.1",
+          "nome": "Chefia de Gabinete",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.1.1",
+              "nome": "Assessoria Juridica",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.2",
+              "nome": "Assessoria de Relacoes Governamentais",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.3",
+              "nome": "Companhia Independente de Musicos",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.2",
+          "nome": "Controladoria",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.3",
+          "nome": "Assessoria de Comunicacao Social",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "2",
+      "nome": "Subsecretaria Geral de Policia Militar",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "2.1",
+          "nome": "Subsecretaria de Gestao Administrativa de Policia Militar",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.1.1",
+              "nome": "Diretoria-Geral de Administracao e Financas",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.1.1.1",
+                  "nome": "Diretoria de Financas",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.1.2",
+                  "nome": "Diretoria de Orcamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.1.3",
+                  "nome": "Diretoria de Patrimonio",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.1.2",
+              "nome": "Diretoria-Geral de Apoio Logistico",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.1.2.1",
+                  "nome": "Diretoria de Licitacoes e Contratos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.2.2",
+                  "nome": "Diretoria de Transporte",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.2.3",
+                  "nome": "Diretoria de Abastecimento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.2.4",
+                  "nome": "Diretoria de Manutencao e Suprimento de Armamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.2.5",
+                  "nome": "Centro de Distribuicao e Acautelamento de Material Belico",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.2.6",
+                  "nome": "Diretoria de Engenharia e Arquitetura",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.2.7",
+                  "nome": "Diretoria de Combustiveis",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.1.3",
+              "nome": "Diretoria-Geral de Educacao e Cultura",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.1.3.1",
+                  "nome": "Escola de Formacao de Oficiais D. Joao VI",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.3.2",
+                  "nome": "Centro de Formacao e Aperfeicoamento de Pracas",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.3.3",
+                  "nome": "Centro de Instrucao Especializada em Armamento e Tiro",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.3.4",
+                  "nome": "I Colegio da Policia Militar de Niteroi",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.3.5",
+                  "nome": "II Colegio da Policia Militar de Campo Grande",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.3.6",
+                  "nome": "III Colegio da Policia Militar de Duque de Caxias",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.3.7",
+                  "nome": "Centro de Educacao a Distancia da Policia Militar - Cel. PM Carlos Magno Nazareth Cerqueira",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.3.8",
+                  "nome": "Centro de Educacao Fisica e Desportos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.3.9",
+                  "nome": "Escola Superior de Policia Militar Cel PM Jorge da Silva",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.3.10",
+                  "nome": "Centro de Pesquisas e Acervo Historico da Policia Militar do Estado do Rio de Janeiro",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.1.4",
+              "nome": "Diretoria-Geral de Saude",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.1.4.1",
+                  "nome": "Diretoria de Assistencia a Saude",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.4.2",
+                  "nome": "Diretoria de Saude Operacional",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.4.3",
+                  "nome": "Diretoria de Suprimentos de Saude",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.4.4",
+                  "nome": "Diretoria de Credenciamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.4.5",
+                  "nome": "Hospital Central da Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.4.6",
+                  "nome": "Hospital da Policia Militar de Niteroi",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.4.7",
+                  "nome": "Hospital da Policia Militar de Sulacap",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.4.8",
+                  "nome": "Policlinica de Cascadura",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.4.9",
+                  "nome": "Policlinica de Olaria",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.4.10",
+                  "nome": "Policlinica de Sao Joao de Meriti",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.4.11",
+                  "nome": "Policlinica de Campos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.4.12",
+                  "nome": "Policlinica de Reabilitacao",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.4.13",
+                  "nome": "Grupamento Especial de Salvamento e Acoes de Resgate",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.4.14",
+                  "nome": "Centro de Medicina Veterinaria",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.4.15",
+                  "nome": "Centro de Abastecimento de Insumos de Saude",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.1.5",
+              "nome": "Diretoria-Geral de Odontologia",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.1.5.1",
+                  "nome": "Odontoclinica Central da Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.5.2",
+                  "nome": "Odontoclinica da Policia Militar I",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.5.3",
+                  "nome": "Diretoria de Suprimentos de Saude Bucal",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.1.6",
+              "nome": "Assessoria de Assuntos Estrategicos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.1.7",
+              "nome": "Ajudancia Geral",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.1.8",
+              "nome": "Diretoria-Geral de Assistencia Social",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.1.8.1",
+                  "nome": "Fazenda Marambaia",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "2.2",
+          "nome": "Subsecretaria de Gestao de Pessoas",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.2.1",
+              "nome": "Diretoria-Geral de Recursos Humanos",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.2.1.1",
+                  "nome": "Diretoria de Militares da Ativa",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.1.2",
+                  "nome": "Diretoria de Veteranos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.1.3",
+                  "nome": "Diretoria de Promocoes",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.1.4",
+                  "nome": "Diretoria de Identificacao",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.1.5",
+                  "nome": "Diretoria de Cadastro e Pagamentos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.1.6",
+                  "nome": "Diretoria de Recrutamento e Selecao de Pessoal",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.1.7",
+                  "nome": "Diretoria de Pericias Medicas",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.1.8",
+                  "nome": "Diretoria de Assistencia Religiosa",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.1.9",
+                  "nome": "Diretoria de Recursos Humanos e Mobilidade Institucional",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.1.10",
+                  "nome": "Diretoria de Pensionistas",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "2.3",
+          "nome": "Subsecretaria de Gestao Operacional de Policia Militar",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.3.1",
+              "nome": "1o Comando de Policiamento de Area",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.3.1.1",
+                  "nome": "2o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.1.2",
+                  "nome": "3o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.1.3",
+                  "nome": "4o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.1.4",
+                  "nome": "5o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.1.5",
+                  "nome": "6o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.1.6",
+                  "nome": "13o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.1.7",
+                  "nome": "16o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.1.8",
+                  "nome": "17o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.1.9",
+                  "nome": "19o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.1.10",
+                  "nome": "22o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.1.11",
+                  "nome": "23o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.3.2",
+              "nome": "2o Comando de Policiamento de Area",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.3.2.1",
+                  "nome": "9o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.2.2",
+                  "nome": "14o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.2.3",
+                  "nome": "18o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.2.4",
+                  "nome": "27o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.2.5",
+                  "nome": "31o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.2.6",
+                  "nome": "40o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.2.7",
+                  "nome": "41o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.2.8",
+                  "nome": "47°o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.3.3",
+              "nome": "3o Comando de Policiamento de Area",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.3.3.1",
+                  "nome": "15o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.3.2",
+                  "nome": "20o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.3.3",
+                  "nome": "21o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.3.4",
+                  "nome": "24o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.3.5",
+                  "nome": "34o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.3.6",
+                  "nome": "39o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.3.7",
+                  "nome": "44o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.3.8",
+                  "nome": "4a Companhia Independente de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.3.4",
+              "nome": "4o Comando de Policiamento de Area",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.3.4.1",
+                  "nome": "1o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.4.2",
+                  "nome": "7o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.4.3",
+                  "nome": "12o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.4.4",
+                  "nome": "35o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.3.5",
+              "nome": "5o Comando de Policiamento de Area",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.3.5.1",
+                  "nome": "10o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.5.2",
+                  "nome": "28o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.5.3",
+                  "nome": "33o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.5.4",
+                  "nome": "37o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.5.5",
+                  "nome": "2a Companhia Independente de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.5.6",
+                  "nome": "3a Companhia Independente de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.3.6",
+              "nome": "6o Comando de Policiamento de Area",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.3.6.1",
+                  "nome": "8o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.6.2",
+                  "nome": "29o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.6.3",
+                  "nome": "36o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.6.4",
+                  "nome": "46o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.3.7",
+              "nome": "7o Comando de Policiamento de Area",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.3.7.1",
+                  "nome": "11o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.7.2",
+                  "nome": "26o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.7.3",
+                  "nome": "30o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.7.4",
+                  "nome": "38o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.3.8",
+              "nome": "8o Comando de Policiamento de Area",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.3.8.1",
+                  "nome": "25o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.8.2",
+                  "nome": "32o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.8.3",
+                  "nome": "42o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.8.4",
+                  "nome": "45o Batalhao de Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.3.9",
+              "nome": "Comando de Operacoes Especiais",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.3.9.1",
+                  "nome": "Batalhao de Policia de Choque",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.9.2",
+                  "nome": "Batalhao de Operacoes Especiais",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.9.3",
+                  "nome": "Batalhao de Acoes com Caes",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.9.4",
+                  "nome": "Grupamento Aeromovel",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.9.5",
+                  "nome": "Centro de Instrucao Especializada e Pesquisa Policial",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.9.6",
+                  "nome": "Batalhao Tatico de Motociclistas",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.3.10",
+              "nome": "Comando de Policiamento Especializado",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.3.10.1",
+                  "nome": "Rondas Especializadas e Controle de Multidao",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.10.2",
+                  "nome": "Batalhao Especializado de Policiamento em Estadios",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.10.3",
+                  "nome": "Batalhao de Policia de Turismo",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.10.4",
+                  "nome": "Batalhao de Policiamento em Vias Especiais",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.10.5",
+                  "nome": "Grupamento de Policiamento Ferroviario",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.10.6",
+                  "nome": "Regimento de Cavalaria Cel Enyr Cony dos Santos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.10.7",
+                  "nome": "1a Companhia Independente da Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.3.11",
+              "nome": "Comando de Policiamento Ambiental",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.3.11.1",
+                  "nome": "1o Batalhao de Policia Ambiental",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.11.2",
+                  "nome": "2o Batalhao de Policia Ambiental",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.11.3",
+                  "nome": "3o Batalhao de Policia Ambiental",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.11.4",
+                  "nome": "Grupamento Maritimo e Fluvial",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.3.12",
+              "nome": "Comando de Policiamento de Transito",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.3.12.1",
+                  "nome": "1o Batalhao de Policia Rodoviaria",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.12.2",
+                  "nome": "2o Batalhao de Policia Rodoviaria",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.3.12.3",
+                  "nome": "Batalhao de Policia de Transito",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "2.4",
+          "nome": "Subsecretaria de Comando e Controle de Policia Militar",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.4.1",
+              "nome": "Diretoria de Comunicacoes Criticas",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.4.2",
+              "nome": "Assessoria de Administracao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.4.3",
+              "nome": "Diretoria-Geral de Tecnologia da Informacao e Comunicacao",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.4.3.1",
+                  "nome": "Diretoria de Sistemas de Informacao",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.4.3.2",
+                  "nome": "Diretoria de Infraestruturas de Tecnologia",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.4.4",
+              "nome": "Centro de Controle Operacional da Policia Militar",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "2.5",
+          "nome": "Subsecretaria de Inteligencia de Policia Militar",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.5.1",
+              "nome": "Diretoria-Geral de Inteligencia e Coordenacao Executiva",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.5.1.1",
+                  "nome": "Diretoria de Inteligencia",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.5.1.2",
+                  "nome": "Diretoria de Operacoes de Inteligencia",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.5.1.3",
+                  "nome": "Diretoria de Inteligencia Cibernetica",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.5.1.4",
+                  "nome": "Diretoria de Contrainteligencia",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.5.1.5",
+                  "nome": "Diretoria de Gestao de Recursos de Inteligencia",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.5.1.6",
+                  "nome": "Centro de Ensino e Pesquisa de Inteligencia",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "2.6",
+          "nome": "Subsecretaria de Programas Estrategicos",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.6.1",
+              "nome": "Comando de Policia de Proximidade",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.6.1.1",
+                  "nome": "1a UPP/2o BPM Santa Marta",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.6.1.2",
+                  "nome": "2a UPP/5o BPM Providencia",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.6.1.3",
+                  "nome": "3a UPP/19o BPM Pavao",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.6.1.4",
+                  "nome": "4a UPP/19o BPM Babilonia",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.6.1.5",
+                  "nome": "5a UPP/23o BPM Rocinha",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.6.1.6",
+                  "nome": "6a UPP/3o BPM Sao Joao",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.6.1.7",
+                  "nome": "7a UPP/3o BPM Jacare",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.6.1.8",
+                  "nome": "8a UPP/3o BPM Lins",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.6.1.9",
+                  "nome": "9a UPP/4o BPM Turano",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.6.1.10",
+                  "nome": "10a UPP/6o BPM Borel",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.6.1.11",
+                  "nome": "11a UPP/6o BPM Macacos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.6.1.12",
+                  "nome": "12a UPP/16o BPM Complexo do Alemao",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.6.1.13",
+                  "nome": "13a UPP/16o BPM Complexo da Penha",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.6.1.14",
+                  "nome": "14a UPP/22o BPM Adeus",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.6.1.15",
+                  "nome": "15a UPP/22o BPM Manguinhos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.6.1.16",
+                  "nome": "16a UPP/4o BPM Mangueira",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.6.2",
+              "nome": "Comando de Policiamento da Operacao Seguranca Presente",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.6.3",
+              "nome": "Diretoria-Geral de Programas",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.6.3.1",
+                  "nome": "Centro dos Programas de Seguranca Cidada",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.6.3.2",
+                  "nome": "Centro dos Programas de Integracao na Seguranca",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "2.7",
+          "nome": "Corregedoria Geral de Policia Militar",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.7.1",
+              "nome": "Centro de Criminalistica",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.7.2",
+              "nome": "Unidade Prisional da Policia Militar",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.7.3",
+              "nome": "1a Delegacia de Policia Judiciaria Militar",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.7.4",
+              "nome": "2a Delegacia de Policia Judiciaria Militar",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.7.5",
+              "nome": "3a Delegacia de Policia Judiciaria Militar",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.7.6",
+              "nome": "4a Delegacia de Policia Judiciaria Militar",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.7.7",
+              "nome": "5a Delegacia de Policia Judiciaria Militar",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.7.8",
+              "nome": "6a Delegacia de Policia Judiciaria Militar",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.7.9",
+              "nome": "7a Delegacia de Policia Judiciaria Militar",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.7.10",
+              "nome": "8a Delegacia de Policia Judiciaria Militar",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.7.11",
+              "nome": "Delegacia de Policia Judiciaria Militar Especializada",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "2.8",
+          "nome": "Assessoria de Fiscalizacao Estrategica",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    }
+  ],
+  "Entes Vinculados": [],
+  "Orgaos Colegiados": [],
+  "Comissoes": [
+    {
+      "nome": "Comissao Permanente de Licitacao II.2",
+      "sigla": null
+    },
+    {
+      "nome": "Comissao de Pregao II.3 - Comissao Gestora do Fundo de Saude da Policia Militar II.4 - Conselho de Economia e Financas da Policia Militar",
+      "sigla": null
+    }
+  ],
+  "Fundos": [
+    {
+      "nome": "Fundo Estadual de Investimentos e Acoes de Seguranca Publica e Desenvolvimento Social",
+      "sigla": "FISED"
+    },
+    {
+      "nome": "Fundo Especial da Policia Militar do Estado do Rio de Janeiro",
+      "sigla": "FUNESPOM"
+    },
+    {
+      "nome": "Fundo Estadual de Fomento a Operacao Seguranca Presente",
+      "sigla": "FEFOSP"
+    }
+  ]
+}

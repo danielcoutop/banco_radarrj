@@ -1,0 +1,190 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DE DESENVOLVIMENTO REGIONAL DO INTERIOR, PESCA E AGRICULTURA FAMILIAR",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "Gabinete do Secretario",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "1.1",
+          "nome": "Chefia de Gabinete",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.1.2",
+              "nome": "Assessoria de Comunicacao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.3",
+              "nome": "Assessoria Juridica",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.4",
+              "nome": "Ouvidoria",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.5",
+              "nome": "Corregedoria",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.6",
+              "nome": "Assessoria de Controle Interno e Compliance",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.1.7",
+              "nome": "Assessoria Tecnica de Acompanhamento e Apoio as Estatais",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "2",
+      "nome": "Subsecretaria de Gestao e Desenvolvimento Regional do Interior, Pesca e Agricultura Familiar",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "2.2",
+          "nome": "Diretoria Geral de Administracao e Financas",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.2.1",
+              "nome": "Coordenadoria de Planejamento e Orcamento",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.2",
+              "nome": "Coordenadoria de Financas",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.3",
+              "nome": "Coordenadoria de Contabilidade",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.4",
+              "nome": "Coordenadoria de Contratos",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.2.4.1",
+                  "nome": "Divisao de Suprimentos e Gestao de contratos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.4.2",
+                  "nome": "Divisao de Licitacoes",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "2.2.5",
+              "nome": "Coordenadoria de Tecnologia da Informacao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.6",
+              "nome": "Coordenadoria de Recursos Humanos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.7",
+              "nome": "Coordenadoria de Servicos Auxiliares",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.2.7.1",
+                  "nome": "Divisao de Transportes",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.7.2",
+                  "nome": "Divisao de Patrimonio e Almoxarifado",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.7.3",
+                  "nome": "Divisao de Servicos Gerais",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "2.3",
+          "nome": "Subsecretaria Adjunta de Desenvolvimento Regional do Interior, Agricultura e Pesca",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.4",
+          "nome": "Subsecretaria Adjunta de Infraestrutura e Desenvolvimento Rural",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.4.1",
+              "nome": "Coordenadoria de Desenvolvimento Regional do Interior, Agricultura Familiar e Pesca",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.4.2",
+              "nome": "Coordenadoria de Engenharia Rural",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Entes Vinculados": [
+    {
+      "nome": "Empresa de Assistencia Tecnica e Extensao Rural do Rio de Janeiro - EMATER",
+      "sigla": "RIO"
+    },
+    {
+      "nome": "Fundacao Instituto de Pesca do Estado do Rio de Janeiro",
+      "sigla": "FIPERJ"
+    },
+    {
+      "nome": "Conselho Estadual de Politica Agricola e Pesqueira",
+      "sigla": "CEPAP"
+    },
+    {
+      "nome": "Conselho Estadual de Pesca e Aquicultura Sustentavel",
+      "sigla": "CONEPAS"
+    }
+  ],
+  "Orgaos Colegiados": [],
+  "Comissoes": [],
+  "Fundos": []
+}

@@ -1,0 +1,3775 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DE ADMINISTRAÇÃO PENITENCIÁRIA",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "Gabinete do Secretario",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "1.1",
+          "nome": "Chefia de Gabinete",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.2",
+          "nome": "Assessoria Juridica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.3",
+          "nome": "Assessoria de Planejamento e Gestao",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.4",
+          "nome": "Assessoria Especial",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.5",
+          "nome": "Assessoria de Comunicacao Social",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.6",
+          "nome": "Subsecretaria Geral",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.6.1",
+              "nome": "Chefia de Gabinete",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.6.2",
+              "nome": "Ouvidoria",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "1.6.2.1",
+                  "nome": "Nucleo de Coletas e Analise de Dados",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "1.7",
+          "nome": "Assessoria de Inquerito Administrativo",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.7.1",
+              "nome": "1a Comissao Permanente de Inquerito Administrativo",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.7.2",
+              "nome": "2a Comissao Permanente de Inquerito Administrativo",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "2",
+      "nome": "Corregedoria",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "2.1",
+          "nome": "Divisao de Inteligencia",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.2",
+          "nome": "Centro de Controle e Monitoramento",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.3",
+          "nome": "Nucleo de Gericino",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.4",
+          "nome": "Servico de Protocolo",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.5",
+          "nome": "Servico de Arquivo",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.6",
+          "nome": "Secao de Cartorio",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "7",
+      "nome": "Subsecretaria Adjunta de Gestao Estrategica",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "7.1",
+          "nome": "Escola de Gestao Penitenciaria",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "7.1.1",
+              "nome": "Centro de Estudos e Pesquisa",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "7.1.1.1",
+                  "nome": "Servico de Biblioteca e Documentacao",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "7.1.2",
+              "nome": "Centro de Instrucao Especializada",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "7.1.2.1",
+                  "nome": "Servico de Apoio Administrativo",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "7.1.3",
+              "nome": "Secretaria",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "7.1.4",
+              "nome": "Divisao de Administracao",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "7.1.4.1",
+                  "nome": "Servico de Logistica",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "7.1.5",
+              "nome": "Divisao Pedagogica",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "7.1.5.1",
+                  "nome": "Servico de Controle de Alunos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "7.1.5.2",
+                  "nome": "Servico de Monitoramento de Estagio",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "7.1.6",
+              "nome": "Divisao de Planejamento e Projetos de Ensino",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "7.1.7",
+              "nome": "Divisao de Eventos Culturais",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "7.1.7.1",
+                  "nome": "Servico de Apoio Tecnico",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "7.2",
+          "nome": "Superintendencia de Recursos Humanos",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "7.2.1",
+              "nome": "Coordenacao de Comando e Controle de Pagamento",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "7.2.1.1",
+                  "nome": "Servico de Atendimentos aos Servidores Ativos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "7.2.1.2",
+                  "nome": "Servico de Atendimentos aos Inativos, Cotistas e Pensionistas",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "7.2.2",
+              "nome": "Coordenacao de Concursos e Processos Seletivos",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "7.2.2.1",
+                  "nome": "Servico de Controle e Preparo de Atos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "7.2.2.2",
+                  "nome": "Servico de Habilitacao e Controle de Investidura",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "7.2.2.3",
+                  "nome": "Servico de Estagio",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "7.2.3",
+              "nome": "Coordenacao de Saude Ocupacional",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "7.2.4",
+              "nome": "Divisao de Atendimento ao Servidor Aposentado",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "7.2.4.1",
+                  "nome": "Servico de Lavraturas de Apostilas",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "7.2.4.2",
+                  "nome": "Servico de Analise Processual",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "7.2.5",
+              "nome": "Divisao de Cadastro e Assentamentos Funcionais",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "7.2.5.1",
+                  "nome": "Servico de Assentamentos Funcionais",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "7.2.5.2",
+                  "nome": "Servico de Instrucao Processual",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "7.2.6",
+              "nome": "Divisao de Direitos e Vantagens",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "7.2.6.1",
+                  "nome": "Servico de Controle de Legislacao",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "7.2.6.2",
+                  "nome": "Servico de Controle e Expedicao de Certidoes",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "7.2.7",
+              "nome": "Divisao de Controle de Frequencia e Lotacao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "7.2.8",
+              "nome": "Divisao de Promocao Funcional",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "7.2.8.1",
+                  "nome": "Servico de Promocao e Confirmacao Funcional",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "7.2.9",
+              "nome": "Divisao de Controle de Escalas",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "7.2.10",
+              "nome": "Creche Tuta MassotKres",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "7.2.10.1",
+                  "nome": "Servico de Apoio Administrativo",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "7.3",
+          "nome": "Superintendencia de Tecnologia da Informacao",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "7.3.1",
+              "nome": "Divisao de Manutencao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "7.3.2",
+              "nome": "Divisao de Telecomunicacao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "7.3.3",
+              "nome": "Divisao de Rede de Computadores",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "7.3.4",
+              "nome": "Divisao de Desenvolvimento",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "7.3.4.1",
+                  "nome": "Servico de Identificacao Funcional",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "7.3.5",
+              "nome": "Divisao de Administracao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "7.3.6",
+              "nome": "Servico de Manutencaode Radiofonia",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "8",
+      "nome": "Subsecretaria Adjunta de Gestao Operacional",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "8.1",
+          "nome": "Divisao de Administracao",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "8.2",
+          "nome": "Coordenacao de Acompanhamento de Execucao Penal",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "8.2.1",
+              "nome": "Divisao de Informacao Juridica",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "8.2.2",
+              "nome": "Divisao de Cadastro Juridico",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "8.2.3",
+              "nome": "Divisao de Registro e Movimentacao de Efetivo Carcerario",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "8.2.4",
+              "nome": "Divisao de Administracao",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "8.3",
+          "nome": "Superintendencia de Seguranca",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "8.3.1",
+              "nome": "Divisao de Administracao",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.3.1.1",
+                  "nome": "Servico de Movimentacao de Pessoal de Seguranca",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.3.1.2",
+                  "nome": "Servico de Viaturas",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "8.3.2",
+              "nome": "Servico de Material Belico",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "8.3.3",
+              "nome": "Grupamento Tatico Movel",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "8.3.4",
+              "nome": "Departamento do Servico de Operacoes Es peciais",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.3.4.1",
+                  "nome": "Grupamento de Servico de Escolta",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.3.4.1.1",
+                      "nome": "Secao de Escolta de Niteroi",
+                      "sigla": null,
+                      "filhos": [
+                        {
+                          "indice": "8.3.4.1.1.1",
+                          "nome": "Setor I de Turma de Inspetor",
+                          "sigla": null,
+                          "filhos": []
+                        },
+                        {
+                          "indice": "8.3.4.1.1.2",
+                          "nome": "Setor II de Turma de Inspetor",
+                          "sigla": null,
+                          "filhos": []
+                        },
+                        {
+                          "indice": "8.3.4.1.1.3",
+                          "nome": "Setor III de Turma de Inspetor",
+                          "sigla": null,
+                          "filhos": []
+                        },
+                        {
+                          "indice": "8.3.4.1.1.4",
+                          "nome": "Setor IV de Turma de Inspetor",
+                          "sigla": null,
+                          "filhos": []
+                        }
+                      ]
+                    },
+                    {
+                      "indice": "8.3.4.1.2",
+                      "nome": "Secao de Escolta de Unidades do Grande Rio",
+                      "sigla": null,
+                      "filhos": [
+                        {
+                          "indice": "8.3.4.1.2.1",
+                          "nome": "Setor I de Turma de Inspetor",
+                          "sigla": null,
+                          "filhos": []
+                        },
+                        {
+                          "indice": "8.3.4.1.2.2",
+                          "nome": "Setor II de Turma de Inspetor",
+                          "sigla": null,
+                          "filhos": []
+                        },
+                        {
+                          "indice": "8.3.4.1.2.3",
+                          "nome": "Setor III de Turma de Inspetor",
+                          "sigla": null,
+                          "filhos": []
+                        },
+                        {
+                          "indice": "8.3.4.1.2.4",
+                          "nome": "Setor IV de Turma de Inspetor",
+                          "sigla": null,
+                          "filhos": []
+                        }
+                      ]
+                    },
+                    {
+                      "indice": "8.3.4.1.3",
+                      "nome": "Secao de Escolta do Complexo de Gericino",
+                      "sigla": null,
+                      "filhos": [
+                        {
+                          "indice": "8.3.4.1.3.1",
+                          "nome": "Setor I de Turma de Inspetor",
+                          "sigla": null,
+                          "filhos": []
+                        },
+                        {
+                          "indice": "8.3.4.1.3.2",
+                          "nome": "Setor II de Turma de Inspetor",
+                          "sigla": null,
+                          "filhos": []
+                        },
+                        {
+                          "indice": "8.3.4.1.3.3",
+                          "nome": "Setor III de Turma de Inspetor",
+                          "sigla": null,
+                          "filhos": []
+                        },
+                        {
+                          "indice": "8.3.4.1.3.4",
+                          "nome": "Setor IV de Turma de Inspetor",
+                          "sigla": null,
+                          "filhos": []
+                        }
+                      ]
+                    },
+                    {
+                      "indice": "8.3.4.1.4",
+                      "nome": "Secao de Escolta de Japeri",
+                      "sigla": null,
+                      "filhos": [
+                        {
+                          "indice": "8.3.4.1.4.1",
+                          "nome": "Setor I de Turmas de Inspetor",
+                          "sigla": null,
+                          "filhos": []
+                        },
+                        {
+                          "indice": "8.3.4.1.4.2",
+                          "nome": "Setor II de Turma de Inspetor",
+                          "sigla": null,
+                          "filhos": []
+                        },
+                        {
+                          "indice": "8.3.4.1.4.3",
+                          "nome": "Setor III de Turma de Inspetor",
+                          "sigla": null,
+                          "filhos": []
+                        },
+                        {
+                          "indice": "8.3.4.1.4.4",
+                          "nome": "Setor IV de Turma de Inspetor",
+                          "sigla": null,
+                          "filhos": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.3.4.2",
+                  "nome": "Grupamento de Intervencao Tatica",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.3.4.2.1",
+                      "nome": "Setor I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.3.4.2.2",
+                      "nome": "Setor II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.3.4.2.3",
+                      "nome": "Setor III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.3.4.2.4",
+                      "nome": "Setor IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.3.4.3",
+                  "nome": "Grupamento e Operacoes com Caes",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.3.4.4",
+                  "nome": "Centro de Comunicacao Penitenciaria",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "8.4",
+          "nome": "Coordenacao das Unidades Prisionais de Gericino",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "8.4.1",
+              "nome": "Servico de Administracao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "8.4.2",
+              "nome": "Grupamento de Portaria Unificada",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "8.4.3",
+              "nome": "Instituto Penal Placido Sa Carvalho",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.4.3.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.4.3.1.1",
+                      "nome": "Secao de Guarda de Bens e Valores",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.3.1.2",
+                      "nome": "Secao I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.3.1.3",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.3.1.4",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.3.1.5",
+                      "nome": "Secao IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.4.3.2",
+                  "nome": "Servico de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.4.3.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.4.3.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "8.4.4",
+              "nome": "Penitenciaria Alfredo Tranjan",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.4.4.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.4.4.1.1",
+                      "nome": "Secao de Guarda de Bens e Valores",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.4.1.2",
+                      "nome": "Secao I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.4.1.3",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.4.1.4",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.4.1.5",
+                      "nome": "Secao IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.4.4.2",
+                  "nome": "Servico de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.4.4.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.4.4.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "8.4.5",
+              "nome": "Penitenciaria Industrial Esmeraldino Bandeira",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.4.5.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.4.5.1.1",
+                      "nome": "Secao de Guarda de Bens e Valores",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.5.1.2",
+                      "nome": "Secao I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.5.1.3",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.5.1.4",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.5.1.5",
+                      "nome": "Secao IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.4.5.2",
+                  "nome": "Servico de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.4.5.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.4.5.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "8.4.6",
+              "nome": "Penitenciaria Laercio da Costa Pelegrino",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.4.6.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.4.6.1.1",
+                      "nome": "Secao de Guarda de Bens e Valores",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.6.1.2",
+                      "nome": "Secao I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.6.1.3",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.6.1.4",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.6.1.5",
+                      "nome": "Secao IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.4.6.2",
+                  "nome": "Servico de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.4.6.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.4.6.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "8.4.7",
+              "nome": "Penitenciaria M o niz Sodre",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.4.7.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.4.7.1.1",
+                      "nome": "Secao de Guarda de Bens e Valores",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.7.1.2",
+                      "nome": "Secao I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.7.1.3",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.7.1.4",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.7.1.5",
+                      "nome": "Secao IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.4.7.2",
+                  "nome": "Servico de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.4.7.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.4.7.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "8.4.8",
+              "nome": "Penitenciaria Talavera Bruce",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.4.8.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.4.8.1.1",
+                      "nome": "Secao de Guarda de Bens e Valores",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.8.1.2",
+                      "nome": "Secao I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.8.1.3",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.8.1.4",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.8.1.5",
+                      "nome": "Secao IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.4.8.2",
+                  "nome": "Servico de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.4.8.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.4.8.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "8.4.9",
+              "nome": "Instituto Penal Vicente Piragibe",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.4.9.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.4.9.1.1",
+                      "nome": "Secao de Guarda de Bens e Valores",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.9.1.2",
+                      "nome": "Secao I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.9.1.3",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.9.1.4",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.4.9.2",
+                  "nome": "Servico de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.4.9.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.4.9.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "8.4.10",
+              "nome": "Penitenciaria Dr. Serrano Neves",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.4.10.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.4.10.1.1",
+                      "nome": "Secao de Guarda de Bens e Valores",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.10.1.2",
+                      "nome": "Secao I de Turma de Inspeto",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.10.1.3",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.10.1.4",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.10.1.5",
+                      "nome": "Secao IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.4.10.2",
+                  "nome": "Servico de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.4.10.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.4.10.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "8.4.11",
+              "nome": "Penitenciaria Jonas Lopes de Carvalho",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.4.11.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.4.11.1.1",
+                      "nome": "Secao de Guarda de Bens e Valores",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.11.1.2",
+                      "nome": "Secao I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.11.1.3",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.11.1.4",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.11.1.5",
+                      "nome": "Secao IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.4.11.2",
+                  "nome": "Servico de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.4.11.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.4.11.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "8.4.12",
+              "nome": "Cadeia Publica Jorge Santana",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.4.12.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.4.12.1.1",
+                      "nome": "Secao I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.12.1.2",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.12.1.3",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.12.1.4",
+                      "nome": "Secao IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.4.12.2",
+                  "nome": "Secao de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.4.12.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.4.12.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "8.4.13",
+              "nome": "Cadeia Publica Pedro Melo da Silva",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.4.13.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.4.13.1.1",
+                      "nome": "Secao I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.13.1.2",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.13.1.3",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.13.1.4",
+                      "nome": "Secao IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.4.13.2",
+                  "nome": "Secao de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.4.13.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.4.13.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "8.4.14",
+              "nome": "Presidio Elizabeth Sa Rego",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.4.14.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.4.14.1.1",
+                      "nome": "Secao de Guarda de Bens e Valores",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.14.1.2",
+                      "nome": "Secao I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.14.1.3",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.14.1.4",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.14.1.5",
+                      "nome": "Secao IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.4.14.2",
+                  "nome": "Secao de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.4.14.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.4.14.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "8.4.15",
+              "nome": "Presidio Nelson Hungria",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.4.15.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.4.15.1.1",
+                      "nome": "Secao de Guarda de Bens e Valores",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.15.1.2",
+                      "nome": "Secao I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.15.1.3",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.15.1.4",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.15.1.5",
+                      "nome": "Secao IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.4.15.2",
+                  "nome": "Servico de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.4.15.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.4.15.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "8.4.16",
+              "nome": "Cadeia Publica Paulo Roberto Rocha",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.4.16.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.4.16.1.1",
+                      "nome": "Secao I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.16.1.2",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.16.1.3",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.16.1.4",
+                      "nome": "Secao IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.4.16.2",
+                  "nome": "Secao de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.4.16.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.4.16.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "8.4.17",
+              "nome": "Penitenciaria Gabriel Ferreira Castilho",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.4.17.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.4.17.1.1",
+                      "nome": "Secao de Guarda de Bens e Valores",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.17.1.2",
+                      "nome": "Secao I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.17.1.3",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.17.1.4",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.17.1.5",
+                      "nome": "Secao IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.4.17.2",
+                  "nome": "Servico de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.4.17.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.4.17.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "8.4.18",
+              "nome": "Instituto Penal Benjamin de Moraes Filho",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.4.18.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.4.18.1.1",
+                      "nome": "Secao de Guarda de Bens e Valores",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.18.1.2",
+                      "nome": "Secao I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.18.1.3",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.18.1.4",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.18.1.5",
+                      "nome": "Secao IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.4.18.2",
+                  "nome": "Servico de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.4.18.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.4.18.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "8.4.19",
+              "nome": "Penitenciaria Lemos Brito",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.4.19.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.4.19.1.1",
+                      "nome": "Secao de Guarda de Bens e Valores",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.19.1.2",
+                      "nome": "Secao I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.19.1.3",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.19.1.4",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.19.1.5",
+                      "nome": "Secao IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.4.19.2",
+                  "nome": "Servico de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.4.19.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.4.19.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "8.4.20",
+              "nome": "Cadeia Publica Pedrolino Werling de Oliveira",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.4.20.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.4.20.1.1",
+                      "nome": "Secao de Guarda de Bens e Valores",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.20.1.2",
+                      "nome": "Secao I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.20.1.3",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.20.1.4",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.20.1.5",
+                      "nome": "Secao IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.4.20.2",
+                  "nome": "Servico de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.4.20.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.4.20.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "8.4.21",
+              "nome": "Penitenciaria Bandeira Stampa",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.4.21.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.4.21.1.1",
+                      "nome": "Secao I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.21.1.2",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.21.1.3",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.21.1.4",
+                      "nome": "Secao IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.4.21.2",
+                  "nome": "Secao de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.4.21.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.4.21.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "8.4.22",
+              "nome": "Cadeia Publica Inspetor Jose Antonio da Costa Barros",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.4.22.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.4.22.1.1",
+                      "nome": "Secao de Guarda de Bens e Valores",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.22.1.2",
+                      "nome": "Secao I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.22.1.3",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.22.1.4",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.22.1.5",
+                      "nome": "Secao IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.4.22.2",
+                  "nome": "Servico de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.4.22.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.4.22.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "8.4.23",
+              "nome": "Cadeia Publica Joaquim Ferreira de Souza",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.4.23.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.4.23.1.1",
+                      "nome": "Secao de Guarda de Bens e Valores",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.23.1.2",
+                      "nome": "Secao I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.23.1.3",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.23.1.4",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.4.23.1.5",
+                      "nome": "Secao IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.4.23.2",
+                  "nome": "Servico de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.4.23.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.4.23.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "8.5",
+          "nome": "Coordenacao de Unidades Prisionais do Grande Rio",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "8.5.1",
+              "nome": "Servico de Administracao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "8.5.2",
+              "nome": "Penitenciaria Milton Dias Moreira",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.5.2.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.5.2.1.1",
+                      "nome": "Secao de Guarda de Bens e Valores",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.5.2.1.2",
+                      "nome": "Secao I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.5.2.1.3",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.5.2.1.4",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.5.2.1.5",
+                      "nome": "Secao IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.5.2.2",
+                  "nome": "Servico de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.5.2.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.5.2.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "8.5.3",
+              "nome": "Presidio Evaristo de Moraes",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.5.3.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.5.3.1.1",
+                      "nome": "Secao de Guarda de Bens e Valores",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.5.3.1.2",
+                      "nome": "Secao I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.5.3.1.3",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.5.3.1.4",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.5.3.1.5",
+                      "nome": "Secao IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.5.3.2",
+                  "nome": "Servico de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.5.3.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.5.3.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "8.5.4",
+              "nome": "Presidio Ary Franco",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.5.4.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.5.4.1.1",
+                      "nome": "Secao de Guarda de Bens e Valores",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.5.4.1.2",
+                      "nome": "Secao I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.5.4.1.3",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.5.4.1.4",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.5.4.1.5",
+                      "nome": "Secao IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.5.4.2",
+                  "nome": "Servico de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.5.4.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.5.4.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "8.5.5",
+              "nome": "Cadeia Publica Cotrin Neto",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.5.5.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.5.5.1.1",
+                      "nome": "Secao I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.5.5.1.2",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.5.5.1.3",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.5.5.1.4",
+                      "nome": "Secao IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.5.5.2",
+                  "nome": "Secao de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.5.5.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.5.5.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "8.5.6",
+              "nome": "Cadeia Publica Franz de Castro Holzwarth",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.5.6.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.5.6.1.1",
+                      "nome": "Secao I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.5.6.1.2",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.5.6.1.3",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.5.6.1.4",
+                      "nome": "Secao IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.5.6.2",
+                  "nome": "Secao de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.5.6.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.5.6.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "8.5.7",
+              "nome": "Casa do Albergado Crispim Ventino",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.5.7.1",
+                  "nome": "Servico de Portaria e Inspecao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.5.7.1.1",
+                      "nome": "Secao I de Inspecao",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.5.7.1.2",
+                      "nome": "Secao II de Inspecao",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.5.7.1.3",
+                      "nome": "Secao III de Inspecao",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.5.7.1.4",
+                      "nome": "Secao IV de Inspecao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.5.7.2",
+                  "nome": "Servico de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.5.7.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.5.7.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "8.5.8",
+              "nome": "Instituto Penal Candido Mendes",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.5.8.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.5.8.1.1",
+                      "nome": "Secao de Guarda de Bens e Valores",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.5.8.1.2",
+                      "nome": "Secao I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.5.8.1.3",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.5.8.1.4",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.5.8.1.5",
+                      "nome": "Secao IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.5.8.2",
+                  "nome": "Servico de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.5.8.3",
+                  "nome": "Servico de Acompanhamento do Trabalho Externo",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.5.8.4",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.5.8.4.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "8.5.9",
+              "nome": "Presidio Joao Carlos da Silva",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.5.9.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.5.9.1.1",
+                      "nome": "Secao de Guarda de Bens e Valores",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.5.9.1.2",
+                      "nome": "Secao I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.5.9.1.3",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.5.9.1.4",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.5.9.1.5",
+                      "nome": "Secao IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.5.9.2",
+                  "nome": "Servico de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.5.9.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.5.9.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "8.5.10",
+              "nome": "Instituto Penal Oscar Stevenson",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.5.10.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.5.10.1.1",
+                      "nome": "Secao I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.5.10.1.2",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.5.10.1.3",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.5.10.1.4",
+                      "nome": "Secao IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.5.10.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.5.10.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "8.5.11",
+              "nome": "Cadeia Publica Inspetor Luis Cesar Fernandes Bandeira Duarte",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.5.11.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.5.11.1.1",
+                      "nome": "Secao de Guarda de Bens e Valores",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.5.11.1.2",
+                      "nome": "Secao I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.5.11.1.3",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.5.11.1.4",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.5.11.1.5",
+                      "nome": "Secao IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.5.11.2",
+                  "nome": "Servico de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.5.11.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.5.11.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "8.5.12.1",
+              "nome": "Servico de Seguranca e Disciplina",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.5.12.1.1",
+                  "nome": "Secao de Guarda de Bens e Valores",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.5.12.1.2",
+                  "nome": "Secao I de Turma de Inspetor",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.5.12.1.3",
+                  "nome": "Secao II de Turma de Inspetor",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.5.12.1.4",
+                  "nome": "Secao III de Turma de Inspetor",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.5.12.1.5",
+                  "nome": "Secao IV de Turma de Inspetor",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "8.5.12.2",
+              "nome": "Servico de Classificacao e Tratamento",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "8.5.12.3",
+              "nome": "Servico de Administracao",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.5.12.3.1",
+                  "nome": "Secao de Manutencao",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "8.5.13",
+              "nome": "Cadeia Publica Jose Frederico Marques",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.5.13.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.5.13.1.1",
+                      "nome": "Secao I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.5.13.1.2",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.5.13.1.3",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.5.13.1.4",
+                      "nome": "Secao IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.5.13.2",
+                  "nome": "Secao de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.5.13.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.5.13.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "8.6",
+          "nome": "Coordenacao de Unidades Prisionais de Niteroi e Norte/Noroeste",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "8.6.1",
+              "nome": "Servico de Administracao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "8.6.2",
+              "nome": "Colonia Agricola Marco Aurelio Vergas Tavares de Mattos",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.6.2.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.6.2.1.1",
+                      "nome": "Secao de Guarda de Bens e Valores",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.2.1.2",
+                      "nome": "Secao I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.2.1.3",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.2.1.4",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.2.1.5",
+                      "nome": "Secao IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.6.2.2",
+                  "nome": "Servico de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.6.2.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.6.2.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "8.6.3",
+              "nome": "Instituto Penal Edgard Costa",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.6.3.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.6.3.1.1",
+                      "nome": "Secao de Guarda de Bens e Valores",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.3.1.2",
+                      "nome": "Secao I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.3.1.3",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.3.1.4",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.3.1.5",
+                      "nome": "Secao IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.6.3.2",
+                  "nome": "Servico de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.6.3.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.6.3.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "8.6.4",
+              "nome": "Presidio Carlos Tinoco da Fonseca",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.6.4.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.6.4.1.1",
+                      "nome": "Secao de Guarda de Bens e Valores",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.4.1.2",
+                      "nome": "Secao I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.4.1.3",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.4.1.4",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.4.1.5",
+                      "nome": "Secao IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.6.4.2",
+                  "nome": "Servico de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.6.4.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.6.4.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "8.6.5",
+              "nome": "Unidade Prisional da Policia Militar",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "8.6.6",
+              "nome": "Cadeia Publica Romeiro Neto",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.6.6.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.6.6.1.1",
+                      "nome": "Secao I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.6.1.2",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.6.1.3",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.6.1.4",
+                      "nome": "Secao IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.6.6.2",
+                  "nome": "Secao de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.6.6.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.6.6.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "8.6.7",
+              "nome": "Presidio Diomedes Vinhosa Muniz",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.6.7.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.6.7.1.1",
+                      "nome": "Secao I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.7.1.2",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.7.1.3",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.7.1.4",
+                      "nome": "Secao IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.7.1.5",
+                      "nome": "Secao de Guarda de Bens e Valores",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.6.7.2",
+                  "nome": "Secao de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.6.7.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.6.7.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "8.6.8",
+              "nome": "Instituto Penal Ismael Pereira Sirieiro",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.6.8.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.6.8.1.1",
+                      "nome": "Secao I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.8.1.2",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.8.1.3",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.8.1.4",
+                      "nome": "Secao IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.8.1.5",
+                      "nome": "Secao de Guarda de Bens e Valores",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.6.8.2",
+                  "nome": "Secao de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.6.8.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.6.8.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "8.6.9",
+              "nome": "Cadeia Publica Dalton Crespo de Castro",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.6.9.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.6.9.1.1",
+                      "nome": "Secao I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.9.1.2",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.9.1.3",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.9.1.4",
+                      "nome": "Secao IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.6.9.2",
+                  "nome": "Secao de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.6.9.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.6.9.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "8.6.10",
+              "nome": "Presidio Nilza da Silva Santos",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.6.10.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.6.10.1.1",
+                      "nome": "Secao de Guarda de Bens e Valores",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.10.1.2",
+                      "nome": "Secao I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.10.1.3",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.10.1.4",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.10.1.5",
+                      "nome": "Secao IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.6.10.2",
+                  "nome": "Servico de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.6.10.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.6.10.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "8.6.11",
+              "nome": "Penitenciaria C oronel PM Francisco Spargoli Rocha",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.6.11.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.6.11.1.1",
+                      "nome": "Secao I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.11.1.2",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.11.1.3",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.11.1.4",
+                      "nome": "Secao IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.6.11.2",
+                  "nome": "Servico de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.6.11.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.6.11.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "8.6.12",
+              "nome": "Cadeia Publica Helio Gomes",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.6.12.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.6.12.1.1",
+                      "nome": "Secao de Guarda de Bens e Valores",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.12.1.2",
+                      "nome": "Secao I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.12.1.3",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.12.1.4",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.12.1.5",
+                      "nome": "Secao IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.6.12.2",
+                  "nome": "Servico de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.6.12.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.6.12.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "8.6.13",
+              "nome": "Cadeia Publica de Mage",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.6.13.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.6.13.1.1",
+                      "nome": "Secao de Guarda de Bens e Valores",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.13.1.2",
+                      "nome": "Secao I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.13.1.3",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.13.1.4",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.13.1.5",
+                      "nome": "Secao IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.6.13.2",
+                  "nome": "Servico de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.6.13.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.6.13.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "8.6.14",
+              "nome": "Cadeia Publica Juiza de Direito Patricia Acioli",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.6.14.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.6.14.1.1",
+                      "nome": "Secao de Guarda de Bens e Valores",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.14.1.2",
+                      "nome": "Secao I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.14.1.3",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.14.1.4",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.14.1.5",
+                      "nome": "Secao IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.6.14.2",
+                  "nome": "Servico de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.6.14.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.6.14.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "8.6.15",
+              "nome": "Cadeia Publica ISAP Tiago Teles de Castro Domingues",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.6.15.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.6.15.1.1",
+                      "nome": "Secao de Guarda de Bens e Valores",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.15.1.2",
+                      "nome": "Secao I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.15.1.3",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.15.1.4",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.15.1.5",
+                      "nome": "Secao IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.6.15.2",
+                  "nome": "Servico de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.6.15.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.6.15.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "8.6.16.1",
+              "nome": "Servico de Seguranca e Disciplina",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.6.16.1.1",
+                  "nome": "Secao de Guarda de Bens e Valores",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.6.16.1.2",
+                  "nome": "Secao I de Turma de Inspetor",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.6.16.1.3",
+                  "nome": "Secao II de Turma de Inspetor",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.6.16.1.4",
+                  "nome": "Secao III de Turma de Inspetor",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.6.16.1.5",
+                  "nome": "Secao IV de Turma de Inspetor",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "8.6.16.2",
+              "nome": "Servico de Classificacao e Tratamento",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "8.6.16.3",
+              "nome": "Servico de Administracao",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.6.16.3.1",
+                  "nome": "Secao de Manutencao",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "8.6.17",
+              "nome": "Cadeia Publica Constantino Cokotos",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "8.6.17.1",
+                  "nome": "Servico de Seguranca e Disciplina",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.6.17.1.1",
+                      "nome": "Secao de Guarda de Bens e Valores",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.17.1.2",
+                      "nome": "Secao I de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.17.1.3",
+                      "nome": "Secao II de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.17.1.4",
+                      "nome": "Secao III de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "8.6.17.1.5",
+                      "nome": "Secao IV de Turma de Inspetor",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "8.6.17.2",
+                  "nome": "Servico de Classificacao e Tratamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "8.6.17.3",
+                  "nome": "Servico de Administracao",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "8.6.17.3.1",
+                      "nome": "Secao de Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Entes Vinculados": [
+    {
+      "nome": "Fundacao Santa Cabrini",
+      "sigla": "FSC"
+    }
+  ],
+  "Orgaos Colegiados": [
+    {
+      "nome": "Conselho Penitenciario do Estado do Rio de Janeiro",
+      "sigla": "CPERJ"
+    },
+    {
+      "nome": "Secretaria",
+      "sigla": null
+    },
+    {
+      "nome": "Servico de Instrucao de Processo",
+      "sigla": null
+    },
+    {
+      "nome": "Secao de Diligencia",
+      "sigla": null
+    },
+    {
+      "nome": "Servico de Administracao",
+      "sigla": null
+    },
+    {
+      "nome": "Secao de Autuacao",
+      "sigla": null
+    },
+    {
+      "nome": "IV ORGAO DE INTELIGENCIA",
+      "sigla": null
+    },
+    {
+      "nome": "Superintendencia Geral de Inteligencia do Sistema Penitenciario",
+      "sigla": null
+    },
+    {
+      "nome": "Divisao de Apoio Administrativo",
+      "sigla": null
+    },
+    {
+      "nome": "Divisao de Inteligencia",
+      "sigla": null
+    },
+    {
+      "nome": "Divisao de Acoes Especializadas",
+      "sigla": null
+    },
+    {
+      "nome": "Divisao de Busca Eletronica",
+      "sigla": null
+    },
+    {
+      "nome": "Divisao de Contra-Inteligencia",
+      "sigla": null
+    },
+    {
+      "nome": "Divisao de Informatica",
+      "sigla": null
+    },
+    {
+      "nome": "Servico de Qualidade de Ensino",
+      "sigla": null
+    },
+    {
+      "nome": "Servico de Monitoracao Eletronica",
+      "sigla": null
+    },
+    {
+      "nome": "Nucleo de Coleta e Analise de Dados de Gericino",
+      "sigla": null
+    },
+    {
+      "nome": "Nucleo de Coleta e Analise de Dados das Unidades Prisionais Isoladas",
+      "sigla": null
+    },
+    {
+      "nome": "Nucleo de Coletas e Analise de Dados de Niteroi",
+      "sigla": null
+    },
+    {
+      "nome": "Nucleo de Coleta e Analise de Dados de Japeri",
+      "sigla": null
+    },
+    {
+      "nome": "Nucleo de Coleta e Analise de Dados de Campos dos Goytacazes",
+      "sigla": null
+    }
+  ],
+  "Comissoes": [],
+  "Fundos": [
+    {
+      "nome": "Fundo Especial Penitenciario",
+      "sigla": "FUESP"
+    }
+  ]
+}

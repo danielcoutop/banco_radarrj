@@ -1,0 +1,264 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DAS CIDADES",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "Gabinete do Secretario",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "1.1",
+          "nome": "Chefia de Gabinete",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.2",
+          "nome": "Assessoria Juridica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.3",
+          "nome": "Assessoria de Comunicacao",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.4",
+          "nome": "Coordenadoria de Controle Interno",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.5",
+          "nome": "Ouvidoria Setorial",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.6",
+          "nome": "Corregedoria Setorial",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.7",
+          "nome": "Assessoria de Tecnologia da Informacao",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "2",
+      "nome": "Subsecretaria Executiva das Cidades",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "2.1",
+          "nome": "Diretoria Geral de Administracao e Financas",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.1.1",
+              "nome": "Coordenacao de Administracao e Financas",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.1.2",
+              "nome": "Coordenacao de Planejamento e Orcamento",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.1.3",
+              "nome": "Coordenacao de Patrimonio e Suprimentos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.1.4",
+              "nome": "Coordenacao de Apoio Operacional",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.1.5",
+              "nome": "Coordenacao de Recursos Humanos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.1.6",
+              "nome": "Coordenacao de Contabilidade",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.1.7",
+              "nome": "Coordenacao de Licitacoes, Contratos e Convenios",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.1.7.1",
+                  "nome": "Divisao de Contratos e Convenios",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.1.7.2",
+                  "nome": "Divisao de Licitacoes",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "2.2",
+          "nome": "Superintendencia de Desenvolvimento de Projetos",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.2.1",
+              "nome": "Coordenacao de Estudos Tecnicos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.2",
+              "nome": "Coordenacao de Analise de Risco",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.3",
+              "nome": "Coordenacao de Urbanismo",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.4",
+              "nome": "Coordenacao de Capacitacao de Gestores",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.5",
+              "nome": "Coordenacao de Captacao de Recursos",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "3.1",
+      "nome": "Subsecretaria de Habitaca o",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "3.1.1",
+          "nome": "Superintendencia de Captacao de Recursos e Novos Contratos",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.1.2",
+          "nome": "Superintendencia de Gestao de Contratos e Demandas Habitacionais",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "3.2",
+      "nome": "Subse cretaria de Integracao Regional",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "3.2.1",
+          "nome": "Superintendencia Regional da Metropolitana",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.2.2",
+          "nome": "Superintendencia Regional do Interior",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "3.3",
+      "nome": "Subsecretaria de Obras Civis, Saneamento e Programas Especiais",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "3.3.1",
+          "nome": "Superintendencia de Obras Civis",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.3.2",
+          "nome": "Superintendencia de Programas Especiais",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "3.4",
+      "nome": "Subsecretaria de Assuntos da Municipalidade",
+      "sigla": null,
+      "filhos": []
+    },
+    {
+      "indice": "4.1",
+      "nome": "Comissao Permanente de Licitacao",
+      "sigla": "CPL",
+      "filhos": []
+    },
+    {
+      "indice": "4.2",
+      "nome": "Comissao de Pregao",
+      "sigla": null,
+      "filhos": []
+    },
+    {
+      "indice": "5.1",
+      "nome": "Conselho de Habitacao e de Saneamento do Estado do Rio de Janeiro",
+      "sigla": "CEHAS",
+      "filhos": []
+    },
+    {
+      "indice": "7",
+      "nome": "Fundo Vinculado",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "7.1",
+          "nome": "Fundo Estadual de Habitacao e de Interesse Social",
+          "sigla": "FEHIS",
+          "filhos": []
+        }
+      ]
+    }
+  ],
+  "Entes Vinculados": [
+    {
+      "nome": "Companhia Estadual de Habitacao do Estado do Rio de Janeiro",
+      "sigla": "CEHAB"
+    }
+  ],
+  "Orgaos Colegiados": [],
+  "Comissoes": [],
+  "Fundos": []
+}

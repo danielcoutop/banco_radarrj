@@ -1,0 +1,1072 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DE ADMINISTRAÇÃO PENITENCIÁRIA",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "Gabinete do Secretario",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "1.1",
+          "nome": "Chefia de Gabinete",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.2",
+          "nome": "Assessoria Juridica",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.2.1",
+              "nome": "Divisao Administrativa de Inquerito",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.2.2",
+              "nome": "1a Comissao Permanente de Inquerito Administrativo",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.2.3",
+              "nome": "2a Comissao Permanente de Inquerito Administrativo",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.2.4",
+              "nome": "3a Comissao Permanente de Inquerito Administrativo",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.2.5",
+              "nome": "4a Comissao Permanente de Inquerito Administrativo",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.3",
+          "nome": "Assessoria de Gestao Institucional",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.3.1",
+              "nome": "Coordenacao de Inteligencia",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.3.2",
+              "nome": "Coordenacao de Protocolo e Arquivo",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.3.3",
+              "nome": "Coordenacao de Correicao de Gericino",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.3.4",
+              "nome": "Coordenacao de Correicao do Norte e Noroeste",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.4",
+          "nome": "Assessoria de Projetos de Investimento e Parceiras",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.4.1",
+              "nome": "Coordenacao de Administracao e Suporte",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.5",
+          "nome": "Assessoria de Comunicacao Social",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.6",
+          "nome": "Assessoria Setorial de Auditoria",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.6.1",
+              "nome": "Coordenacao de Analise",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.6.2",
+              "nome": "Coordenacao de Avaliacao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.6.3",
+              "nome": "Coordenacao de Supervisao",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.7",
+          "nome": "Ouvidoria",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "2",
+      "nome": "Superintendencia de Inteligencia do Sistema Penitenciario",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "2.1",
+          "nome": "Coordenacao de Administracao",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.2",
+          "nome": "Coordenacao de Inteligencia",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.3",
+          "nome": "Coordenacao de Acoes Especializadas",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.4",
+          "nome": "Coordenacao de Busca Eletronica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.5",
+          "nome": "Coordenacao de Contrainteligencia",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.6",
+          "nome": "Coordenacao de Informatica",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "4",
+      "nome": "Subsecretaria de Gestao Estrategica",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "4.1",
+          "nome": "Escola de Gestao Penitenciaria",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.1.1",
+              "nome": "Coordenacao de Estudos e Pesquisa",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "4.1.1.1",
+                  "nome": "Divisao de Biblioteca",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "4.1.1.2",
+                  "nome": "Divisao de Estudos, Pesquisa e Publicacao",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "4.1.2",
+              "nome": "Coordenacao de Instrucao Especializada",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "4.1.2.1",
+                  "nome": "Divisao Administrativa",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "4.1.2.2",
+                  "nome": "Divisao Avancada de Treinamento Especializado da Ilha Grande",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "4.1.2.3",
+                  "nome": "Divisao de Armamento e Tiro",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "4.1.3",
+              "nome": "Secretaria Academica",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "4.1.3.1",
+                  "nome": "Divisao de Controle de Alunos",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "4.1.4",
+              "nome": "Coordenacao Administrativa da Escola",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "4.1.4.1",
+                  "nome": "Divisao de Logistica",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "4.1.5",
+              "nome": "Coordenacao Pedagogica",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "4.1.5.1",
+                  "nome": "Divisao de Monitoramento de Estagio",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "4.1.6",
+              "nome": "Coordenacao de Planejamento e Projetos de Ensino",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "4.1.6.1",
+                  "nome": "Divisao de Eventos Culturais",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "4.1.7",
+              "nome": "Coordenacao de Psicologia, Mediacao e Justica Restaurativa",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.1.8",
+              "nome": "Museu Penitenciario",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "4.1.8.1",
+                  "nome": "Divisao de Documentacao e Acervo",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "4.1.8.2",
+                  "nome": "Divisao Cultural e de Memoria da Ilha Grande",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "4.2",
+          "nome": "Superintendencia de Recursos Humanos",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.2.1",
+              "nome": "Coordenacao de Comando e Controle de Pagamento",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "4.2.1.1",
+                  "nome": "Divisao de Direitos e Vantagens",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "4.2.1.2",
+                  "nome": "Divisao de Controle de Frequencia e Lotacao",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "4.2.1.3",
+                  "nome": "Divisao de Controle de Escalas",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "4.2.2",
+              "nome": "Coordenacao de Concursos e Selecao",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "4.2.2.1",
+                  "nome": "Divisao de Cadastro e Assentamentos Funcionais",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "4.2.2.2",
+                  "nome": "Divisao de Promocao Funcional",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "4.2.3",
+              "nome": "Coordenacao de Saude Ocupacional",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "4.2.3.1",
+                  "nome": "Divisao de Atendimento ao Servidor Aposentado",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "4.2.3.2",
+                  "nome": "Creche Tuta Massot Kress",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "4.3",
+          "nome": "Superintendencia de Tecnologia da Informacao",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "4.3.1",
+              "nome": "Coordenacao de Manutencao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.3.2",
+              "nome": "Coordenacao de Telecomunicacao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.3.3",
+              "nome": "Coordenacao de Rede de Computadores",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.3.4",
+              "nome": "Coordenacao de Desenvolvimento",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.3.5",
+              "nome": "Coordenacao Administrativa de TI",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "4.3.6",
+              "nome": "Coordenacao de Radiofonia",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "5",
+      "nome": "Subsecretaria de Gestao Operacional",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "5.1",
+          "nome": "Superintendencia de Execucao Penal",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "5.1.1",
+              "nome": "Coordenacao Administrativa de Execucao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "5.1.2",
+              "nome": "Coordenacao de Informacao Juridica",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "5.1.3",
+              "nome": "Coordenacao de Cadastro Juridico",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "5.1.4",
+              "nome": "Coordenacao de Registro e Movimentacao de Efetivo Carcerario",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "5.1.5",
+              "nome": "Coordenacao de Analise de Sentenca",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "5.2",
+          "nome": "Superintendencia Operacional",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "5.2.1",
+              "nome": "Coordenacao de Gestao de Logistica de Armamentos e Municoes",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "5.2.2",
+              "nome": "Coordenacao de Seguranca",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "5.2.2.1",
+                  "nome": "Divisao de Administracao de Seguranca",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.2.2",
+                  "nome": "Grupamento de Intervencao Tatica",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "5.2.2.2.1",
+                      "nome": "Servico de Operacoes com Caes",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "5.2.2.3",
+                  "nome": "Grupamento de Servico de Escolta",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.2.4",
+                  "nome": "Divisao de Recaptura",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.2.5",
+                  "nome": "Divisao de Recambiamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.2.6",
+                  "nome": "Centro de Comunicacao Penitenciaria",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.2.7",
+                  "nome": "Divisao de Apoio Operacional da Ilha Grande",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "5.2.3",
+              "nome": "Administracao do Complexo de Gericino",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "5.2.4",
+              "nome": "Coordenacao das Unidades Prisionais de Gericino",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "5.2.4.1",
+                  "nome": "Divisao de Administracao de Gericino",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "5.2.4.1.1",
+                      "nome": "Servico de Coleta e Estatistica",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "5.2.4.2",
+                  "nome": "Divisao Operacional de Gericino",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "5.2.4.2.1",
+                      "nome": "Grupamento do Servico de Seguranca Externa",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "5.2.4.2.2",
+                      "nome": "Grupamento de Portaria Unificada",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "5.2.4.3",
+                  "nome": "Instituto Penal Placido Sa Carvalho",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.4.4",
+                  "nome": "Presidio Alfredo Tranjan",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.4.5",
+                  "nome": "Penitenciaria Industrial Esmeraldino Bandeira",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.4.6",
+                  "nome": "Penitenciaria Laercio da Costa Pelegrino",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.4.7",
+                  "nome": "Penitenciaria Moniz Sodre",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.4.8",
+                  "nome": "Instituto Penal Vicente Piragibe",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.4.9",
+                  "nome": "Penitenciaria Dr. Serrano Neves",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.4.10",
+                  "nome": "Presidio Jonas Lopes de Carvalho",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.4.11",
+                  "nome": "Cadeia Publica Jorge Santana",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.4.12",
+                  "nome": "Presidio Pedro Melo da Silva",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.4.13",
+                  "nome": "Presidio Elizabeth Sa Rego",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.4.14",
+                  "nome": "Cadeia Publica Paulo Roberto Rocha",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.4.15",
+                  "nome": "Presidio Gabriel Ferreira Castilho",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.4.16",
+                  "nome": "Instituto Penal Benjamin de Moraes Filho",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.4.17",
+                  "nome": "Presidio Lemos Brito",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.4.18",
+                  "nome": "Presidio Pedrolino Werling de Oliveira",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.4.19",
+                  "nome": "Penitenciaria Bandeira Stampa",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.4.20",
+                  "nome": "Cadeia Publica Inspetor Jose Antonio da Costa Barros",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.4.21",
+                  "nome": "Presidio Nelson Hungria",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.4.22",
+                  "nome": "Cadeia Publica Joaquim Ferreira de Souza",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "5.2.5",
+              "nome": "Coordenacao de Unidades Prisionais do Grande Rio",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "5.2.5.1",
+                  "nome": "Divisao de Administracao do Grande Rio",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "5.2.5.1.1",
+                      "nome": "Servico de Coleta e Estatistica",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "5.2.5.1.2",
+                      "nome": "Servico de Manutencao e Conservacao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "5.2.5.2",
+                  "nome": "Divisao Operacional do Grande Rio",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "5.2.5.2.1",
+                      "nome": "Grupamento do Servico de Seguranca Externa",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "5.2.5.2.2",
+                      "nome": "Grupamento de Portaria Unificada",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "5.2.5.3",
+                  "nome": "Presidio Milton Dias Moreira",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.5.4",
+                  "nome": "Presidio Evaristo de Moraes",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.5.5",
+                  "nome": "Presidio Ary Franco",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.5.6",
+                  "nome": "Cadeia Publica Cotrin Neto",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.5.7",
+                  "nome": "Cadeia Publica Franz de Castro Holzwarth",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.5.8",
+                  "nome": "Casa do Albergado Crispim Ventino",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.5.9",
+                  "nome": "Instituto Penal Candido Mendes",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.5.10",
+                  "nome": "Presidio Joao Carlos da Silva",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.5.11",
+                  "nome": "Cadeia Publica Inspetor Luis Cesar Fernandes Bandeira Duarte",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.5.12",
+                  "nome": "Cadeia Publica de Rio Claro",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.5.13",
+                  "nome": "Presidio Jose Frederico Marques",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.5.14",
+                  "nome": "Cadeia Publica de Benfica",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "5.2.6",
+              "nome": "Coordenacao de Unidades Prisionais da Grande Niteroi",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "5.2.6.1",
+                  "nome": "Divisao de Administracao da Grande Niteroi",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "5.2.6.1.1",
+                      "nome": "Servico de Coleta e Estatistica",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "5.2.6.1.2",
+                      "nome": "Servico de Manutencao e Conservacao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "5.2.6.2",
+                  "nome": "Divisao Operacional da Grande Niteroi",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "5.2.6.2.1",
+                      "nome": "Grupamento do Servico de Seguranca Externa",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "5.2.6.2.2",
+                      "nome": "Grupamento de Portaria Unificada",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "5.2.6.3",
+                  "nome": "Colonia Agricola Marco Aurelio Vergas Tavares de Mattos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.6.4",
+                  "nome": "Instituto Penal Edgard Costa",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.6.5",
+                  "nome": "Unidade Prisional da Policia Militar",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.6.6",
+                  "nome": "Presidio Romeiro Neto",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.6.7",
+                  "nome": "Instituto Penal Ismael Pereira Sirieiro",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.6.8",
+                  "nome": "Instituto Penal Coronel PM Francisco Spargoli Rocha",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.6.9",
+                  "nome": "Cadeia Publica Helio Gomes",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.6.10",
+                  "nome": "Cadeia Publica de Mage",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.6.11",
+                  "nome": "Cadeia Publica Juiza de Direito Patricia Acioli",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.6.12",
+                  "nome": "Presidio ISAP Tiago Teles de Castro Domingues",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.6.13",
+                  "nome": "Cadeia Publica Constantino Cokotos",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "5.2.7",
+              "nome": "Coordenacao de Unidades Prisionais do Norte e Noroeste",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "5.2.7.1",
+                  "nome": "Divisao de Administracao do Norte e Noroeste",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "5.2.7.1.1",
+                      "nome": "Servico de Coleta e Estatistica",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "5.2.7.1.2",
+                      "nome": "Servico de Manutencao e Conservacao",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "5.2.7.2",
+                  "nome": "Divisao Operacional do Norte e Noroeste",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "5.2.7.2.1",
+                      "nome": "Grupamento do Servico de Seguranca Externa",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "5.2.7.2.2",
+                      "nome": "Grupamento de Portaria Unificada",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "5.2.7.3",
+                  "nome": "Presidio Carlos Tinoco da Fonseca",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.7.4",
+                  "nome": "Presidio Diomedes Vinhosa Muniz",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.7.5",
+                  "nome": "Presidio Dalton Crespo de Castro",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.7.6",
+                  "nome": "Cadeia Publica de Carmo",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "5.2.8",
+              "nome": "Coordenacao de Unidades Prisionais Femininas e Cidadania LGBT I",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "5.2.8.1",
+                  "nome": "Divisao de Administracao das Unidades Femininas",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "5.2.8.1.1",
+                      "nome": "Servico de Coleta e Estatistica",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "5.2.8.2",
+                  "nome": "Divisao de Apoio a Saude e Cidadania LGBTI",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.8.3",
+                  "nome": "Penitenciaria Talavera Bruce",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.8.4",
+                  "nome": "Instituto Penal Oscar Stevenson",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.8.5",
+                  "nome": "Presidio Nilza da Silva Santos",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.8.6",
+                  "nome": "Instituto Penal Santo Expedito",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "5.2.8.7",
+                  "nome": "Unidade Materno Infantil",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Entes Vinculados": [],
+  "Orgaos Colegiados": [
+    {
+      "nome": "Conselho Penitenciario do Estado do Rio de Janeiro",
+      "sigla": "CPERJ"
+    },
+    {
+      "nome": "Conselho Superior de Administracao",
+      "sigla": null
+    }
+  ],
+  "Comissoes": [],
+  "Fundos": []
+}

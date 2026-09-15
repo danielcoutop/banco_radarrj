@@ -1,0 +1,304 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DE GOVERNO E RELAÇÕES INSTITUCIONAIS",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "Gabinete do Secretario",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "1.1",
+          "nome": "Chefia de Gabinete",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.2",
+          "nome": "Assessoria Juridica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.3",
+          "nome": "Assessoria de Comunicacao",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.4",
+          "nome": "Unidade de Controle Interno",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.5",
+          "nome": "Corregedoria",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.6",
+          "nome": "Ouvidoria",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.7",
+          "nome": "Camara Metropolitana",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.8",
+          "nome": "Nucleo de Inteligencia e Estatistica dos Programas",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "2",
+      "nome": "Orgao Especifico Singular",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "2.1",
+          "nome": "Subsecretaria Executiva de Projetos e Modernizacao",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "2.2",
+          "nome": "Subsecretaria Geral",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.2.1",
+              "nome": "Superintendencia da Barreira Fiscal",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "2.2.1.1",
+                  "nome": "Coordenacao Operacional da Barreira Fiscal",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "2.2.1.2",
+                  "nome": "Coordenacao Administrativa da Barreira Fiscal",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "3",
+      "nome": "Orgao Especifico Singular",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "3.1",
+          "nome": "Subsecretaria de Acoes Estrategicas",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.1.1",
+              "nome": "Nucleo de Treinamento",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.1.2",
+              "nome": "Superintendencia da Lei Seca",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.1.2.1",
+                  "nome": "Coordenacao Operacional da Lei Seca",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.1.2.2",
+                  "nome": "Coordenacao Administrativa da Lei Seca",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.1.2.3",
+                  "nome": "Coordenacao de Educacao",
+                  "sigla": null,
+                  "filhos": []
+                }
+              ]
+            },
+            {
+              "indice": "3.1.3",
+              "nome": "Superintendencia do Programa Seguranca Presente",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.1.3.1",
+                  "nome": "Coordenacao Operacional do Programa Seguranca Presente",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "3.1.3.1.1",
+                      "nome": "Divisao de Planejamento Operacional",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "3.1.3.1.2",
+                      "nome": "Divisao de Gestao e Controle Operacional",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                },
+                {
+                  "indice": "3.1.3.2",
+                  "nome": "Coordenacao Administrativa do Programa Seguranca Presente",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "3.1.3.2.1",
+                      "nome": "Divisao de Suprimentos e Manutencao",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "3.1.3.2.2",
+                      "nome": "Divisao de Apoio Administrativo",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "3.1.3.2.3",
+                      "nome": "Divisao de Pessoal",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indice": "3.2",
+          "nome": "Subsecretaria de Gestao Administrativa",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.2.1",
+              "nome": "Assessoria de Tecnologia da Informacao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.2.2",
+              "nome": "Coordenacao Integrada de Transporte e Manutencao",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.2.3",
+              "nome": "Diretoria Geral de Administracao e Financas",
+              "sigla": null,
+              "filhos": [
+                {
+                  "indice": "3.2.3.1",
+                  "nome": "Coordenacao Financeira",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.2.3.2",
+                  "nome": "Coordenacao de Planejamento",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.2.3.3",
+                  "nome": "Coordenacao de Contabilidade",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.2.3.4",
+                  "nome": "Coordenacao de Contratos e Compras",
+                  "sigla": null,
+                  "filhos": []
+                },
+                {
+                  "indice": "3.2.3.5",
+                  "nome": "Coordenacao Administrativa",
+                  "sigla": null,
+                  "filhos": [
+                    {
+                      "indice": "3.2.3.5.1",
+                      "nome": "Divisao de Almoxarifado Integrado e Patrimonio",
+                      "sigla": null,
+                      "filhos": []
+                    },
+                    {
+                      "indice": "3.2.3.5.2",
+                      "nome": "Divisao de Apoio Administrativo",
+                      "sigla": null,
+                      "filhos": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "indice": "3.2.4",
+              "nome": "Superintendencia de Recursos Humanos",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "3.3",
+          "nome": "Subsecretaria de Relacoes Institucionais",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "3.4",
+          "nome": "Subsecretaria do Programa Comunidade Cidade",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    }
+  ],
+  "Entes Vinculados": [
+    {
+      "nome": "Conselho Consultivo para o Desenvolvimento da Baixada Fluminense",
+      "sigla": null
+    },
+    {
+      "nome": "Conselho Estadual de Politica Urbana",
+      "sigla": "CONEPURB"
+    },
+    {
+      "nome": "Fundo de Programas e Projetos Prioritarios",
+      "sigla": "FPPP"
+    },
+    {
+      "nome": "Fundo de Desenvolvimento Metropolitano",
+      "sigla": "FDM"
+    }
+  ],
+  "Orgaos Colegiados": [],
+  "Comissoes": [],
+  "Fundos": []
+}

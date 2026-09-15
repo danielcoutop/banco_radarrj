@@ -1,0 +1,97 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DE EDUCAÇÃO",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "Gabinete do Secretario",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "1.1",
+          "nome": "Chefia de Gabinete",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.1.1",
+              "nome": "Assessoria Tecnica de Cargos em Comissao e Funcoes Gratificadas",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.2",
+          "nome": "Assessoria Juridica",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.3",
+          "nome": "Assessoria de Comunicacao",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.4",
+          "nome": "Ouvidoria Geral",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.5",
+          "nome": "Assessoria de Controle Interno",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.6",
+          "nome": "Corregedoria Interna",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.7",
+          "nome": "Assessoria de Relacionamento das Escolas",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.8",
+          "nome": "Superintendencia Tecnica de Infraestrutura e Logistica",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.8.1",
+              "nome": "Assessoria Administrativa",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.8.2",
+              "nome": "Coordenadoria de Engenharia e Avaliacao Imobiliaria",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.8.3",
+              "nome": "Coordenadoria Financeira de Alugueis e Concessionarias",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.9",
+          "nome": "Assessoria U NIVER SEEDUC",
+          "sigla": null,
+          "filhos": []
+        }
+      ]
+    }
+  ],
+  "Entes Vinculados": [],
+  "Orgaos Colegiados": [],
+  "Comissoes": [],
+  "Fundos": []
+}

@@ -1,0 +1,322 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DE GOVERNO",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "Gabinete do Secretario",
+      "sigla": "GABSEC",
+      "filhos": [
+        {
+          "indice": "1.1",
+          "nome": "Chefia de Gabinete",
+          "sigla": "CHEGAB",
+          "filhos": [
+            {
+              "indice": "1.1.1",
+              "nome": "Assessoria Tecnica",
+              "sigla": "ASSTEC",
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.2",
+          "nome": "Assessoria Especial",
+          "sigla": "ASSESP",
+          "filhos": []
+        },
+        {
+          "indice": "1.3",
+          "nome": "Assessoria de Comunicacao",
+          "sigla": "ASSCOM",
+          "filhos": []
+        },
+        {
+          "indice": "1.4",
+          "nome": "Assessoria Juridica",
+          "sigla": "ASSJUR",
+          "filhos": []
+        },
+        {
+          "indice": "1.5",
+          "nome": "Assessoria de Relacoes Institucionais",
+          "sigla": "ASSREL",
+          "filhos": []
+        },
+        {
+          "indice": "1.6",
+          "nome": "Assessoria de Planejamento e Orcamento",
+          "sigla": "ASSPLO",
+          "filhos": []
+        },
+        {
+          "indice": "1.7",
+          "nome": "Assessoria de Controle Interno",
+          "sigla": "ASSCOI",
+          "filhos": []
+        },
+        {
+          "indice": "1.8",
+          "nome": "Corregedoria",
+          "sigla": "CORREG",
+          "filhos": []
+        },
+        {
+          "indice": "1.9",
+          "nome": "Ouvidoria",
+          "sigla": "OUVI",
+          "filhos": []
+        },
+        {
+          "indice": "1.10",
+          "nome": "Nucleo de Inteligencia",
+          "sigla": "NUCINT",
+          "filhos": []
+        },
+        {
+          "indice": "1.11",
+          "nome": "Diretoria de Gestao Administrativa",
+          "sigla": "DIRADI",
+          "filhos": [
+            {
+              "indice": "1.11.1",
+              "nome": "Coordenadoria de Compras",
+              "sigla": "COOCOP",
+              "filhos": []
+            },
+            {
+              "indice": "1.11.2",
+              "nome": "Coordenadoria de Contratos",
+              "sigla": "COOCON",
+              "filhos": []
+            },
+            {
+              "indice": "1.11.3",
+              "nome": "Coordenadoria de Infraestrutura e Manutencao",
+              "sigla": "COOINF",
+              "filhos": []
+            },
+            {
+              "indice": "1.11.4",
+              "nome": "Coordenadoria de Tecnologia da Informacao",
+              "sigla": "COOTIC",
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.12",
+          "nome": "Diretoria de Gestao Financeira",
+          "sigla": "DIRGEF",
+          "filhos": [
+            {
+              "indice": "1.12.1",
+              "nome": "Coordenadoria Financeira",
+              "sigla": "COOFIN",
+              "filhos": []
+            },
+            {
+              "indice": "1.12.2",
+              "nome": "Coordenadoria de Gestao de Pessoas",
+              "sigla": "COOGEP",
+              "filhos": []
+            },
+            {
+              "indice": "1.12.3",
+              "nome": "Coordenadoria de Almoxarifado e Patrimonio",
+              "sigla": "COOPAT",
+              "filhos": []
+            },
+            {
+              "indice": "1.12.4",
+              "nome": "Coordenadoria de Contabilidade e Prestacao de Contas",
+              "sigla": "COOTAB",
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "2",
+      "nome": "Subsecretaria Executiva",
+      "sigla": "SUBEXE",
+      "filhos": [
+        {
+          "indice": "2.1",
+          "nome": "Assessoria Tecnica Executiva",
+          "sigla": "ASSTEX",
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "indice": "3",
+      "nome": "Subsecretaria de Parcerias e Projetos Estrategicos",
+      "sigla": "SUBPRO",
+      "filhos": [
+        {
+          "indice": "3.1",
+          "nome": "Superintendencia de Parceria e Projetos Estrategicos",
+          "sigla": "SUPPAR",
+          "filhos": [
+            {
+              "indice": "3.1.1",
+              "nome": "Coordenadoria de Projetos Estrategicos",
+              "sigla": "COOPRO",
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "4",
+      "nome": "Subsecretaria de Projetos Especiais",
+      "sigla": "SUBESP",
+      "filhos": [
+        {
+          "indice": "4.1",
+          "nome": "Superintendencia da Operacao Seguranca Presente",
+          "sigla": "SUPOSP",
+          "filhos": [
+            {
+              "indice": "4.1.1",
+              "nome": "Coordenadoria Operacional",
+              "sigla": "COOPER",
+              "filhos": []
+            },
+            {
+              "indice": "4.1.2",
+              "nome": "Coordenadoria de Logistica",
+              "sigla": "COOLOG",
+              "filhos": []
+            },
+            {
+              "indice": "4.1.3",
+              "nome": "Coordenadoria Administrativa",
+              "sigla": "COOADM",
+              "filhos": []
+            },
+            {
+              "indice": "4.1.4",
+              "nome": "Coordenadoria de Capacitacao Continuada",
+              "sigla": "COOCAP",
+              "filhos": []
+            },
+            {
+              "indice": "4.1.5",
+              "nome": "Coordenadoria de Assuntos Estrategicos",
+              "sigla": "COOEST",
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "4.2",
+          "nome": "Superintendencia da Operacao Lei Seca",
+          "sigla": "SUPOLS",
+          "filhos": [
+            {
+              "indice": "4.2.1",
+              "nome": "Coordenadoria Operacional",
+              "sigla": "COOLOP",
+              "filhos": []
+            },
+            {
+              "indice": "4.2.2",
+              "nome": "Coordenadoria Administrativa",
+              "sigla": "COOLAD",
+              "filhos": []
+            },
+            {
+              "indice": "4.2.3",
+              "nome": "Coordenadoria de Educacao",
+              "sigla": "COOLED",
+              "filhos": []
+            },
+            {
+              "indice": "4.2.4",
+              "nome": "Coordenadoria de Logistica",
+              "sigla": "COOLLO",
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "5",
+      "nome": "Subsecretaria d e Articulacao Legislativa e Municipal",
+      "sigla": "SUBLEG",
+      "filhos": [
+        {
+          "indice": "5.1",
+          "nome": "Superintendencia de Articulacao Municipal",
+          "sigla": "SUPART",
+          "filhos": [
+            {
+              "indice": "5.1.1",
+              "nome": "Coordenadoria de Articulacao Legislativa",
+              "sigla": "COOART",
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "6",
+      "nome": "Subsecretaria de Relacoes Governamentais",
+      "sigla": "SUBREL",
+      "filhos": [
+        {
+          "indice": "6.1",
+          "nome": "Assessoria Tecnica de Relacoes Governamentais",
+          "sigla": "ASSREG",
+          "filhos": []
+        },
+        {
+          "indice": "6.2",
+          "nome": "Superintendencia do Programa RJ para Todos",
+          "sigla": "SUPERJ",
+          "filhos": [
+            {
+              "indice": "6.2.1",
+              "nome": "Coordenadoria Operacional",
+              "sigla": "COORJO",
+              "filhos": []
+            },
+            {
+              "indice": "6.2.2",
+              "nome": "Coordenadoria de Logistica",
+              "sigla": "COOLRJ",
+              "filhos": []
+            },
+            {
+              "indice": "6.2.3",
+              "nome": "Coordenadoria de Servico Social",
+              "sigla": "COOSRJ",
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Entes Vinculados": [
+    {
+      "nome": "Fundo Estadual de Financiamento da Operacao Seguranca Presente",
+      "sigla": "FEFOSP"
+    }
+  ],
+  "Orgaos Colegiados": [
+    {
+      "nome": "Conselho Diretor do Fundo Estadual de Financiamento da Operacao Seguranca Presente",
+      "sigla": "CDFEFOSP"
+    }
+  ],
+  "Comissoes": [],
+  "Fundos": []
+}

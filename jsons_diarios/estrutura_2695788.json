@@ -1,0 +1,298 @@
+{
+  "raiz": "1",
+  "secretaria": "SECRETARIA DE ESTADO DE EDUCAÇÃO",
+  "arvore": [
+    {
+      "indice": "1",
+      "nome": "Gabinete do Secretario",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "1.1",
+          "nome": "Chefia de Gabinete",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.1.1",
+              "nome": "Assessoria de Protocolo e Publicacao Oficial",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.2",
+          "nome": "Assessoria Tecnica de Cargos em Comissao e Funcoes Gratificadas",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.3",
+          "nome": "Assessoria Juridica",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.3.1",
+              "nome": "Nucleo de Acompanhamento de Licitacoes e Contratos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.3.2",
+              "nome": "Nucleo de Acompanhamento de Sindicancia, de Pessoal, de Ensino e de Acoes Estrategicas",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.3.3",
+              "nome": "Nucleo de Relacoes Institucionais",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.3.4",
+              "nome": "Nucleo de Protocolo, Apoio e Gestao Administrativa",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "1.4",
+          "nome": "Assessoria de Comunicacao",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.5",
+          "nome": "Ouvidoria Geral",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.6",
+          "nome": "Assessoria de Controle Interno",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.7",
+          "nome": "Corregedoria Interna",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.8",
+          "nome": "Assessoria de Relacionamento com Unidades Escolares",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.9",
+          "nome": "Assessoria de Relacoes Institucionais",
+          "sigla": null,
+          "filhos": []
+        },
+        {
+          "indice": "1.10",
+          "nome": "Assessoria de Inteligencia e Seguranca Escolar",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "1.10.1",
+              "nome": "Coordenadoria de Inteligencia",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "1.10.2",
+              "nome": "Coordenadoria de Contrainteligencia",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "2",
+      "nome": "Orgaos Especificos Singulares",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "2.2.12",
+          "nome": "Diretoria Regional Administrativa- Norte Fluminense I",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.2.12.1",
+              "nome": "Coordenadoria Regional de Infraestrutura e Servicos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.12.2",
+              "nome": "Coordenadoria Regional de Gestao Financeira",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.12.3",
+              "nome": "Coordenadoria Regional de Gestao de Pessoas",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.12.4",
+              "nome": "Coordenadoria Regional de Inspecao Escolar",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "2.2.13",
+          "nome": "Diretoria Regional Administrativa - Norte Fluminense II",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.2.13.1",
+              "nome": "Coordenadoria Regional de Infraestrutura e Servicos",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.13.2",
+              "nome": "Coordenadoria Regional de Gestao Financeira",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.13.3",
+              "nome": "Coordenadoria Regional de Gestao de Pessoas",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.2.13.4",
+              "nome": "Coordenadoria Regional de Inspecao Escolar",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "2.4",
+          "nome": "Superintendencia Tecnica de Infraestrutura e Logistica",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "2.4.1",
+              "nome": "Coordenadoria de Apoio a Infraestrutura Escolar",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.4.2",
+              "nome": "Coordenadoria de Engenharia e Avaliacao Imobiliaria",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.4.3",
+              "nome": "Coordenadoria Financeira de Alugueis e Concessionarias",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.4.4",
+              "nome": "Coordenadoria de Bens Patrimoniais",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "2.4.5",
+              "nome": "Coordenadoria de Documentacao e Arquivo",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "indice": "3",
+      "nome": "Orgaos Especificos Singulares",
+      "sigla": null,
+      "filhos": [
+        {
+          "indice": "3.4.12",
+          "nome": "Diretoria Regional Pedagogica - Norte Fluminense I",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.4.12.1",
+              "nome": "Coordenadoria de Ensino",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.4.12.2",
+              "nome": "Coordenadoria de Gestao e Integracao da Rede",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.4.12.3",
+              "nome": "Coordenadoria de Avaliacao e Acompanhamento",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        },
+        {
+          "indice": "3.4.13",
+          "nome": "Diretoria Regional Pedagogica - Norte Fluminense II",
+          "sigla": null,
+          "filhos": [
+            {
+              "indice": "3.4.13.1",
+              "nome": "Coordenadoria de Ensino",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.4.13.2",
+              "nome": "Coordenadoria de Gestao e Integracao da Rede",
+              "sigla": null,
+              "filhos": []
+            },
+            {
+              "indice": "3.4.13.3",
+              "nome": "Coordenadoria de Avaliacao e Acompanhamento",
+              "sigla": null,
+              "filhos": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Entes Vinculados": [],
+  "Orgaos Colegiados": [
+    {
+      "nome": "Conselho Estadual de Alimentacao Escolar",
+      "sigla": "CEAE"
+    },
+    {
+      "nome": "Conselho Estadual de Educacao Indigena",
+      "sigla": "CEEI"
+    },
+    {
+      "nome": "Conselho de Acompanhamento e Controle Social do Fundo de Manutencao e Desenvolvimento da Educacao Basica e da Valorizacao dos Profissionais da Educacao do Estado do Rio de Janeiro",
+      "sigla": "CACS-FUNDEB"
+    }
+  ],
+  "Comissoes": [],
+  "Fundos": []
+}
